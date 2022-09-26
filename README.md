@@ -60,9 +60,9 @@ I looked at the distributions of the data and the value counts for the various c
 First, I transformed the categorical variables into dummy variables. I also split the data into train and tests sets with a test size of 10%.   
 
 I tried five different models and evaluated them using Mean Absolute Error. I find disicion tree model get the smallest MAE.
-MAE: 59748.96
-RMSE: 148952.70
-R2 score: 0.89
+* MAE: 59748.96
+* RMSE: 148952.70
+* R2 score: 0.89
 
 The model we chose has very little tendency to overfitting, but we think it can be tolerated within normal reasonable limits.
 
