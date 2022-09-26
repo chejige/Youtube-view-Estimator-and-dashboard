@@ -1,6 +1,6 @@
-# Youtube view Estimator: Project Overview 
+# YouTube view Estimator: Project Overview 
 * The main aim of this object is to created a tool that estimates video viewers on channel 'StatQuest with Josh Starmer'. This is a good channel for data science self-leaner. So I am interested to done some dashboard shown and prediction based on the videos in this channel.
-* Scraped all the videos from this channel using youtube API. Using tow other yoube API to get more features for each video.
+* Scraped all the videos from this channel using youtube API. Using two other yoube API to get more features for each video.
 * Importing the datas to sql database (SQLite) and join tables to prepare the dataframe for prediction. 
 * Preprocessing the data, do the EDA and then processing the data.
 * Fit the data with Linear, Ridge, Lasso, Desission tree, Random Forest Regressors to find the best model. 
