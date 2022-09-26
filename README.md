@@ -2,7 +2,7 @@
 * The main aim of this object is to created a tool that estimates video viewers on channel 'StatQuest with Josh Starmer'. This is a good channel for data science self-leaner. So I am interested to done some dashboard shown and prediction based on the videos in this channel.
 * Scraped all the videos from this channel using youtube API. Using tow other yoube API to get more features for each video.
 * Importing the datas to sql database (SQLite) and join tables to prepare the dataframe for prediction. 
-* Prepressing the data, do the EDA and then processing the data.
+* Preprocessing the data, do the EDA and then processing the data.
 * Fit the data with Linear, Ridge, Lasso, Desission tree, Random Forest Regressors to find the best model. 
 
 ## Code and Resources Used 
@@ -30,7 +30,7 @@ With each video, we got the following:
 * Add sidebar with selectbox shows Individual Video Analysis and data anylysis.
 In 'data anylysis', show total view, total video and avarage view. Display the detail of top 10 like videos Shows the view and like in recent 1 year.
 In 'Individual Video Analysis', add a select box to choose from the video title list. And then display the details for the selected video.
-![alt text](https://github.com/chejige/Youtube-view-Estimator-and-dashboard/blob/main/youtube_dashboard_v2%20%C2%B7%20Streamlit.mhtml)
+![alt text](https://github.com/chejige/Youtube-view-Estimator-and-dashboard/blob/main/data%20analysis.jpg)
 ![alt text](https://github.com/chejige/Youtube-view-Estimator-and-dashboard/blob/main/Individual%20video.jpg)
 
 ## Data import to database
