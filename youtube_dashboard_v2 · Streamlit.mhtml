@@ -1,0 +1,3578 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost:8501/
+Subject: =?utf-8?Q?youtube_dashboard_v2=20=C2=B7=20Streamlit?=
+Date: Mon, 26 Sep 2022 06:33:32 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--ADeft7S5ifuauBldyS7o1JZMVvW2ahoqR2WROf3jcA----"
+
+
+------MultipartBoundary--ADeft7S5ifuauBldyS7o1JZMVvW2ahoqR2WROf3jcA----
+Content-Type: text/html
+Content-ID: <frame-E20EE4E385E1AB5131A7A42877AC3CEE@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://localhost:8501/
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-4b979924-73dc-4a05-8182-e7ce1da6ef07@mhtml.blink" /><l=
+ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-192dbd3f-e25a-4919=
+-a472-77e9eb5cd79c@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css=
+" href=3D"cid:css-a27507b0-f9b3-4b55-98d7-691a2fdd75a0@mhtml.blink" /><link=
+ rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-a055a670-abe0-45af-ac=
+31-dfefe664d981@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" h=
+ref=3D"cid:css-f4299ceb-37c0-4016-aae0-f505ec30df8a@mhtml.blink" /><link re=
+l=3D"stylesheet" type=3D"text/css" href=3D"cid:css-6bdaf859-f1f2-4c17-b5d4-=
+6295a31a8622@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-b7cb9350-f3ac-461e-a95b-554efc6ef6c5@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-2bb4f624-f9fe-46c3-971d-a=
+97f11a0c590@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-bed4ef03-fbe4-451f-b719-1c344e1516b4@mhtml.blink" /><meta name=
+=3D"viewport" content=3D"width=3Ddevice-width,initial-scale=3D1,shrink-to-f=
+it=3Dno"><link rel=3D"shortcut icon" href=3D"http://localhost:8501/favicon.=
+png"><title>youtube_dashboard_v2 =C2=B7 Streamlit</title><link href=3D"http=
+://localhost:8501/static/css/5.71be5c0a.chunk.css" rel=3D"stylesheet"><link=
+ href=3D"http://localhost:8501/static/css/main.b46f6fce.chunk.css" rel=3D"s=
+tylesheet"></head><body><div id=3D"root"><div class=3D""><div class=3D"with=
+Screencast"><div tabindex=3D"-1"><div class=3D"stApp css-fg4pbf eczokvf1"><=
+header tabindex=3D"-1" data-testid=3D"stHeader" class=3D"css-18ni7ap e8zbic=
+i2"><div data-testid=3D"stDecoration" class=3D"css-1dp5vir e8zbici1"></div>=
+<div data-testid=3D"stToolbar" class=3D"css-14xtw13 e8zbici0"><span id=3D"M=
+ainMenu" aria-haspopup=3D"true" aria-expanded=3D"false"><button kind=3D"hea=
+der" class=3D"css-9s5bis edgvbvh3"><svg viewBox=3D"0 0 24 24" aria-hidden=
+=3D"true" focusable=3D"false" fill=3D"currentColor" xmlns=3D"http://www.w3.=
+org/2000/svg" color=3D"inherit" class=3D"e1fb0mya1 css-fblp2m ex0cdmw0"><pa=
+th fill=3D"none" d=3D"M0 0h24v24H0V0z"></path><path d=3D"M3 18h18v-2H3v2zm0=
+-5h18v-2H3v2zm0-7v2h18V6H3z"></path></svg></button></span></div></header><d=
+iv class=3D"appview-container css-1wrcr25 egzxvld4" data-testid=3D"stAppVie=
+wContainer" data-layout=3D"narrow"><section class=3D"css-163ttbj e1fqkh3o11=
+" data-testid=3D"stSidebar" aria-expanded=3D"true" style=3D"position: relat=
+ive; user-select: auto; width: 244px; height: 100%; box-sizing: border-box;=
+ flex-shrink: 0;"><div class=3D"css-1ope8sv e1fqkh3o4"><div class=3D"css-1x=
+toq5p e1fqkh3o3"><button kind=3D"header" class=3D"css-9s5bis edgvbvh3"><svg=
+ viewBox=3D"0 0 24 24" aria-hidden=3D"true" focusable=3D"false" fill=3D"cur=
+rentColor" xmlns=3D"http://www.w3.org/2000/svg" color=3D"inherit" class=3D"=
+e1fb0mya1 css-fblp2m ex0cdmw0"><path fill=3D"none" d=3D"M0 0h24v24H0V0z"></=
+path><path d=3D"M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.=
+41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"></path></svg></button><=
+/div><div class=3D"css-hxt7ib e1fqkh3o5"><div class=3D"block-container css-=
+128j0gw egzxvld2" style=3D"position: relative;"><div style=3D"overflow: vis=
+ible; width: 0px; display: flex; flex-direction: column; flex: 1 1 0%;"><di=
+v width=3D"212" data-testid=3D"stVerticalBlock" class=3D"css-5m2qup e1tzin5=
+v0"><div data-stale=3D"false" width=3D"212" class=3D"element-container css-=
+1vtvmlg e1tzin5v3"><div class=3D"row-widget stSelectbox" style=3D"width: 21=
+2px;"><label class=3D"css-15tx938 effi0qh3">Aggregate or Individual Video</=
+label><div data-baseweb=3D"select" aria-haspopup=3D"true" aria-expanded=3D"=
+false" class=3D"st-ae st-af st-ag st-bc st-ai st-aj st-bd st-be st-b7"><div=
+ class=3D"st-av st-aw st-ax st-ay st-bd st-bf st-b7 st-b4 st-b5 st-bg st-bh=
+ st-bi st-bj st-bk st-bl st-bm st-bn st-bo st-bp st-b2 st-bq st-br st-bs st=
+-bt st-bu st-bv st-bw"><div class=3D"st-bd st-be st-bx st-by st-bz st-b4 st=
+-c0 st-c1 st-bf st-c2 st-c3 st-c4 st-c5"><div aria-selected=3D"true" value=
+=3D"1" class=3D"st-c6 st-bd st-c7 st-c8 st-c9 st-bf st-ca st-cb st-cc">data=
+ anylysis</div><div class=3D"st-be st-cd st-c9 st-ce st-cf st-cg st-ch st-c=
+i st-az st-bd st-cj st-as st-at st-c7 st-ck st-cl st-cm st-cn st-co st-am s=
+t-cp"><input aria-autocomplete=3D"list" aria-expanded=3D"false" aria-haspop=
+up=3D"listbox" aria-label=3D"Selected data anylysis. " role=3D"combobox" ta=
+bindex=3D"0" class=3D"st-ae st-af st-ag st-bc st-ai st-aj st-br st-cq st-dc=
+ st-c9 st-cs st-cf st-cg st-ch st-ci st-az st-cd st-cj st-as st-at st-ct st=
+-ck st-cl st-cm st-cn st-co" value=3D"" aria-activedescendant=3D"bui-7"><di=
+v class=3D"st-ae st-af st-ag st-bc st-ai st-aj st-cu st-cv st-cw st-cx st-c=
+y st-cz st-d0"></div></div></div><div class=3D"st-bd st-be st-b4 st-d1 st-c=
+0 st-d2 st-c5"><svg data-baseweb=3D"icon" title=3D"open" viewBox=3D"0 0 24 =
+24" class=3D"st-cd st-d3 st-br st-d4 st-d5 st-d6"><title>open</title><path =
+d=3D"M12.7071 15.2929L17.1464 10.8536C17.4614 10.5386 17.2383 10 16.7929 10=
+L7.20711 10C6.76165 10 6.53857 10.5386 6.85355 10.8536L11.2929 15.2929C11.6=
+834 15.6834 12.3166 15.6834 12.7071 15.2929Z"></path></svg></div></div></di=
+v></div></div></div></div><div class=3D"resize-triggers"><div class=3D"expa=
+nd-trigger"><div style=3D"width: 213px; height: 73px;"></div></div><div cla=
+ss=3D"contract-trigger"></div></div></div></div></div><div><div class=3D"" =
+style=3D"position: absolute; user-select: none; width: 10px; height: 100%; =
+top: 0px; cursor: col-resize; right: -5px;"><div class=3D"css-c7mxfv e1fqkh=
+3o1"></div><div class=3D"css-1tjocig e1fqkh3o0"></div></div></div></section=
+><section tabindex=3D"0" class=3D"main css-k1vhr4 egzxvld3"><div class=3D"b=
+lock-container css-12oz5g7 egzxvld2" style=3D"position: relative;"><div sty=
+le=3D"overflow: visible; width: 0px; display: flex; flex-direction: column;=
+ flex: 1 1 0%;"><div width=3D"704" data-testid=3D"stVerticalBlock" class=3D=
+"css-1n76uvr e1tzin5v0"><div data-stale=3D"false" width=3D"704" class=3D"el=
+ement-container css-1hynsf2 e1tzin5v3"><div class=3D"stMarkdown" style=3D"w=
+idth: 704px;"><div data-testid=3D"stMarkdownContainer" class=3D"css-1offfwp=
+ e16nr0p33"><p>'StatQuest with Josh Starmer' youtube channel data analysis<=
+/p></div></div></div><div data-stale=3D"false" width=3D"704" class=3D"eleme=
+nt-container css-1hynsf2 e1tzin5v3"><div class=3D"stMarkdown" style=3D"widt=
+h: 704px;"><div data-testid=3D"stMarkdownContainer" class=3D"css-1offfwp e1=
+6nr0p33"><p>Updated until:  <code>2022-09-20 00:00:00</code></p></div></div=
+></div><div data-testid=3D"stHorizontalBlock" class=3D"css-ocqkz7 e1tzin5v4=
+"><div data-testid=3D"column" class=3D"css-1r6slb0 e1tzin5v2" style=3D"posi=
+tion: relative;"><div style=3D"overflow: visible; width: 0px; display: flex=
+; flex-direction: column; flex: 1 1 0%;"><div width=3D"224" data-testid=3D"=
+stVerticalBlock" class=3D"css-1788y8l e1tzin5v0"><div data-stale=3D"false" =
+width=3D"224" class=3D"element-container css-zvqkad e1tzin5v3"><div data-te=
+stid=3D"metric-container"><label data-testid=3D"stMetricLabel" class=3D"css=
+-1xvmym8 e16fv1kl2"><div class=3D"css-50ug3q e16fv1kl3">Total viewer</div><=
+/label><div data-testid=3D"stMetricValue" class=3D"css-1xarl3l e16fv1kl1"><=
+div class=3D"css-50ug3q e16fv1kl3"> 40949053 </div></div></div></div></div>=
+</div><div class=3D"resize-triggers"><div class=3D"expand-trigger"><div sty=
+le=3D"width: 225px; height: 74px;"></div></div><div class=3D"contract-trigg=
+er"></div></div></div><div data-testid=3D"column" class=3D"css-1r6slb0 e1tz=
+in5v2" style=3D"position: relative;"><div style=3D"overflow: visible; width=
+: 0px; display: flex; flex-direction: column; flex: 1 1 0%;"><div width=3D"=
+224" data-testid=3D"stVerticalBlock" class=3D"css-1788y8l e1tzin5v0"><div d=
+ata-stale=3D"false" width=3D"224" class=3D"element-container css-zvqkad e1t=
+zin5v3"><div data-testid=3D"metric-container"><label data-testid=3D"stMetri=
+cLabel" class=3D"css-1xvmym8 e16fv1kl2"><div class=3D"css-50ug3q e16fv1kl3"=
+>Total videos</div></label><div data-testid=3D"stMetricValue" class=3D"css-=
+1xarl3l e16fv1kl1"><div class=3D"css-50ug3q e16fv1kl3"> 221 </div></div></d=
+iv></div></div></div><div class=3D"resize-triggers"><div class=3D"expand-tr=
+igger"><div style=3D"width: 225px; height: 74px;"></div></div><div class=3D=
+"contract-trigger"></div></div></div><div data-testid=3D"column" class=3D"c=
+ss-1r6slb0 e1tzin5v2" style=3D"position: relative;"><div style=3D"overflow:=
+ visible; width: 0px; display: flex; flex-direction: column; flex: 1 1 0%;"=
+><div width=3D"224" data-testid=3D"stVerticalBlock" class=3D"css-1788y8l e1=
+tzin5v0"><div data-stale=3D"false" width=3D"224" class=3D"element-container=
+ css-zvqkad e1tzin5v3"><div data-testid=3D"metric-container"><label data-te=
+stid=3D"stMetricLabel" class=3D"css-1xvmym8 e16fv1kl2"><div class=3D"css-50=
+ug3q e16fv1kl3">Average viewers</div></label><div data-testid=3D"stMetricVa=
+lue" class=3D"css-1xarl3l e16fv1kl1"><div class=3D"css-50ug3q e16fv1kl3"> 1=
+85289.8 </div></div></div></div></div></div><div class=3D"resize-triggers">=
+<div class=3D"expand-trigger"><div style=3D"width: 225px; height: 74px;"></=
+div></div><div class=3D"contract-trigger"></div></div></div></div><div data=
+-stale=3D"false" width=3D"704" class=3D"element-container css-1hynsf2 e1tzi=
+n5v3"><div class=3D"stMarkdown" style=3D"width: 704px;"><div data-testid=3D=
+"stMarkdownContainer" class=3D"css-1offfwp e16nr0p33"><p>Top 10 like videos=
+:</p></div></div></div><div data-stale=3D"false" width=3D"704" class=3D"ele=
+ment-container css-1hynsf2 e1tzin5v3"><div class=3D"css-1a32fsj e19lei0e0">=
+<button title=3D"View fullscreen" class=3D"css-6awftf e19lei0e1"><svg viewB=
+ox=3D"0 0 8 8" aria-hidden=3D"true" focusable=3D"false" fill=3D"currentColo=
+r" xmlns=3D"http://www.w3.org/2000/svg" color=3D"inherit" class=3D"e1fb0mya=
+1 css-1pxazr7 ex0cdmw0"><path d=3D"M0 0v4l1.5-1.5L3 4l1-1-1.5-1.5L4 0H0zm5 =
+4L4 5l1.5 1.5L4 8h4V4L6.5 5.5 5 4z"></path></svg></button><div class=3D"sc-=
+iqcoie iCVYxr stDataFrame" width=3D"704" height=3D"388"><div class=3D"sc-kD=
+DrLX EjRcH"><div><div style=3D"overflow: visible; height: 0px; width: 0px;"=
+><div class=3D"sc-papXJ fOdajs"><div class=3D"dvn-underlay"><canvas data-te=
+stid=3D"data-grid-canvas" tabindex=3D"0" width=3D"1404" height=3D"772" styl=
+e=3D"contain: strict; display: block; cursor: default; width: 702px; height=
+: 386px;"><table role=3D"grid" aria-rowcount=3D"11" aria-multiselectable=3D=
+"true" aria-colcount=3D"9"><thead role=3D"rowgroup"><tr role=3D"row" aria-r=
+owindex=3D"1"><th role=3D"columnheader" aria-selected=3D"false" aria-colind=
+ex=3D"1" tabindex=3D"-1"></th><th role=3D"columnheader" aria-selected=3D"fa=
+lse" aria-colindex=3D"2" tabindex=3D"-1">Title</th><th role=3D"columnheader=
+" aria-selected=3D"false" aria-colindex=3D"3" tabindex=3D"-1">Publish_date<=
+/th><th role=3D"columnheader" aria-selected=3D"false" aria-colindex=3D"4" t=
+abindex=3D"-1">viewer_count</th><th role=3D"columnheader" aria-selected=3D"=
+false" aria-colindex=3D"5" tabindex=3D"-1">like_count</th></tr></thead><tbo=
+dy role=3D"rowgroup"><tr role=3D"row" aria-selected=3D"false" aria-rowindex=
+=3D"2"><td role=3D"gridcell" aria-colindex=3D"1" aria-selected=3D"false" ar=
+ia-readonly=3D"true" id=3D"glide-cell-0-0" data-testid=3D"glide-cell-0-0" t=
+abindex=3D"-1">132</td><td role=3D"gridcell" aria-colindex=3D"2" aria-selec=
+ted=3D"false" aria-readonly=3D"true" id=3D"glide-cell-1-0" data-testid=3D"g=
+lide-cell-1-0" tabindex=3D"-1">StatQuest: Principal Component Analysis (PCA=
+), Step-by-Step</td><td role=3D"gridcell" aria-colindex=3D"3" aria-selected=
+=3D"false" aria-readonly=3D"true" id=3D"glide-cell-2-0" data-testid=3D"glid=
+e-cell-2-0" tabindex=3D"-1">2018-04-02T00:00:00</td><td role=3D"gridcell" a=
+ria-colindex=3D"4" aria-selected=3D"false" aria-readonly=3D"true" id=3D"gli=
+de-cell-3-0" data-testid=3D"glide-cell-3-0" tabindex=3D"-1">1968092</td><td=
+ role=3D"gridcell" aria-colindex=3D"5" aria-selected=3D"false" aria-readonl=
+y=3D"true" id=3D"glide-cell-4-0" data-testid=3D"glide-cell-4-0" tabindex=3D=
+"-1">41815</td></tr><tr role=3D"row" aria-selected=3D"false" aria-rowindex=
+=3D"3"><td role=3D"gridcell" aria-colindex=3D"1" aria-selected=3D"false" ar=
+ia-readonly=3D"true" id=3D"glide-cell-0-1" data-testid=3D"glide-cell-0-1" t=
+abindex=3D"-1">135</td><td role=3D"gridcell" aria-colindex=3D"2" aria-selec=
+ted=3D"false" aria-readonly=3D"true" id=3D"glide-cell-1-1" data-testid=3D"g=
+lide-cell-1-1" tabindex=3D"-1">StatQuest: Logistic Regression</td><td role=
+=3D"gridcell" aria-colindex=3D"3" aria-selected=3D"false" aria-readonly=3D"=
+true" id=3D"glide-cell-2-1" data-testid=3D"glide-cell-2-1" tabindex=3D"-1">=
+2018-03-05T00:00:00</td><td role=3D"gridcell" aria-colindex=3D"4" aria-sele=
+cted=3D"false" aria-readonly=3D"true" id=3D"glide-cell-3-1" data-testid=3D"=
+glide-cell-3-1" tabindex=3D"-1">1470718</td><td role=3D"gridcell" aria-coli=
+ndex=3D"5" aria-selected=3D"false" aria-readonly=3D"true" id=3D"glide-cell-=
+4-1" data-testid=3D"glide-cell-4-1" tabindex=3D"-1">27247</td></tr><tr role=
+=3D"row" aria-selected=3D"false" aria-rowindex=3D"4"><td role=3D"gridcell" =
+aria-colindex=3D"1" aria-selected=3D"false" aria-readonly=3D"true" id=3D"gl=
+ide-cell-0-2" data-testid=3D"glide-cell-0-2" tabindex=3D"-1">134</td><td ro=
+le=3D"gridcell" aria-colindex=3D"2" aria-selected=3D"false" aria-readonly=
+=3D"true" id=3D"glide-cell-1-2" data-testid=3D"glide-cell-1-2" tabindex=3D"=
+-1">Probability is not Likelihood. Find out why!!!</td><td role=3D"gridcell=
+" aria-colindex=3D"3" aria-selected=3D"false" aria-readonly=3D"true" id=3D"=
+glide-cell-2-2" data-testid=3D"glide-cell-2-2" tabindex=3D"-1">2018-03-09T0=
+0:00:00</td><td role=3D"gridcell" aria-colindex=3D"4" aria-selected=3D"fals=
+e" aria-readonly=3D"true" id=3D"glide-cell-3-2" data-testid=3D"glide-cell-3=
+-2" tabindex=3D"-1">1016850</td><td role=3D"gridcell" aria-colindex=3D"5" a=
+ria-selected=3D"false" aria-readonly=3D"true" id=3D"glide-cell-4-2" data-te=
+stid=3D"glide-cell-4-2" tabindex=3D"-1">27183</td></tr><tr role=3D"row" ari=
+a-selected=3D"false" aria-rowindex=3D"5"><td role=3D"gridcell" aria-colinde=
+x=3D"1" aria-selected=3D"false" aria-readonly=3D"true" id=3D"glide-cell-0-3=
+" data-testid=3D"glide-cell-0-3" tabindex=3D"-1">108</td><td role=3D"gridce=
+ll" aria-colindex=3D"2" aria-selected=3D"false" aria-readonly=3D"true" id=
+=3D"glide-cell-1-3" data-testid=3D"glide-cell-1-3" tabindex=3D"-1">Machine =
+Learning Fundamentals: Bias and Variance</td><td role=3D"gridcell" aria-col=
+index=3D"3" aria-selected=3D"false" aria-readonly=3D"true" id=3D"glide-cell=
+-2-3" data-testid=3D"glide-cell-2-3" tabindex=3D"-1">2018-09-17T00:00:00</t=
+d><td role=3D"gridcell" aria-colindex=3D"4" aria-selected=3D"false" aria-re=
+adonly=3D"true" id=3D"glide-cell-3-3" data-testid=3D"glide-cell-3-3" tabind=
+ex=3D"-1">863515</td><td role=3D"gridcell" aria-colindex=3D"5" aria-selecte=
+d=3D"false" aria-readonly=3D"true" id=3D"glide-cell-4-3" data-testid=3D"gli=
+de-cell-4-3" tabindex=3D"-1">25638</td></tr><tr role=3D"row" aria-selected=
+=3D"false" aria-rowindex=3D"6"><td role=3D"gridcell" aria-colindex=3D"1" ar=
+ia-selected=3D"false" aria-readonly=3D"true" id=3D"glide-cell-0-4" data-tes=
+tid=3D"glide-cell-0-4" tabindex=3D"-1">84</td><td role=3D"gridcell" aria-co=
+lindex=3D"2" aria-selected=3D"false" aria-readonly=3D"true" id=3D"glide-cel=
+l-1-4" data-testid=3D"glide-cell-1-4" tabindex=3D"-1">ROC and AUC, Clearly =
+Explained!</td><td role=3D"gridcell" aria-colindex=3D"3" aria-selected=3D"f=
+alse" aria-readonly=3D"true" id=3D"glide-cell-2-4" data-testid=3D"glide-cel=
+l-2-4" tabindex=3D"-1">2019-07-11T00:00:00</td><td role=3D"gridcell" aria-c=
+olindex=3D"4" aria-selected=3D"false" aria-readonly=3D"true" id=3D"glide-ce=
+ll-3-4" data-testid=3D"glide-cell-3-4" tabindex=3D"-1">957266</td><td role=
+=3D"gridcell" aria-colindex=3D"5" aria-selected=3D"false" aria-readonly=3D"=
+true" id=3D"glide-cell-4-4" data-testid=3D"glide-cell-4-4" tabindex=3D"-1">=
+24311</td></tr><tr role=3D"row" aria-selected=3D"false" aria-rowindex=3D"7"=
+><td role=3D"gridcell" aria-colindex=3D"1" aria-selected=3D"false" aria-rea=
+donly=3D"true" id=3D"glide-cell-0-5" data-testid=3D"glide-cell-0-5" tabinde=
+x=3D"-1">78</td><td role=3D"gridcell" aria-colindex=3D"2" aria-selected=3D"=
+false" aria-readonly=3D"true" id=3D"glide-cell-1-5" data-testid=3D"glide-ce=
+ll-1-5" tabindex=3D"-1">Support Vector Machines Part 1 (of 3): Main Ideas!!=
+!</td><td role=3D"gridcell" aria-colindex=3D"3" aria-selected=3D"false" ari=
+a-readonly=3D"true" id=3D"glide-cell-2-5" data-testid=3D"glide-cell-2-5" ta=
+bindex=3D"-1">2019-09-30T00:00:00</td><td role=3D"gridcell" aria-colindex=
+=3D"4" aria-selected=3D"false" aria-readonly=3D"true" id=3D"glide-cell-3-5"=
+ data-testid=3D"glide-cell-3-5" tabindex=3D"-1">882871</td><td role=3D"grid=
+cell" aria-colindex=3D"5" aria-selected=3D"false" aria-readonly=3D"true" id=
+=3D"glide-cell-4-5" data-testid=3D"glide-cell-4-5" tabindex=3D"-1">23328</t=
+d></tr><tr role=3D"row" aria-selected=3D"false" aria-rowindex=3D"8"><td rol=
+e=3D"gridcell" aria-colindex=3D"1" aria-selected=3D"false" aria-readonly=3D=
+"true" id=3D"glide-cell-0-6" data-testid=3D"glide-cell-0-6" tabindex=3D"-1"=
+>128</td><td role=3D"gridcell" aria-colindex=3D"2" aria-selected=3D"false" =
+aria-readonly=3D"true" id=3D"glide-cell-1-6" data-testid=3D"glide-cell-1-6"=
+ tabindex=3D"-1">Machine Learning Fundamentals: Cross Validation</td><td ro=
+le=3D"gridcell" aria-colindex=3D"3" aria-selected=3D"false" aria-readonly=
+=3D"true" id=3D"glide-cell-2-6" data-testid=3D"glide-cell-2-6" tabindex=3D"=
+-1">2018-04-24T00:00:00</td><td role=3D"gridcell" aria-colindex=3D"4" aria-=
+selected=3D"false" aria-readonly=3D"true" id=3D"glide-cell-3-6" data-testid=
+=3D"glide-cell-3-6" tabindex=3D"-1">705316</td><td role=3D"gridcell" aria-c=
+olindex=3D"5" aria-selected=3D"false" aria-readonly=3D"true" id=3D"glide-ce=
+ll-4-6" data-testid=3D"glide-cell-4-6" tabindex=3D"-1">22345</td></tr><tr r=
+ole=3D"row" aria-selected=3D"false" aria-rowindex=3D"9"><td role=3D"gridcel=
+l" aria-colindex=3D"1" aria-selected=3D"false" aria-readonly=3D"true" id=3D=
+"glide-cell-0-7" data-testid=3D"glide-cell-0-7" tabindex=3D"-1">93</td><td =
+role=3D"gridcell" aria-colindex=3D"2" aria-selected=3D"false" aria-readonly=
+=3D"true" id=3D"glide-cell-1-7" data-testid=3D"glide-cell-1-7" tabindex=3D"=
+-1">Gradient Descent, Step-by-Step</td><td role=3D"gridcell" aria-colindex=
+=3D"3" aria-selected=3D"false" aria-readonly=3D"true" id=3D"glide-cell-2-7"=
+ data-testid=3D"glide-cell-2-7" tabindex=3D"-1">2019-02-05T00:00:00</td><td=
+ role=3D"gridcell" aria-colindex=3D"4" aria-selected=3D"false" aria-readonl=
+y=3D"true" id=3D"glide-cell-3-7" data-testid=3D"glide-cell-3-7" tabindex=3D=
+"-1">793724</td><td role=3D"gridcell" aria-colindex=3D"5" aria-selected=3D"=
+false" aria-readonly=3D"true" id=3D"glide-cell-4-7" data-testid=3D"glide-ce=
+ll-4-7" tabindex=3D"-1">21298</td></tr><tr role=3D"row" aria-selected=3D"fa=
+lse" aria-rowindex=3D"10"><td role=3D"gridcell" aria-colindex=3D"1" aria-se=
+lected=3D"false" aria-readonly=3D"true" id=3D"glide-cell-0-8" data-testid=
+=3D"glide-cell-0-8" tabindex=3D"-1">166</td><td role=3D"gridcell" aria-coli=
+ndex=3D"2" aria-selected=3D"false" aria-readonly=3D"true" id=3D"glide-cell-=
+1-8" data-testid=3D"glide-cell-1-8" tabindex=3D"-1">Maximum Likelihood, cle=
+arly explained!!!</td><td role=3D"gridcell" aria-colindex=3D"3" aria-select=
+ed=3D"false" aria-readonly=3D"true" id=3D"glide-cell-2-8" data-testid=3D"gl=
+ide-cell-2-8" tabindex=3D"-1">2017-07-31T00:00:00</td><td role=3D"gridcell"=
+ aria-colindex=3D"4" aria-selected=3D"false" aria-readonly=3D"true" id=3D"g=
+lide-cell-3-8" data-testid=3D"glide-cell-3-8" tabindex=3D"-1">979767</td><t=
+d role=3D"gridcell" aria-colindex=3D"5" aria-selected=3D"false" aria-readon=
+ly=3D"true" id=3D"glide-cell-4-8" data-testid=3D"glide-cell-4-8" tabindex=
+=3D"-1">21144</td></tr><tr role=3D"row" aria-selected=3D"false" aria-rowind=
+ex=3D"11"><td role=3D"gridcell" aria-colindex=3D"1" aria-selected=3D"false"=
+ aria-readonly=3D"true" id=3D"glide-cell-0-9" data-testid=3D"glide-cell-0-9=
+" tabindex=3D"-1">125</td><td role=3D"gridcell" aria-colindex=3D"2" aria-se=
+lected=3D"false" aria-readonly=3D"true" id=3D"glide-cell-1-9" data-testid=
+=3D"glide-cell-1-9" tabindex=3D"-1">StatQuest: K-means clustering</td><td r=
+ole=3D"gridcell" aria-colindex=3D"3" aria-selected=3D"false" aria-readonly=
+=3D"true" id=3D"glide-cell-2-9" data-testid=3D"glide-cell-2-9" tabindex=3D"=
+-1">2018-05-23T00:00:00</td><td role=3D"gridcell" aria-colindex=3D"4" aria-=
+selected=3D"false" aria-readonly=3D"true" id=3D"glide-cell-3-9" data-testid=
+=3D"glide-cell-3-9" tabindex=3D"-1">1012494</td><td role=3D"gridcell" aria-=
+colindex=3D"5" aria-selected=3D"false" aria-readonly=3D"true" id=3D"glide-c=
+ell-4-9" data-testid=3D"glide-cell-4-9" tabindex=3D"-1">20629</td></tr></tb=
+ody></table></canvas><canvas width=3D"1404" height=3D"70" style=3D"position=
+: absolute; top: 0px; left: 0px; width: 702px; height: 35px;"></canvas><div=
+ style=3D"position: absolute; top: 0px; left: 37px; height: 386px; opacity:=
+ 0; pointer-events: none; box-shadow: rgba(0, 0, 0, 0.2) 13px 0px 10px -13p=
+x inset; transition: opacity 150ms ease 0s; width: 665px;"></div></div><div=
+ draggable=3D"false" class=3D"dvn-scroller " style=3D"height: 386px; width:=
+ 702px; cursor: default;"><div class=3D"dvn-scroll-inner hidden"><div class=
+=3D"dvn-stack"><div style=3D"width: 1198px; height: 0px;"></div><div style=
+=3D"width: 0px; height: 385px;"></div></div></div></div></div></div><div cl=
+ass=3D"resize-triggers"><div class=3D"expand-trigger"><div style=3D"width: =
+703px; height: 387px;"></div></div><div class=3D"contract-trigger"></div></=
+div></div><div class=3D"sc-jqUVSM fZoOOh"><div class=3D"search-bar-inner"><=
+input id=3D"search-box-209" aria-hidden=3D"true" data-testid=3D"search-inpu=
+t" tabindex=3D"-1" value=3D""><button aria-label=3D"Previous Result" aria-h=
+idden=3D"true" tabindex=3D"-1" disabled=3D""><svg class=3D"button-icon" vie=
+wBox=3D"0 0 512 512"><path fill=3D"none" stroke=3D"currentColor" stroke-lin=
+ecap=3D"round" stroke-linejoin=3D"round" stroke-width=3D"48" d=3D"M112 244l=
+144-144 144 144M256 120v292"></path></svg></button><button aria-label=3D"Ne=
+xt Result" aria-hidden=3D"true" tabindex=3D"-1" disabled=3D""><svg class=3D=
+"button-icon" viewBox=3D"0 0 512 512"><path fill=3D"none" stroke=3D"current=
+Color" stroke-linecap=3D"round" stroke-linejoin=3D"round" stroke-width=3D"4=
+8" d=3D"M112 268l144 144 144-144M256 392V100"></path></svg></button><button=
+ aria-label=3D"Close Search" aria-hidden=3D"true" data-testid=3D"search-clo=
+se-button" tabindex=3D"-1"><svg class=3D"button-icon" viewBox=3D"0 0 512 51=
+2"><path fill=3D"none" stroke=3D"currentColor" stroke-linecap=3D"round" str=
+oke-linejoin=3D"round" stroke-width=3D"32" d=3D"M368 368L144 144M368 144L14=
+4 368"></path></svg></button></div><div class=3D"search-status"><label for=
+=3D"search-box-209">Type to search</label></div></div></div></div></div></d=
+iv><div data-stale=3D"false" width=3D"704" class=3D"element-container css-1=
+hynsf2 e1tzin5v3"><div class=3D"css-1a32fsj e19lei0e0"><button title=3D"Vie=
+w fullscreen" class=3D"css-6awftf e19lei0e1"><svg viewBox=3D"0 0 8 8" aria-=
+hidden=3D"true" focusable=3D"false" fill=3D"currentColor" xmlns=3D"http://w=
+ww.w3.org/2000/svg" color=3D"inherit" class=3D"e1fb0mya1 css-1pxazr7 ex0cdm=
+w0"><path d=3D"M0 0v4l1.5-1.5L3 4l1-1-1.5-1.5L4 0H0zm5 4L4 5l1.5 1.5L4 8h4V=
+4L6.5 5.5 5 4z"></path></svg></button><div class=3D"stPlotlyChart js-plotly=
+-plot" style=3D"position: relative; display: inline-block;"><div class=3D"p=
+lot-container plotly"><div class=3D"user-select-none svg-container" style=
+=3D"position: relative; width: 700px; height: 450px;"><svg class=3D"main-sv=
+g" xmlns=3D"http://www.w3.org/2000/svg" xmlns:xlink=3D"http://www.w3.org/19=
+99/xlink" width=3D"700" height=3D"450" style=3D"background: rgb(255, 255, 2=
+55);"><defs id=3D"defs-94149e"><g class=3D"clips"><clipPath id=3D"clip94149=
+exyplot" class=3D"plotclip"><rect width=3D"540" height=3D"310"></rect></cli=
+pPath><clipPath class=3D"axesclip" id=3D"clip94149ex"><rect x=3D"80" y=3D"0=
+" width=3D"540" height=3D"450"></rect></clipPath><clipPath class=3D"axescli=
+p" id=3D"clip94149ey"><rect x=3D"0" y=3D"60" width=3D"700" height=3D"310"><=
+/rect></clipPath><clipPath class=3D"axesclip" id=3D"clip94149exy"><rect x=
+=3D"80" y=3D"60" width=3D"540" height=3D"310"></rect></clipPath></g><g clas=
+s=3D"gradients"></g><g class=3D"patterns"></g></defs><g class=3D"bglayer"><=
+rect class=3D"bg" x=3D"80" y=3D"60" width=3D"540" height=3D"310" style=3D"f=
+ill: rgb(240, 242, 246); fill-opacity: 1; stroke-width: 0;"></rect></g><g c=
+lass=3D"draglayer cursor-crosshair"><g class=3D"xy"><rect class=3D"nsewdrag=
+ drag" data-subplot=3D"xy" x=3D"80" y=3D"60" width=3D"540" height=3D"310" s=
+tyle=3D"fill: transparent; stroke-width: 0; pointer-events: all;"></rect><r=
+ect class=3D"nwdrag drag cursor-nw-resize" data-subplot=3D"xy" x=3D"60" y=
+=3D"40" width=3D"20" height=3D"20" style=3D"fill: transparent; stroke-width=
+: 0; pointer-events: all;"></rect><rect class=3D"nedrag drag cursor-ne-resi=
+ze" data-subplot=3D"xy" x=3D"620" y=3D"40" width=3D"20" height=3D"20" style=
+=3D"fill: transparent; stroke-width: 0; pointer-events: all;"></rect><rect =
+class=3D"swdrag drag cursor-sw-resize" data-subplot=3D"xy" x=3D"60" y=3D"37=
+0" width=3D"20" height=3D"20" style=3D"fill: transparent; stroke-width: 0; =
+pointer-events: all;"></rect><rect class=3D"sedrag drag cursor-se-resize" d=
+ata-subplot=3D"xy" x=3D"620" y=3D"370" width=3D"20" height=3D"20" style=3D"=
+fill: transparent; stroke-width: 0; pointer-events: all;"></rect><rect clas=
+s=3D"ewdrag drag cursor-ew-resize" data-subplot=3D"xy" x=3D"134" y=3D"370.5=
+" width=3D"432" height=3D"20" style=3D"fill: transparent; stroke-width: 0; =
+pointer-events: all;"></rect><rect class=3D"wdrag drag cursor-w-resize" dat=
+a-subplot=3D"xy" x=3D"80" y=3D"370.5" width=3D"54" height=3D"20" style=3D"f=
+ill: transparent; stroke-width: 0; pointer-events: all;"></rect><rect class=
+=3D"edrag drag cursor-e-resize" data-subplot=3D"xy" x=3D"566" y=3D"370.5" w=
+idth=3D"54" height=3D"20" style=3D"fill: transparent; stroke-width: 0; poin=
+ter-events: all;"></rect><rect class=3D"nsdrag drag cursor-ns-resize" data-=
+subplot=3D"xy" x=3D"59.5" y=3D"91" width=3D"20" height=3D"248" style=3D"fil=
+l: transparent; stroke-width: 0; pointer-events: all;"></rect><rect class=
+=3D"sdrag drag cursor-s-resize" data-subplot=3D"xy" x=3D"59.5" y=3D"339" wi=
+dth=3D"20" height=3D"31" style=3D"fill: transparent; stroke-width: 0; point=
+er-events: all;"></rect><rect class=3D"ndrag drag cursor-n-resize" data-sub=
+plot=3D"xy" x=3D"59.5" y=3D"60" width=3D"20" height=3D"31" style=3D"fill: t=
+ransparent; stroke-width: 0; pointer-events: all;"></rect></g></g><g class=
+=3D"layer-below"><g class=3D"imagelayer"></g><g class=3D"shapelayer"></g></=
+g><g class=3D"cartesianlayer"><g class=3D"subplot xy"><g class=3D"layer-sub=
+plot"><g class=3D"shapelayer"></g><g class=3D"imagelayer"></g></g><g class=
+=3D"minor-gridlayer"><g class=3D"x"></g><g class=3D"y"></g></g><g class=3D"=
+gridlayer"><g class=3D"x"></g><g class=3D"y"><path class=3D"ygrid crisp" tr=
+ansform=3D"translate(0,326.5)" d=3D"M80,0h540" style=3D"stroke: rgb(255, 25=
+5, 255); stroke-opacity: 1; stroke-width: 1px;"></path><path class=3D"ygrid=
+ crisp" transform=3D"translate(0,283)" d=3D"M80,0h540" style=3D"stroke: rgb=
+(255, 255, 255); stroke-opacity: 1; stroke-width: 1px;"></path><path class=
+=3D"ygrid crisp" transform=3D"translate(0,239.5)" d=3D"M80,0h540" style=3D"=
+stroke: rgb(255, 255, 255); stroke-opacity: 1; stroke-width: 1px;"></path><=
+path class=3D"ygrid crisp" transform=3D"translate(0,196)" d=3D"M80,0h540" s=
+tyle=3D"stroke: rgb(255, 255, 255); stroke-opacity: 1; stroke-width: 1px;">=
+</path><path class=3D"ygrid crisp" transform=3D"translate(0,152.5)" d=3D"M8=
+0,0h540" style=3D"stroke: rgb(255, 255, 255); stroke-opacity: 1; stroke-wid=
+th: 1px;"></path><path class=3D"ygrid crisp" transform=3D"translate(0,109)"=
+ d=3D"M80,0h540" style=3D"stroke: rgb(255, 255, 255); stroke-opacity: 1; st=
+roke-width: 1px;"></path><path class=3D"ygrid crisp" transform=3D"translate=
+(0,65.49)" d=3D"M80,0h540" style=3D"stroke: rgb(255, 255, 255); stroke-opac=
+ity: 1; stroke-width: 1px;"></path></g></g><g class=3D"zerolinelayer"><path=
+ class=3D"yzl zl crisp" transform=3D"translate(0,370)" d=3D"M80,0h540" styl=
+e=3D"stroke: rgb(255, 255, 255); stroke-opacity: 1; stroke-width: 2px;"></p=
+ath></g><path class=3D"xlines-below"></path><path class=3D"ylines-below"></=
+path><g class=3D"overlines-below"></g><g class=3D"xaxislayer-below"></g><g =
+class=3D"yaxislayer-below"></g><g class=3D"overaxes-below"></g><g class=3D"=
+plot" transform=3D"translate(80,60)" clip-path=3D"url(#clip94149exyplot)"><=
+g class=3D"barlayer mlayer"><g class=3D"trace bars" style=3D"opacity: 1;"><=
+g class=3D"points"><g class=3D"point"><path d=3D"M538.09,310V292.69H539.79V=
+310Z" style=3D"vector-effect: non-scaling-stroke; opacity: 1; stroke-width:=
+ 0.5px; fill: rgb(99, 110, 250); fill-opacity: 1; stroke: rgb(229, 236, 246=
+); stroke-opacity: 1;"></path></g><g class=3D"point"><path d=3D"M535.96,310=
+V272.07H537.66V310Z" style=3D"vector-effect: non-scaling-stroke; opacity: 1=
+; stroke-width: 0.5px; fill: rgb(99, 110, 250); fill-opacity: 1; stroke: rg=
+b(229, 236, 246); stroke-opacity: 1;"></path></g><g class=3D"point"><path d=
+=3D"M504.07,310V277.46H505.77V310Z" style=3D"vector-effect: non-scaling-str=
+oke; opacity: 1; stroke-width: 0.5px; fill: rgb(99, 110, 250); fill-opacity=
+: 1; stroke: rgb(229, 236, 246); stroke-opacity: 1;"></path></g><g class=3D=
+"point"><path d=3D"M387.14,310V167.23H388.84V310Z" style=3D"vector-effect: =
+non-scaling-stroke; opacity: 1; stroke-width: 0.5px; fill: rgb(99, 110, 250=
+); fill-opacity: 1; stroke: rgb(229, 236, 246); stroke-opacity: 1;"></path>=
+</g><g class=3D"point"><path d=3D"M253.2,310V242.23H254.91V310Z" style=3D"v=
+ector-effect: non-scaling-stroke; opacity: 1; stroke-width: 0.5px; fill: rg=
+b(99, 110, 250); fill-opacity: 1; stroke: rgb(229, 236, 246); stroke-opacit=
+y: 1;"></path></g><g class=3D"point"><path d=3D"M223.44,310V154.18H225.14V3=
+10Z" style=3D"vector-effect: non-scaling-stroke; opacity: 1; stroke-width: =
+0.5px; fill: rgb(99, 110, 250); fill-opacity: 1; stroke: rgb(229, 236, 246)=
+; stroke-opacity: 1;"></path></g><g class=3D"point"><path d=3D"M172.42,310V=
+275.37H174.12V310Z" style=3D"vector-effect: non-scaling-stroke; opacity: 1;=
+ stroke-width: 0.5px; fill: rgb(99, 110, 250); fill-opacity: 1; stroke: rgb=
+(229, 236, 246); stroke-opacity: 1;"></path></g><g class=3D"point"><path d=
+=3D"M151.16,310V229.18H152.86V310Z" style=3D"vector-effect: non-scaling-str=
+oke; opacity: 1; stroke-width: 0.5px; fill: rgb(99, 110, 250); fill-opacity=
+: 1; stroke: rgb(229, 236, 246); stroke-opacity: 1;"></path></g><g class=3D=
+"point"><path d=3D"M134.15,310V269.72H135.85V310Z" style=3D"vector-effect: =
+non-scaling-stroke; opacity: 1; stroke-width: 0.5px; fill: rgb(99, 110, 250=
+); fill-opacity: 1; stroke: rgb(229, 236, 246); stroke-opacity: 1;"></path>=
+</g><g class=3D"point"><path d=3D"M119.27,310V202.64H120.97V310Z" style=3D"=
+vector-effect: non-scaling-stroke; opacity: 1; stroke-width: 0.5px; fill: r=
+gb(99, 110, 250); fill-opacity: 1; stroke: rgb(229, 236, 246); stroke-opaci=
+ty: 1;"></path></g><g class=3D"point"><path d=3D"M104.39,310V132.26H106.09V=
+310Z" style=3D"vector-effect: non-scaling-stroke; opacity: 1; stroke-width:=
+ 0.5px; fill: rgb(99, 110, 250); fill-opacity: 1; stroke: rgb(229, 236, 246=
+); stroke-opacity: 1;"></path></g><g class=3D"point"><path d=3D"M66.12,310V=
+213.78H67.82V310Z" style=3D"vector-effect: non-scaling-stroke; opacity: 1; =
+stroke-width: 0.5px; fill: rgb(99, 110, 250); fill-opacity: 1; stroke: rgb(=
+229, 236, 246); stroke-opacity: 1;"></path></g><g class=3D"point"><path d=
+=3D"M8.72,310V217.43H10.42V310Z" style=3D"vector-effect: non-scaling-stroke=
+; opacity: 1; stroke-width: 0.5px; fill: rgb(99, 110, 250); fill-opacity: 1=
+; stroke: rgb(229, 236, 246); stroke-opacity: 1;"></path></g><g class=3D"po=
+int"><path d=3D"M8.72,217.43V164.71H10.42V217.43Z" style=3D"vector-effect: =
+non-scaling-stroke; opacity: 1; stroke-width: 0.5px; fill: rgb(99, 110, 250=
+); fill-opacity: 1; stroke: rgb(229, 236, 246); stroke-opacity: 1;"></path>=
+</g><g class=3D"point"><path d=3D"M0.21,310V15.5H1.91V310Z" style=3D"vector=
+-effect: non-scaling-stroke; opacity: 1; stroke-width: 0.5px; fill: rgb(99,=
+ 110, 250); fill-opacity: 1; stroke: rgb(229, 236, 246); stroke-opacity: 1;=
+"></path></g></g></g></g></g><g class=3D"overplot"></g><path class=3D"xline=
+s-above crisp" d=3D"M0,0" style=3D"fill: none;"></path><path class=3D"yline=
+s-above crisp" d=3D"M0,0" style=3D"fill: none;"></path><g class=3D"overline=
+s-above"></g><g class=3D"xaxislayer-above"><g class=3D"xtick"><text text-an=
+chor=3D"middle" x=3D"0" y=3D"383" data-unformatted=3D"Mar 2022" data-math=
+=3D"N" transform=3D"translate(187.36,0)" style=3D"font-family: &quot;Source=
+ Sans Pro&quot;, sans-serif; font-size: 12px; fill: rgb(49, 51, 63); fill-o=
+pacity: 1; white-space: pre; opacity: 1;">Mar 2022</text></g><g class=3D"xt=
+ick"><text text-anchor=3D"middle" x=3D"0" y=3D"383" data-unformatted=3D"May=
+ 2022" data-math=3D"N" style=3D"font-family: &quot;Source Sans Pro&quot;, s=
+ans-serif; font-size: 12px; fill: rgb(49, 51, 63); fill-opacity: 1; white-s=
+pace: pre; opacity: 1;" transform=3D"translate(317.05,0)">May 2022</text></=
+g><g class=3D"xtick"><text text-anchor=3D"middle" x=3D"0" y=3D"383" data-un=
+formatted=3D"Jul 2022" data-math=3D"N" style=3D"font-family: &quot;Source S=
+ans Pro&quot;, sans-serif; font-size: 12px; fill: rgb(49, 51, 63); fill-opa=
+city: 1; white-space: pre; opacity: 1;" transform=3D"translate(446.73,0)">J=
+ul 2022</text></g><g class=3D"xtick"><text text-anchor=3D"middle" x=3D"0" y=
+=3D"383" data-unformatted=3D"Sep 2022" data-math=3D"N" style=3D"font-family=
+: &quot;Source Sans Pro&quot;, sans-serif; font-size: 12px; fill: rgb(49, 5=
+1, 63); fill-opacity: 1; white-space: pre; opacity: 1;" transform=3D"transl=
+ate(578.54,0)">Sep 2022</text></g></g><g class=3D"yaxislayer-above"><g clas=
+s=3D"ytick"><text text-anchor=3D"end" x=3D"79" y=3D"4.199999999999999" data=
+-unformatted=3D"0" data-math=3D"N" transform=3D"translate(0,370)" style=3D"=
+font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 12px; fill=
+: rgb(49, 51, 63); fill-opacity: 1; white-space: pre; opacity: 1;">0</text>=
+</g><g class=3D"ytick"><text text-anchor=3D"end" x=3D"79" y=3D"4.1999999999=
+99999" data-unformatted=3D"500" data-math=3D"N" style=3D"font-family: &quot=
+;Source Sans Pro&quot;, sans-serif; font-size: 12px; fill: rgb(49, 51, 63);=
+ fill-opacity: 1; white-space: pre; opacity: 1;" transform=3D"translate(0,3=
+26.5)">500</text></g><g class=3D"ytick"><text text-anchor=3D"end" x=3D"79" =
+y=3D"4.199999999999999" data-unformatted=3D"1000" data-math=3D"N" style=3D"=
+font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 12px; fill=
+: rgb(49, 51, 63); fill-opacity: 1; white-space: pre; opacity: 1;" transfor=
+m=3D"translate(0,283)">1000</text></g><g class=3D"ytick"><text text-anchor=
+=3D"end" x=3D"79" y=3D"4.199999999999999" data-unformatted=3D"1500" data-ma=
+th=3D"N" style=3D"font-family: &quot;Source Sans Pro&quot;, sans-serif; fon=
+t-size: 12px; fill: rgb(49, 51, 63); fill-opacity: 1; white-space: pre; opa=
+city: 1;" transform=3D"translate(0,239.5)">1500</text></g><g class=3D"ytick=
+"><text text-anchor=3D"end" x=3D"79" y=3D"4.199999999999999" data-unformatt=
+ed=3D"2000" data-math=3D"N" style=3D"font-family: &quot;Source Sans Pro&quo=
+t;, sans-serif; font-size: 12px; fill: rgb(49, 51, 63); fill-opacity: 1; wh=
+ite-space: pre; opacity: 1;" transform=3D"translate(0,196)">2000</text></g>=
+<g class=3D"ytick"><text text-anchor=3D"end" x=3D"79" y=3D"4.19999999999999=
+9" data-unformatted=3D"2500" data-math=3D"N" style=3D"font-family: &quot;So=
+urce Sans Pro&quot;, sans-serif; font-size: 12px; fill: rgb(49, 51, 63); fi=
+ll-opacity: 1; white-space: pre; opacity: 1;" transform=3D"translate(0,152.=
+5)">2500</text></g><g class=3D"ytick"><text text-anchor=3D"end" x=3D"79" y=
+=3D"4.199999999999999" data-unformatted=3D"3000" data-math=3D"N" style=3D"f=
+ont-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 12px; fill:=
+ rgb(49, 51, 63); fill-opacity: 1; white-space: pre; opacity: 1;" transform=
+=3D"translate(0,109)">3000</text></g><g class=3D"ytick"><text text-anchor=
+=3D"end" x=3D"79" y=3D"4.199999999999999" data-unformatted=3D"3500" data-ma=
+th=3D"N" style=3D"font-family: &quot;Source Sans Pro&quot;, sans-serif; fon=
+t-size: 12px; fill: rgb(49, 51, 63); fill-opacity: 1; white-space: pre; opa=
+city: 1;" transform=3D"translate(0,65.49)">3500</text></g></g><g class=3D"o=
+veraxes-above"></g></g></g><g class=3D"polarlayer"></g><g class=3D"smithlay=
+er"></g><g class=3D"ternarylayer"></g><g class=3D"geolayer"></g><g class=3D=
+"funnelarealayer"></g><g class=3D"pielayer"></g><g class=3D"iciclelayer"></=
+g><g class=3D"treemaplayer"></g><g class=3D"sunburstlayer"></g><g class=3D"=
+glimages"></g></svg><div class=3D"gl-container"></div><svg class=3D"main-sv=
+g" xmlns=3D"http://www.w3.org/2000/svg" xmlns:xlink=3D"http://www.w3.org/19=
+99/xlink" width=3D"700" height=3D"450"><defs id=3D"topdefs-94149e"><g class=
+=3D"clips"></g></defs><g class=3D"indicatorlayer"></g><g class=3D"layer-abo=
+ve"><g class=3D"imagelayer"></g><g class=3D"shapelayer"></g></g><g class=3D=
+"selectionlayer"></g><g class=3D"infolayer"><g class=3D"g-gtitle"></g><g cl=
+ass=3D"g-xtitle"><text class=3D"xtitle" x=3D"350" y=3D"410.76325302124025" =
+text-anchor=3D"middle" data-unformatted=3D"Publish_date" data-math=3D"N" st=
+yle=3D"font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 14p=
+x; fill: rgb(49, 51, 63); opacity: 1; font-weight: normal; white-space: pre=
+;">Publish_date</text></g><g class=3D"g-ytitle"><text class=3D"ytitle" tran=
+sform=3D"rotate(-90,30.358203125000003,215)" x=3D"30.358203125000003" y=3D"=
+215" text-anchor=3D"middle" data-unformatted=3D"like_count" data-math=3D"N"=
+ style=3D"font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: =
+14px; fill: rgb(49, 51, 63); opacity: 1; font-weight: normal; white-space: =
+pre;">like_count</text></g></g><g class=3D"menulayer"></g><g class=3D"zooml=
+ayer"></g></svg><div class=3D"modebar-container" style=3D"position: absolut=
+e; top: 0px; right: 0px; width: 100%;"><div id=3D"modebar-94149e" class=3D"=
+modebar modebar--hover ease-bg"><div class=3D"modebar-group"><a rel=3D"tool=
+tip" class=3D"modebar-btn" data-title=3D"Download plot as a png" data-toggl=
+e=3D"false" data-gravity=3D"n"><svg viewBox=3D"0 0 1000 1000" class=3D"icon=
+" height=3D"1em" width=3D"1em"><path d=3D"m500 450c-83 0-150-67-150-150 0-8=
+3 67-150 150-150 83 0 150 67 150 150 0 83-67 150-150 150z m400 150h-120c-16=
+ 0-34 13-39 29l-31 93c-6 15-23 28-40 28h-340c-16 0-34-13-39-28l-31-94c-6-15=
+-23-28-40-28h-120c-55 0-100-45-100-100v-450c0-55 45-100 100-100h800c55 0 10=
+0 45 100 100v450c0 55-45 100-100 100z m-400-550c-138 0-250 112-250 250 0 13=
+8 112 250 250 250 138 0 250-112 250-250 0-138-112-250-250-250z m365 380c-19=
+ 0-35 16-35 35 0 19 16 35 35 35 19 0 35-16 35-35 0-19-16-35-35-35z" transfo=
+rm=3D"matrix(1 0 0 -1 0 850)"></path></svg></a></div><div class=3D"modebar-=
+group"><a rel=3D"tooltip" class=3D"modebar-btn active" data-title=3D"Zoom" =
+data-attr=3D"dragmode" data-val=3D"zoom" data-toggle=3D"false" data-gravity=
+=3D"n"><svg viewBox=3D"0 0 1000 1000" class=3D"icon" height=3D"1em" width=
+=3D"1em"><path d=3D"m1000-25l-250 251c40 63 63 138 63 218 0 224-182 406-407=
+ 406-224 0-406-182-406-406s183-406 407-406c80 0 155 22 218 62l250-250 125 1=
+25z m-812 250l0 438 437 0 0-438-437 0z m62 375l313 0 0-312-313 0 0 312z" tr=
+ansform=3D"matrix(1 0 0 -1 0 850)"></path></svg></a><a rel=3D"tooltip" clas=
+s=3D"modebar-btn" data-title=3D"Pan" data-attr=3D"dragmode" data-val=3D"pan=
+" data-toggle=3D"false" data-gravity=3D"n"><svg viewBox=3D"0 0 1000 1000" c=
+lass=3D"icon" height=3D"1em" width=3D"1em"><path d=3D"m1000 350l-187 188 0-=
+125-250 0 0 250 125 0-188 187-187-187 125 0 0-250-250 0 0 125-188-188 186-1=
+87 0 125 252 0 0-250-125 0 187-188 188 188-125 0 0 250 250 0 0-126 187 188z=
+" transform=3D"matrix(1 0 0 -1 0 850)"></path></svg></a><a rel=3D"tooltip" =
+class=3D"modebar-btn" data-title=3D"Box Select" data-attr=3D"dragmode" data=
+-val=3D"select" data-toggle=3D"false" data-gravity=3D"n"><svg viewBox=3D"0 =
+0 1000 1000" class=3D"icon" height=3D"1em" width=3D"1em"><path d=3D"m0 850l=
+0-143 143 0 0 143-143 0z m286 0l0-143 143 0 0 143-143 0z m285 0l0-143 143 0=
+ 0 143-143 0z m286 0l0-143 143 0 0 143-143 0z m-857-286l0-143 143 0 0 143-1=
+43 0z m857 0l0-143 143 0 0 143-143 0z m-857-285l0-143 143 0 0 143-143 0z m8=
+57 0l0-143 143 0 0 143-143 0z m-857-286l0-143 143 0 0 143-143 0z m286 0l0-1=
+43 143 0 0 143-143 0z m285 0l0-143 143 0 0 143-143 0z m286 0l0-143 143 0 0 =
+143-143 0z" transform=3D"matrix(1 0 0 -1 0 850)"></path></svg></a><a rel=3D=
+"tooltip" class=3D"modebar-btn" data-title=3D"Lasso Select" data-attr=3D"dr=
+agmode" data-val=3D"lasso" data-toggle=3D"false" data-gravity=3D"n"><svg vi=
+ewBox=3D"0 0 1031 1000" class=3D"icon" height=3D"1em" width=3D"1em"><path d=
+=3D"m1018 538c-36 207-290 336-568 286-277-48-473-256-436-463 10-57 36-108 7=
+6-151-13-66 11-137 68-183 34-28 75-41 114-42l-55-70 0 0c-2-1-3-2-4-3-10-14-=
+8-34 5-45 14-11 34-8 45 4 1 1 2 3 2 5l0 0 113 140c16 11 31 24 45 40 4 3 6 7=
+ 8 11 48-3 100 0 151 9 278 48 473 255 436 462z m-624-379c-80 14-149 48-197 =
+96 42 42 109 47 156 9 33-26 47-66 41-105z m-187-74c-19 16-33 37-39 60 50-32=
+ 109-55 174-68-42-25-95-24-135 8z m360 75c-34-7-69-9-102-8 8 62-16 128-68 1=
+70-73 59-175 54-244-5-9 20-16 40-20 61-28 159 121 317 333 354s407-60 434-21=
+7c28-159-121-318-333-355z" transform=3D"matrix(1 0 0 -1 0 850)"></path></sv=
+g></a></div><div class=3D"modebar-group"><a rel=3D"tooltip" class=3D"modeba=
+r-btn" data-title=3D"Zoom in" data-attr=3D"zoom" data-val=3D"in" data-toggl=
+e=3D"false" data-gravity=3D"n"><svg viewBox=3D"0 0 875 1000" class=3D"icon"=
+ height=3D"1em" width=3D"1em"><path d=3D"m1 787l0-875 875 0 0 875-875 0z m6=
+87-500l-187 0 0-187-125 0 0 187-188 0 0 125 188 0 0 187 125 0 0-187 187 0 0=
+-125z" transform=3D"matrix(1 0 0 -1 0 850)"></path></svg></a><a rel=3D"tool=
+tip" class=3D"modebar-btn" data-title=3D"Zoom out" data-attr=3D"zoom" data-=
+val=3D"out" data-toggle=3D"false" data-gravity=3D"n"><svg viewBox=3D"0 0 87=
+5 1000" class=3D"icon" height=3D"1em" width=3D"1em"><path d=3D"m0 788l0-876=
+ 875 0 0 876-875 0z m688-500l-500 0 0 125 500 0 0-125z" transform=3D"matrix=
+(1 0 0 -1 0 850)"></path></svg></a><a rel=3D"tooltip" class=3D"modebar-btn"=
+ data-title=3D"Autoscale" data-attr=3D"zoom" data-val=3D"auto" data-toggle=
+=3D"false" data-gravity=3D"n"><svg viewBox=3D"0 0 1000 1000" class=3D"icon"=
+ height=3D"1em" width=3D"1em"><path d=3D"m250 850l-187 0-63 0 0-62 0-188 63=
+ 0 0 188 187 0 0 62z m688 0l-188 0 0-62 188 0 0-188 62 0 0 188 0 62-62 0z m=
+-875-938l0 188-63 0 0-188 0-62 63 0 187 0 0 62-187 0z m875 188l0-188-188 0 =
+0-62 188 0 62 0 0 62 0 188-62 0z m-125 188l-1 0-93-94-156 156 156 156 92-93=
+ 2 0 0 250-250 0 0-2 93-92-156-156-156 156 94 92 0 2-250 0 0-250 0 0 93 93 =
+157-156-157-156-93 94 0 0 0-250 250 0 0 0-94 93 156 157 156-157-93-93 0 0 2=
+50 0 0 250z" transform=3D"matrix(1 0 0 -1 0 850)"></path></svg></a><a rel=
+=3D"tooltip" class=3D"modebar-btn" data-title=3D"Reset axes" data-attr=3D"z=
+oom" data-val=3D"reset" data-toggle=3D"false" data-gravity=3D"n"><svg viewB=
+ox=3D"0 0 928.6 1000" class=3D"icon" height=3D"1em" width=3D"1em"><path d=
+=3D"m786 296v-267q0-15-11-26t-25-10h-214v214h-143v-214h-214q-15 0-25 10t-11=
+ 26v267q0 1 0 2t0 2l321 264 321-264q1-1 1-4z m124 39l-34-41q-5-5-12-6h-2q-7=
+ 0-12 3l-386 322-386-322q-7-4-13-4-7 2-12 7l-35 41q-4 5-3 13t6 12l401 334q1=
+8 15 42 15t43-15l136-114v109q0 8 5 13t13 5h107q8 0 13-5t5-13v-227l122-102q5=
+-5 6-12t-4-13z" transform=3D"matrix(1 0 0 -1 0 850)"></path></svg></a></div=
+><div class=3D"modebar-group"><a href=3D"https://plotly.com/" target=3D"_bl=
+ank" data-title=3D"Produced with Plotly.js (v2.13.2)" class=3D"modebar-btn =
+plotlyjsicon modebar-btn--logo"><svg xmlns=3D"http://www.w3.org/2000/svg" v=
+iewBox=3D"0 0 132 132" height=3D"1em" width=3D"1em"><defs> <style>  .cls-0{=
+fill:#000;}  .cls-1{fill:#FFF;}  .cls-2{fill:#F26;}  .cls-3{fill:#D69;}  .c=
+ls-4{fill:#BAC;}  .cls-5{fill:#9EF;} </style></defs> <title>plotly-logomark=
+</title> <g id=3D"symbol">  <rect class=3D"cls-0" x=3D"0" y=3D"0" width=3D"=
+132" height=3D"132" rx=3D"18" ry=3D"18"></rect>  <circle class=3D"cls-5" cx=
+=3D"102" cy=3D"30" r=3D"6"></circle>  <circle class=3D"cls-4" cx=3D"78" cy=
+=3D"30" r=3D"6"></circle>  <circle class=3D"cls-4" cx=3D"78" cy=3D"54" r=3D=
+"6"></circle>  <circle class=3D"cls-3" cx=3D"54" cy=3D"30" r=3D"6"></circle=
+>  <circle class=3D"cls-2" cx=3D"30" cy=3D"30" r=3D"6"></circle>  <circle c=
+lass=3D"cls-2" cx=3D"30" cy=3D"54" r=3D"6"></circle>  <path class=3D"cls-1"=
+ d=3D"M30,72a6,6,0,0,0-6,6v24a6,6,0,0,0,12,0V78A6,6,0,0,0,30,72Z"></path>  =
+<path class=3D"cls-1" d=3D"M78,72a6,6,0,0,0-6,6v24a6,6,0,0,0,12,0V78A6,6,0,=
+0,0,78,72Z"></path>  <path class=3D"cls-1" d=3D"M54,48a6,6,0,0,0-6,6v48a6,6=
+,0,0,0,12,0V54A6,6,0,0,0,54,48Z"></path>  <path class=3D"cls-1" d=3D"M102,4=
+8a6,6,0,0,0-6,6v48a6,6,0,0,0,12,0V54A6,6,0,0,0,102,48Z"></path> </g></svg><=
+/a></div></div></div><svg class=3D"main-svg" xmlns=3D"http://www.w3.org/200=
+0/svg" xmlns:xlink=3D"http://www.w3.org/1999/xlink" width=3D"700" height=3D=
+"450"><g class=3D"hoverlayer"></g></svg></div></div></div></div></div><div =
+data-stale=3D"false" width=3D"704" class=3D"element-container css-1hynsf2 e=
+1tzin5v3"><div class=3D"css-1a32fsj e19lei0e0"><button title=3D"View fullsc=
+reen" class=3D"css-6awftf e19lei0e1"><svg viewBox=3D"0 0 8 8" aria-hidden=
+=3D"true" focusable=3D"false" fill=3D"currentColor" xmlns=3D"http://www.w3.=
+org/2000/svg" color=3D"inherit" class=3D"e1fb0mya1 css-1pxazr7 ex0cdmw0"><p=
+ath d=3D"M0 0v4l1.5-1.5L3 4l1-1-1.5-1.5L4 0H0zm5 4L4 5l1.5 1.5L4 8h4V4L6.5 =
+5.5 5 4z"></path></svg></button><div class=3D"stPlotlyChart js-plotly-plot"=
+ style=3D"position: relative; display: inline-block;"><div class=3D"plot-co=
+ntainer plotly"><div class=3D"user-select-none svg-container" style=3D"posi=
+tion: relative; width: 700px; height: 450px;"><svg class=3D"main-svg" xmlns=
+=3D"http://www.w3.org/2000/svg" xmlns:xlink=3D"http://www.w3.org/1999/xlink=
+" width=3D"700" height=3D"450" style=3D"background: rgb(255, 255, 255);"><d=
+efs id=3D"defs-72d54f"><g class=3D"clips"><clipPath id=3D"clip72d54fxyplot"=
+ class=3D"plotclip"><rect width=3D"540" height=3D"310"></rect></clipPath><c=
+lipPath class=3D"axesclip" id=3D"clip72d54fx"><rect x=3D"80" y=3D"0" width=
+=3D"540" height=3D"450"></rect></clipPath><clipPath class=3D"axesclip" id=
+=3D"clip72d54fy"><rect x=3D"0" y=3D"60" width=3D"700" height=3D"310"></rect=
+></clipPath><clipPath class=3D"axesclip" id=3D"clip72d54fxy"><rect x=3D"80"=
+ y=3D"60" width=3D"540" height=3D"310"></rect></clipPath></g><g class=3D"gr=
+adients"></g><g class=3D"patterns"></g></defs><g class=3D"bglayer"><rect cl=
+ass=3D"bg" x=3D"80" y=3D"60" width=3D"540" height=3D"310" style=3D"fill: rg=
+b(240, 242, 246); fill-opacity: 1; stroke-width: 0;"></rect></g><g class=3D=
+"draglayer cursor-crosshair"><g class=3D"xy"><rect class=3D"nsewdrag drag" =
+data-subplot=3D"xy" x=3D"80" y=3D"60" width=3D"540" height=3D"310" style=3D=
+"fill: transparent; stroke-width: 0; pointer-events: all;"></rect><rect cla=
+ss=3D"nwdrag drag cursor-nw-resize" data-subplot=3D"xy" x=3D"60" y=3D"40" w=
+idth=3D"20" height=3D"20" style=3D"fill: transparent; stroke-width: 0; poin=
+ter-events: all;"></rect><rect class=3D"nedrag drag cursor-ne-resize" data-=
+subplot=3D"xy" x=3D"620" y=3D"40" width=3D"20" height=3D"20" style=3D"fill:=
+ transparent; stroke-width: 0; pointer-events: all;"></rect><rect class=3D"=
+swdrag drag cursor-sw-resize" data-subplot=3D"xy" x=3D"60" y=3D"370" width=
+=3D"20" height=3D"20" style=3D"fill: transparent; stroke-width: 0; pointer-=
+events: all;"></rect><rect class=3D"sedrag drag cursor-se-resize" data-subp=
+lot=3D"xy" x=3D"620" y=3D"370" width=3D"20" height=3D"20" style=3D"fill: tr=
+ansparent; stroke-width: 0; pointer-events: all;"></rect><rect class=3D"ewd=
+rag drag cursor-ew-resize" data-subplot=3D"xy" x=3D"134" y=3D"370.5" width=
+=3D"432" height=3D"20" style=3D"fill: transparent; stroke-width: 0; pointer=
+-events: all;"></rect><rect class=3D"wdrag drag cursor-w-resize" data-subpl=
+ot=3D"xy" x=3D"80" y=3D"370.5" width=3D"54" height=3D"20" style=3D"fill: tr=
+ansparent; stroke-width: 0; pointer-events: all;"></rect><rect class=3D"edr=
+ag drag cursor-e-resize" data-subplot=3D"xy" x=3D"566" y=3D"370.5" width=3D=
+"54" height=3D"20" style=3D"fill: transparent; stroke-width: 0; pointer-eve=
+nts: all;"></rect><rect class=3D"nsdrag drag cursor-ns-resize" data-subplot=
+=3D"xy" x=3D"59.5" y=3D"91" width=3D"20" height=3D"248" style=3D"fill: tran=
+sparent; stroke-width: 0; pointer-events: all;"></rect><rect class=3D"sdrag=
+ drag cursor-s-resize" data-subplot=3D"xy" x=3D"59.5" y=3D"339" width=3D"20=
+" height=3D"31" style=3D"fill: transparent; stroke-width: 0; pointer-events=
+: all;"></rect><rect class=3D"ndrag drag cursor-n-resize" data-subplot=3D"x=
+y" x=3D"59.5" y=3D"60" width=3D"20" height=3D"31" style=3D"fill: transparen=
+t; stroke-width: 0; pointer-events: all;"></rect></g></g><g class=3D"layer-=
+below"><g class=3D"imagelayer"></g><g class=3D"shapelayer"></g></g><g class=
+=3D"cartesianlayer"><g class=3D"subplot xy"><g class=3D"layer-subplot"><g c=
+lass=3D"shapelayer"></g><g class=3D"imagelayer"></g></g><g class=3D"minor-g=
+ridlayer"><g class=3D"x"></g><g class=3D"y"></g></g><g class=3D"gridlayer">=
+<g class=3D"x"></g><g class=3D"y"><path class=3D"ygrid crisp" transform=3D"=
+translate(0,302.35)" d=3D"M80,0h540" style=3D"stroke: rgb(255, 255, 255); s=
+troke-opacity: 1; stroke-width: 1px;"></path><path class=3D"ygrid crisp" tr=
+ansform=3D"translate(0,234.71)" d=3D"M80,0h540" style=3D"stroke: rgb(255, 2=
+55, 255); stroke-opacity: 1; stroke-width: 1px;"></path><path class=3D"ygri=
+d crisp" transform=3D"translate(0,167.06)" d=3D"M80,0h540" style=3D"stroke:=
+ rgb(255, 255, 255); stroke-opacity: 1; stroke-width: 1px;"></path><path cl=
+ass=3D"ygrid crisp" transform=3D"translate(0,99.41)" d=3D"M80,0h540" style=
+=3D"stroke: rgb(255, 255, 255); stroke-opacity: 1; stroke-width: 1px;"></pa=
+th></g></g><g class=3D"zerolinelayer"><path class=3D"yzl zl crisp" transfor=
+m=3D"translate(0,370)" d=3D"M80,0h540" style=3D"stroke: rgb(255, 255, 255);=
+ stroke-opacity: 1; stroke-width: 2px;"></path></g><path class=3D"xlines-be=
+low"></path><path class=3D"ylines-below"></path><g class=3D"overlines-below=
+"></g><g class=3D"xaxislayer-below"></g><g class=3D"yaxislayer-below"></g><=
+g class=3D"overaxes-below"></g><g class=3D"plot" transform=3D"translate(80,=
+60)" clip-path=3D"url(#clip72d54fxyplot)"><g class=3D"barlayer mlayer"><g c=
+lass=3D"trace bars" style=3D"opacity: 1;"><g class=3D"points"><g class=3D"p=
+oint"><path d=3D"M538.09,310V294.41H539.79V310Z" style=3D"vector-effect: no=
+n-scaling-stroke; opacity: 1; stroke-width: 0.5px; fill: rgb(99, 110, 250);=
+ fill-opacity: 1; stroke: rgb(229, 236, 246); stroke-opacity: 1;"></path></=
+g><g class=3D"point"><path d=3D"M535.96,310V274.34H537.66V310Z" style=3D"ve=
+ctor-effect: non-scaling-stroke; opacity: 1; stroke-width: 0.5px; fill: rgb=
+(99, 110, 250); fill-opacity: 1; stroke: rgb(229, 236, 246); stroke-opacity=
+: 1;"></path></g><g class=3D"point"><path d=3D"M504.07,310V281.8H505.77V310=
+Z" style=3D"vector-effect: non-scaling-stroke; opacity: 1; stroke-width: 0.=
+5px; fill: rgb(99, 110, 250); fill-opacity: 1; stroke: rgb(229, 236, 246); =
+stroke-opacity: 1;"></path></g><g class=3D"point"><path d=3D"M387.14,310V16=
+2.09H388.84V310Z" style=3D"vector-effect: non-scaling-stroke; opacity: 1; s=
+troke-width: 0.5px; fill: rgb(99, 110, 250); fill-opacity: 1; stroke: rgb(2=
+29, 236, 246); stroke-opacity: 1;"></path></g><g class=3D"point"><path d=3D=
+"M253.2,310V231.41H254.91V310Z" style=3D"vector-effect: non-scaling-stroke;=
+ opacity: 1; stroke-width: 0.5px; fill: rgb(99, 110, 250); fill-opacity: 1;=
+ stroke: rgb(229, 236, 246); stroke-opacity: 1;"></path></g><g class=3D"poi=
+nt"><path d=3D"M223.44,310V122.14H225.14V310Z" style=3D"vector-effect: non-=
+scaling-stroke; opacity: 1; stroke-width: 0.5px; fill: rgb(99, 110, 250); f=
+ill-opacity: 1; stroke: rgb(229, 236, 246); stroke-opacity: 1;"></path></g>=
+<g class=3D"point"><path d=3D"M172.42,310V274.44H174.12V310Z" style=3D"vect=
+or-effect: non-scaling-stroke; opacity: 1; stroke-width: 0.5px; fill: rgb(9=
+9, 110, 250); fill-opacity: 1; stroke: rgb(229, 236, 246); stroke-opacity: =
+1;"></path></g><g class=3D"point"><path d=3D"M151.16,310V237.89H152.86V310Z=
+" style=3D"vector-effect: non-scaling-stroke; opacity: 1; stroke-width: 0.5=
+px; fill: rgb(99, 110, 250); fill-opacity: 1; stroke: rgb(229, 236, 246); s=
+troke-opacity: 1;"></path></g><g class=3D"point"><path d=3D"M134.15,310V252=
+.54H135.85V310Z" style=3D"vector-effect: non-scaling-stroke; opacity: 1; st=
+roke-width: 0.5px; fill: rgb(99, 110, 250); fill-opacity: 1; stroke: rgb(22=
+9, 236, 246); stroke-opacity: 1;"></path></g><g class=3D"point"><path d=3D"=
+M119.27,310V179.89H120.97V310Z" style=3D"vector-effect: non-scaling-stroke;=
+ opacity: 1; stroke-width: 0.5px; fill: rgb(99, 110, 250); fill-opacity: 1;=
+ stroke: rgb(229, 236, 246); stroke-opacity: 1;"></path></g><g class=3D"poi=
+nt"><path d=3D"M104.39,310V139.13H106.09V310Z" style=3D"vector-effect: non-=
+scaling-stroke; opacity: 1; stroke-width: 0.5px; fill: rgb(99, 110, 250); f=
+ill-opacity: 1; stroke: rgb(229, 236, 246); stroke-opacity: 1;"></path></g>=
+<g class=3D"point"><path d=3D"M66.12,310V246.46H67.82V310Z" style=3D"vector=
+-effect: non-scaling-stroke; opacity: 1; stroke-width: 0.5px; fill: rgb(99,=
+ 110, 250); fill-opacity: 1; stroke: rgb(229, 236, 246); stroke-opacity: 1;=
+"></path></g><g class=3D"point"><path d=3D"M8.72,310V231.77H10.42V310Z" sty=
+le=3D"vector-effect: non-scaling-stroke; opacity: 1; stroke-width: 0.5px; f=
+ill: rgb(99, 110, 250); fill-opacity: 1; stroke: rgb(229, 236, 246); stroke=
+-opacity: 1;"></path></g><g class=3D"point"><path d=3D"M8.72,231.77V186H10.=
+42V231.77Z" style=3D"vector-effect: non-scaling-stroke; opacity: 1; stroke-=
+width: 0.5px; fill: rgb(99, 110, 250); fill-opacity: 1; stroke: rgb(229, 23=
+6, 246); stroke-opacity: 1;"></path></g><g class=3D"point"><path d=3D"M0.21=
+,310V15.5H1.91V310Z" style=3D"vector-effect: non-scaling-stroke; opacity: 1=
+; stroke-width: 0.5px; fill: rgb(99, 110, 250); fill-opacity: 1; stroke: rg=
+b(229, 236, 246); stroke-opacity: 1;"></path></g></g></g></g></g><g class=
+=3D"overplot"></g><path class=3D"xlines-above crisp" d=3D"M0,0" style=3D"fi=
+ll: none;"></path><path class=3D"ylines-above crisp" d=3D"M0,0" style=3D"fi=
+ll: none;"></path><g class=3D"overlines-above"></g><g class=3D"xaxislayer-a=
+bove"><g class=3D"xtick"><text text-anchor=3D"middle" x=3D"0" y=3D"383" dat=
+a-unformatted=3D"Mar 2022" data-math=3D"N" transform=3D"translate(187.36,0)=
+" style=3D"font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size:=
+ 12px; fill: rgb(49, 51, 63); fill-opacity: 1; white-space: pre; opacity: 1=
+;">Mar 2022</text></g><g class=3D"xtick"><text text-anchor=3D"middle" x=3D"=
+0" y=3D"383" data-unformatted=3D"May 2022" data-math=3D"N" style=3D"font-fa=
+mily: &quot;Source Sans Pro&quot;, sans-serif; font-size: 12px; fill: rgb(4=
+9, 51, 63); fill-opacity: 1; white-space: pre; opacity: 1;" transform=3D"tr=
+anslate(317.05,0)">May 2022</text></g><g class=3D"xtick"><text text-anchor=
+=3D"middle" x=3D"0" y=3D"383" data-unformatted=3D"Jul 2022" data-math=3D"N"=
+ style=3D"font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: =
+12px; fill: rgb(49, 51, 63); fill-opacity: 1; white-space: pre; opacity: 1;=
+" transform=3D"translate(446.73,0)">Jul 2022</text></g><g class=3D"xtick"><=
+text text-anchor=3D"middle" x=3D"0" y=3D"383" data-unformatted=3D"Sep 2022"=
+ data-math=3D"N" style=3D"font-family: &quot;Source Sans Pro&quot;, sans-se=
+rif; font-size: 12px; fill: rgb(49, 51, 63); fill-opacity: 1; white-space: =
+pre; opacity: 1;" transform=3D"translate(578.54,0)">Sep 2022</text></g></g>=
+<g class=3D"yaxislayer-above"><g class=3D"ytick"><text text-anchor=3D"end" =
+x=3D"79" y=3D"4.199999999999999" data-unformatted=3D"0" data-math=3D"N" tra=
+nsform=3D"translate(0,370)" style=3D"font-family: &quot;Source Sans Pro&quo=
+t;, sans-serif; font-size: 12px; fill: rgb(49, 51, 63); fill-opacity: 1; wh=
+ite-space: pre; opacity: 1;">0</text></g><g class=3D"ytick"><text text-anch=
+or=3D"end" x=3D"79" y=3D"4.199999999999999" data-unformatted=3D"20k" data-m=
+ath=3D"N" style=3D"font-family: &quot;Source Sans Pro&quot;, sans-serif; fo=
+nt-size: 12px; fill: rgb(49, 51, 63); fill-opacity: 1; white-space: pre; op=
+acity: 1;" transform=3D"translate(0,302.35)">20k</text></g><g class=3D"ytic=
+k"><text text-anchor=3D"end" x=3D"79" y=3D"4.199999999999999" data-unformat=
+ted=3D"40k" data-math=3D"N" style=3D"font-family: &quot;Source Sans Pro&quo=
+t;, sans-serif; font-size: 12px; fill: rgb(49, 51, 63); fill-opacity: 1; wh=
+ite-space: pre; opacity: 1;" transform=3D"translate(0,234.71)">40k</text></=
+g><g class=3D"ytick"><text text-anchor=3D"end" x=3D"79" y=3D"4.199999999999=
+999" data-unformatted=3D"60k" data-math=3D"N" style=3D"font-family: &quot;S=
+ource Sans Pro&quot;, sans-serif; font-size: 12px; fill: rgb(49, 51, 63); f=
+ill-opacity: 1; white-space: pre; opacity: 1;" transform=3D"translate(0,167=
+.06)">60k</text></g><g class=3D"ytick"><text text-anchor=3D"end" x=3D"79" y=
+=3D"4.199999999999999" data-unformatted=3D"80k" data-math=3D"N" style=3D"fo=
+nt-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 12px; fill: =
+rgb(49, 51, 63); fill-opacity: 1; white-space: pre; opacity: 1;" transform=
+=3D"translate(0,99.41)">80k</text></g></g><g class=3D"overaxes-above"></g><=
+/g></g><g class=3D"polarlayer"></g><g class=3D"smithlayer"></g><g class=3D"=
+ternarylayer"></g><g class=3D"geolayer"></g><g class=3D"funnelarealayer"></=
+g><g class=3D"pielayer"></g><g class=3D"iciclelayer"></g><g class=3D"treema=
+player"></g><g class=3D"sunburstlayer"></g><g class=3D"glimages"></g></svg>=
+<div class=3D"gl-container"></div><svg class=3D"main-svg" xmlns=3D"http://w=
+ww.w3.org/2000/svg" xmlns:xlink=3D"http://www.w3.org/1999/xlink" width=3D"7=
+00" height=3D"450"><defs id=3D"topdefs-72d54f"><g class=3D"clips"></g></def=
+s><g class=3D"indicatorlayer"></g><g class=3D"layer-above"><g class=3D"imag=
+elayer"></g><g class=3D"shapelayer"></g></g><g class=3D"selectionlayer"></g=
+><g class=3D"infolayer"><g class=3D"g-gtitle"></g><g class=3D"g-xtitle"><te=
+xt class=3D"xtitle" x=3D"350" y=3D"410.76325302124025" text-anchor=3D"middl=
+e" data-unformatted=3D"Publish_date" data-math=3D"N" style=3D"font-family: =
+&quot;Source Sans Pro&quot;, sans-serif; font-size: 14px; fill: rgb(49, 51,=
+ 63); opacity: 1; font-weight: normal; white-space: pre;">Publish_date</tex=
+t></g><g class=3D"g-ytitle"><text class=3D"ytitle" transform=3D"rotate(-90,=
+36.3416015625,215)" x=3D"36.3416015625" y=3D"215" text-anchor=3D"middle" da=
+ta-unformatted=3D"viewer_count" data-math=3D"N" style=3D"font-family: &quot=
+;Source Sans Pro&quot;, sans-serif; font-size: 14px; fill: rgb(49, 51, 63);=
+ opacity: 1; font-weight: normal; white-space: pre;">viewer_count</text></g=
+></g><g class=3D"menulayer"></g><g class=3D"zoomlayer"></g></svg><div class=
+=3D"modebar-container" style=3D"position: absolute; top: 0px; right: 0px; w=
+idth: 100%;"><div id=3D"modebar-72d54f" class=3D"modebar modebar--hover eas=
+e-bg"><div class=3D"modebar-group"><a rel=3D"tooltip" class=3D"modebar-btn"=
+ data-title=3D"Download plot as a png" data-toggle=3D"false" data-gravity=
+=3D"n"><svg viewBox=3D"0 0 1000 1000" class=3D"icon" height=3D"1em" width=
+=3D"1em"><path d=3D"m500 450c-83 0-150-67-150-150 0-83 67-150 150-150 83 0 =
+150 67 150 150 0 83-67 150-150 150z m400 150h-120c-16 0-34 13-39 29l-31 93c=
+-6 15-23 28-40 28h-340c-16 0-34-13-39-28l-31-94c-6-15-23-28-40-28h-120c-55 =
+0-100-45-100-100v-450c0-55 45-100 100-100h800c55 0 100 45 100 100v450c0 55-=
+45 100-100 100z m-400-550c-138 0-250 112-250 250 0 138 112 250 250 250 138 =
+0 250-112 250-250 0-138-112-250-250-250z m365 380c-19 0-35 16-35 35 0 19 16=
+ 35 35 35 19 0 35-16 35-35 0-19-16-35-35-35z" transform=3D"matrix(1 0 0 -1 =
+0 850)"></path></svg></a></div><div class=3D"modebar-group"><a rel=3D"toolt=
+ip" class=3D"modebar-btn active" data-title=3D"Zoom" data-attr=3D"dragmode"=
+ data-val=3D"zoom" data-toggle=3D"false" data-gravity=3D"n"><svg viewBox=3D=
+"0 0 1000 1000" class=3D"icon" height=3D"1em" width=3D"1em"><path d=3D"m100=
+0-25l-250 251c40 63 63 138 63 218 0 224-182 406-407 406-224 0-406-182-406-4=
+06s183-406 407-406c80 0 155 22 218 62l250-250 125 125z m-812 250l0 438 437 =
+0 0-438-437 0z m62 375l313 0 0-312-313 0 0 312z" transform=3D"matrix(1 0 0 =
+-1 0 850)"></path></svg></a><a rel=3D"tooltip" class=3D"modebar-btn" data-t=
+itle=3D"Pan" data-attr=3D"dragmode" data-val=3D"pan" data-toggle=3D"false" =
+data-gravity=3D"n"><svg viewBox=3D"0 0 1000 1000" class=3D"icon" height=3D"=
+1em" width=3D"1em"><path d=3D"m1000 350l-187 188 0-125-250 0 0 250 125 0-18=
+8 187-187-187 125 0 0-250-250 0 0 125-188-188 186-187 0 125 252 0 0-250-125=
+ 0 187-188 188 188-125 0 0 250 250 0 0-126 187 188z" transform=3D"matrix(1 =
+0 0 -1 0 850)"></path></svg></a><a rel=3D"tooltip" class=3D"modebar-btn" da=
+ta-title=3D"Box Select" data-attr=3D"dragmode" data-val=3D"select" data-tog=
+gle=3D"false" data-gravity=3D"n"><svg viewBox=3D"0 0 1000 1000" class=3D"ic=
+on" height=3D"1em" width=3D"1em"><path d=3D"m0 850l0-143 143 0 0 143-143 0z=
+ m286 0l0-143 143 0 0 143-143 0z m285 0l0-143 143 0 0 143-143 0z m286 0l0-1=
+43 143 0 0 143-143 0z m-857-286l0-143 143 0 0 143-143 0z m857 0l0-143 143 0=
+ 0 143-143 0z m-857-285l0-143 143 0 0 143-143 0z m857 0l0-143 143 0 0 143-1=
+43 0z m-857-286l0-143 143 0 0 143-143 0z m286 0l0-143 143 0 0 143-143 0z m2=
+85 0l0-143 143 0 0 143-143 0z m286 0l0-143 143 0 0 143-143 0z" transform=3D=
+"matrix(1 0 0 -1 0 850)"></path></svg></a><a rel=3D"tooltip" class=3D"modeb=
+ar-btn" data-title=3D"Lasso Select" data-attr=3D"dragmode" data-val=3D"lass=
+o" data-toggle=3D"false" data-gravity=3D"n"><svg viewBox=3D"0 0 1031 1000" =
+class=3D"icon" height=3D"1em" width=3D"1em"><path d=3D"m1018 538c-36 207-29=
+0 336-568 286-277-48-473-256-436-463 10-57 36-108 76-151-13-66 11-137 68-18=
+3 34-28 75-41 114-42l-55-70 0 0c-2-1-3-2-4-3-10-14-8-34 5-45 14-11 34-8 45 =
+4 1 1 2 3 2 5l0 0 113 140c16 11 31 24 45 40 4 3 6 7 8 11 48-3 100 0 151 9 2=
+78 48 473 255 436 462z m-624-379c-80 14-149 48-197 96 42 42 109 47 156 9 33=
+-26 47-66 41-105z m-187-74c-19 16-33 37-39 60 50-32 109-55 174-68-42-25-95-=
+24-135 8z m360 75c-34-7-69-9-102-8 8 62-16 128-68 170-73 59-175 54-244-5-9 =
+20-16 40-20 61-28 159 121 317 333 354s407-60 434-217c28-159-121-318-333-355=
+z" transform=3D"matrix(1 0 0 -1 0 850)"></path></svg></a></div><div class=
+=3D"modebar-group"><a rel=3D"tooltip" class=3D"modebar-btn" data-title=3D"Z=
+oom in" data-attr=3D"zoom" data-val=3D"in" data-toggle=3D"false" data-gravi=
+ty=3D"n"><svg viewBox=3D"0 0 875 1000" class=3D"icon" height=3D"1em" width=
+=3D"1em"><path d=3D"m1 787l0-875 875 0 0 875-875 0z m687-500l-187 0 0-187-1=
+25 0 0 187-188 0 0 125 188 0 0 187 125 0 0-187 187 0 0-125z" transform=3D"m=
+atrix(1 0 0 -1 0 850)"></path></svg></a><a rel=3D"tooltip" class=3D"modebar=
+-btn" data-title=3D"Zoom out" data-attr=3D"zoom" data-val=3D"out" data-togg=
+le=3D"false" data-gravity=3D"n"><svg viewBox=3D"0 0 875 1000" class=3D"icon=
+" height=3D"1em" width=3D"1em"><path d=3D"m0 788l0-876 875 0 0 876-875 0z m=
+688-500l-500 0 0 125 500 0 0-125z" transform=3D"matrix(1 0 0 -1 0 850)"></p=
+ath></svg></a><a rel=3D"tooltip" class=3D"modebar-btn" data-title=3D"Autosc=
+ale" data-attr=3D"zoom" data-val=3D"auto" data-toggle=3D"false" data-gravit=
+y=3D"n"><svg viewBox=3D"0 0 1000 1000" class=3D"icon" height=3D"1em" width=
+=3D"1em"><path d=3D"m250 850l-187 0-63 0 0-62 0-188 63 0 0 188 187 0 0 62z =
+m688 0l-188 0 0-62 188 0 0-188 62 0 0 188 0 62-62 0z m-875-938l0 188-63 0 0=
+-188 0-62 63 0 187 0 0 62-187 0z m875 188l0-188-188 0 0-62 188 0 62 0 0 62 =
+0 188-62 0z m-125 188l-1 0-93-94-156 156 156 156 92-93 2 0 0 250-250 0 0-2 =
+93-92-156-156-156 156 94 92 0 2-250 0 0-250 0 0 93 93 157-156-157-156-93 94=
+ 0 0 0-250 250 0 0 0-94 93 156 157 156-157-93-93 0 0 250 0 0 250z" transfor=
+m=3D"matrix(1 0 0 -1 0 850)"></path></svg></a><a rel=3D"tooltip" class=3D"m=
+odebar-btn" data-title=3D"Reset axes" data-attr=3D"zoom" data-val=3D"reset"=
+ data-toggle=3D"false" data-gravity=3D"n"><svg viewBox=3D"0 0 928.6 1000" c=
+lass=3D"icon" height=3D"1em" width=3D"1em"><path d=3D"m786 296v-267q0-15-11=
+-26t-25-10h-214v214h-143v-214h-214q-15 0-25 10t-11 26v267q0 1 0 2t0 2l321 2=
+64 321-264q1-1 1-4z m124 39l-34-41q-5-5-12-6h-2q-7 0-12 3l-386 322-386-322q=
+-7-4-13-4-7 2-12 7l-35 41q-4 5-3 13t6 12l401 334q18 15 42 15t43-15l136-114v=
+109q0 8 5 13t13 5h107q8 0 13-5t5-13v-227l122-102q5-5 6-12t-4-13z" transform=
+=3D"matrix(1 0 0 -1 0 850)"></path></svg></a></div><div class=3D"modebar-gr=
+oup"><a href=3D"https://plotly.com/" target=3D"_blank" data-title=3D"Produc=
+ed with Plotly.js (v2.13.2)" class=3D"modebar-btn plotlyjsicon modebar-btn-=
+-logo"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 132 132" he=
+ight=3D"1em" width=3D"1em"><defs> <style>  .cls-0{fill:#000;}  .cls-1{fill:=
+#FFF;}  .cls-2{fill:#F26;}  .cls-3{fill:#D69;}  .cls-4{fill:#BAC;}  .cls-5{=
+fill:#9EF;} </style></defs> <title>plotly-logomark</title> <g id=3D"symbol"=
+>  <rect class=3D"cls-0" x=3D"0" y=3D"0" width=3D"132" height=3D"132" rx=3D=
+"18" ry=3D"18"></rect>  <circle class=3D"cls-5" cx=3D"102" cy=3D"30" r=3D"6=
+"></circle>  <circle class=3D"cls-4" cx=3D"78" cy=3D"30" r=3D"6"></circle> =
+ <circle class=3D"cls-4" cx=3D"78" cy=3D"54" r=3D"6"></circle>  <circle cla=
+ss=3D"cls-3" cx=3D"54" cy=3D"30" r=3D"6"></circle>  <circle class=3D"cls-2"=
+ cx=3D"30" cy=3D"30" r=3D"6"></circle>  <circle class=3D"cls-2" cx=3D"30" c=
+y=3D"54" r=3D"6"></circle>  <path class=3D"cls-1" d=3D"M30,72a6,6,0,0,0-6,6=
+v24a6,6,0,0,0,12,0V78A6,6,0,0,0,30,72Z"></path>  <path class=3D"cls-1" d=3D=
+"M78,72a6,6,0,0,0-6,6v24a6,6,0,0,0,12,0V78A6,6,0,0,0,78,72Z"></path>  <path=
+ class=3D"cls-1" d=3D"M54,48a6,6,0,0,0-6,6v48a6,6,0,0,0,12,0V54A6,6,0,0,0,5=
+4,48Z"></path>  <path class=3D"cls-1" d=3D"M102,48a6,6,0,0,0-6,6v48a6,6,0,0=
+,0,12,0V54A6,6,0,0,0,102,48Z"></path> </g></svg></a></div></div></div><svg =
+class=3D"main-svg" xmlns=3D"http://www.w3.org/2000/svg" xmlns:xlink=3D"http=
+://www.w3.org/1999/xlink" width=3D"700" height=3D"450"><g class=3D"hoverlay=
+er"></g></svg></div></div></div></div></div></div></div><div class=3D"resiz=
+e-triggers"><div class=3D"expand-trigger"><div style=3D"width: 737px; heigh=
+t: 1822px;"></div></div><div class=3D"contract-trigger"></div></div></div><=
+footer class=3D"css-1q1n0ol egzxvld0">Made with <a href=3D"http://streamlit=
+.io/" class=3D"css-1vbd788 egzxvld1">Streamlit</a></footer></section></div>=
+</div></div></div><div id=3D"portal" class=3D"css-1q6lfs0 eczokvf0"></div><=
+/div><div class=3D""></div></div><svg id=3D"js-plotly-tester" xmlns=3D"http=
+://www.w3.org/2000/svg" xmlns:xlink=3D"http://www.w3.org/1999/xlink" style=
+=3D"position: absolute; left: -10000px; top: -10000px; width: 9000px; heigh=
+t: 9000px; z-index: 1;"><path class=3D"js-reference-point" d=3D"M0,0H1V1H0Z=
+" style=3D"stroke-width: 0; fill: black;"></path></svg></body></html>
+------MultipartBoundary--ADeft7S5ifuauBldyS7o1JZMVvW2ahoqR2WROf3jcA----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-4b979924-73dc-4a05-8182-e7ce1da6ef07@mhtml.blink
+
+@charset "utf-8";
+
+.bk-root { position: relative; width: auto; height: auto; box-sizing: borde=
+r-box; font-family: Helvetica, Arial, sans-serif; font-size: 13px; }
+
+.bk-root .bk, .bk-root .bk::before, .bk-root .bk::after { box-sizing: inher=
+it; margin: 0px; border: 0px; padding: 0px; background-image: none; font-fa=
+mily: inherit; font-size: 100%; line-height: 1.42857; }
+
+.bk-root pre.bk { font-family: Courier, monospace; }
+
+.bk-root .bk-logo { margin: 5px; position: relative; display: block; backgr=
+ound-repeat: no-repeat; }
+
+.bk-root .bk-logo.bk-grey { filter: grayscale(100%); }
+
+.bk-root .bk-logo-small { width: 20px; height: 20px; background-image: url(=
+"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABHNC=
+SVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABx0RVh0U29mdHdhcmUAQWRvYmUgRml=
+yZXdvcmtzIENTNui8sowAAAOkSURBVDiNjZRtaJVlGMd/1/08zzln5zjP1LWcU9N0NkN8m2CYjp=
+gQYQXqSs0I84OLIC0hkEKoPtiH3gmKoiJDU7QpLgoLjLIQCpEsNJ1vqUOdO7ppbuec5+V+rj4ct=
+wzd8IIbbi6u+8f1539dt3A78eXC7QizUF7gyV1fD1Yqg4JWz84yffhm0qkFqBogB9rM8tZdtwVs=
+PUhWhGcFJngGeWrPzHm5oaMmkfEg1usvLFyc8jLRqDOMru7AyC8saQr7GG7f5fvDeH7Ej8CM66n=
+IF+8yngt6HWaKh7k49Soy9nXurCi1o3qUbS3zWfrYeQDTB/Qj6kX6Ybhw4B+bOYoLKCC9H3Nu/l=
+eUTZ1JdRWkkn2ldcCamzrcf47KKXdAJllSlxAOkRgyHsGC/zRday5Qld9DyoM4/q/rUoy/CXh3j=
+zOu3bHUVZeU+DEn8FInkPBFlu3+nW3Nw0mk6vCDiWg8CeJaxEwuHS3+z5RgY+YBR6V1Z1nxSOfo=
+aPa4LASWxxdNp+VWTk7+4vzaou8v8PN+xo+KY2xsw6une2frhw05CTYOmQvsEhjhWjn0bmXPjpE=
+1+kplmmkP3suftwTubK9Vq22qKmrBhpY4jvd5afdRA3wGjFAgcnTK2s4hY0/GPNIb0nErGMCRxW=
+OOX64Z8RAC4oCXdklmEvcL8o0BfkNK4lUg9HTl+oPlQxdNo3Mg4Nv175e/1LDGzZen30MEjRUtm=
+XSfiTVu1kK8W4txyV6BMKlbgk3lMwYCiusNy9fVfvvwMxv8Ynl6vxoByANLTWplvuj/nF9m2+PD=
+tt1eiHPBr1oIfhCChQMBw6Aw0UulqTKZdfVvfG7VcfIqLG9bcldL/+pdWTLxLUy8Qq38heUIjh4=
+XlzZxzQm19lLFlr8vdQ97rjZVOLf8nclzckbcD4wxXMidpX30sFd37Fv/GtwwhzhxGVAprjbg0g=
+CAEeIgwCZyTV2Z1REEW8O4py0wsjeloKoMr6iCY6dP92H6Vw/oTyICIthibxjm/DfN9lVz8Iqtq=
+KYLUXfoKVMVQVVJOElGjrnnUt9T9wbgp8AyYKaGlqingHZU/uG2NTZSVqwHQTWkx9hxjkpWDaCg=
+6Ckj5qebgBVbT3V3NNXMSiWSDdGV3hrtzla7J+duwPOToIg42ChPQOQjspnSlp1V+Gjdged7+8U=
+N5CRAV7a5EdFNwCjEaBR27b3W890TE7g24NAP/mMDXRWrGoFPQI9ls/MWO2dWFAar/xcOIImbbp=
+A3zgAAAABJRU5ErkJggg=3D=3D"); }
+
+.bk-root .bk-logo-notebook { display: inline-block; vertical-align: middle;=
+ margin-right: 5px; }
+
+.rendered_html .bk-root .bk-tooltip table, .rendered_html .bk-root .bk-tool=
+tip tr, .rendered_html .bk-root .bk-tooltip th, .rendered_html .bk-root .bk=
+-tooltip td { border: none; padding: 1px; }
+------MultipartBoundary--ADeft7S5ifuauBldyS7o1JZMVvW2ahoqR2WROf3jcA----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-192dbd3f-e25a-4919-a472-77e9eb5cd79c@mhtml.blink
+
+@charset "utf-8";
+
+.st-ae { font-family: "Source Sans Pro", sans-serif; }
+
+.st-af { font-size: 1rem; }
+
+.st-ag { font-weight: normal; }
+
+.st-ah { line-height: 1.6; }
+
+.st-ai { }
+
+.st-aj { }
+
+.st-ak { pointer-events: auto; }
+
+.st-al { color: rgb(0, 66, 128); }
+
+.st-am { height: auto; }
+
+.st-an { width: 0px; }
+
+.st-ao { padding-top: 16px; }
+
+.st-ap { padding-right: 16px; }
+
+.st-aq { padding-bottom: 16px; }
+
+.st-ar { padding-left: 16px; }
+
+.st-as { margin-top: 0px; }
+
+.st-at { margin-bottom: 0px; }
+
+.st-au { background-color: rgba(28, 131, 225, 0.1); }
+
+.st-av { border-top-left-radius: 0.25rem; }
+
+.st-aw { border-top-right-radius: 0.25rem; }
+
+.st-ax { border-bottom-right-radius: 0.25rem; }
+
+.st-ay { border-bottom-left-radius: 0.25rem; }
+
+.st-az { box-shadow: none; }
+
+.st-b0 { opacity: 0; }
+
+.st-b1 { transition-property: all; }
+
+.st-b2 { transition-duration: 200ms; }
+
+.st-b3 { transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); }
+
+.st-b4 { display: flex; }
+
+.st-b5 { -webkit-box-pack: justify; justify-content: space-between; }
+
+.st-b6 { border: 0px; }
+
+.st-b7 { width: 100%; }
+
+.st-b8 { line-height: 1.5; }
+
+.st-b9 { }
+
+.st-ba { opacity: 1; }
+
+.st-bb { }
+
+.st-bc { line-height: 1.4; }
+
+.st-bd { box-sizing: border-box; }
+
+.st-be { position: relative; }
+
+.st-bf { overflow: hidden; }
+
+.st-bg { cursor: text; }
+
+.st-bh { border-left-width: 1px; }
+
+.st-bi { border-right-width: 1px; }
+
+.st-bj { border-top-width: 1px; }
+
+.st-bk { border-bottom-width: 1px; }
+
+.st-bl { border-left-style: solid; }
+
+.st-bm { border-right-style: solid; }
+
+.st-bn { border-top-style: solid; }
+
+.st-bo { border-bottom-style: solid; }
+
+.st-bp { transition-property: border, box-shadow, background-color; }
+
+.st-bq { transition-timing-function: cubic-bezier(0.2, 0.8, 0.4, 1); }
+
+.st-br { color: rgb(49, 51, 63); }
+
+.st-bs { border-left-color: rgb(255, 255, 255); }
+
+.st-bt { border-right-color: rgb(255, 255, 255); }
+
+.st-bu { border-top-color: rgb(255, 255, 255); }
+
+.st-bv { border-bottom-color: rgb(255, 255, 255); }
+
+.st-bw { background-color: rgb(255, 255, 255); }
+
+.st-bx { -webkit-box-flex: 1; flex-grow: 1; }
+
+.st-by { flex-shrink: 1; }
+
+.st-bz { flex-basis: 0%; }
+
+.st-c0 { -webkit-box-align: center; align-items: center; }
+
+.st-c1 { flex-wrap: nowrap; }
+
+.st-c2 { padding-top: 0.5rem; }
+
+.st-c3 { padding-bottom: 0.5rem; }
+
+.st-c4 { padding-left: 0.5rem; }
+
+.st-c5 { padding-right: 0.5rem; }
+
+.st-c6 { line-height: inherit; }
+
+.st-c7 { margin-left: 2px; }
+
+.st-c8 { height: 100%; }
+
+.st-c9 { max-width: 100%; }
+
+.st-ca { text-overflow: ellipsis; }
+
+.st-cb { white-space: nowrap; }
+
+.st-cc { overflow-wrap: normal; }
+
+.st-cd { display: inline-block; }
+
+.st-ce { background-color: transparent; }
+
+.st-cf { border-left-style: none; }
+
+.st-cg { border-top-style: none; }
+
+.st-ch { border-right-style: none; }
+
+.st-ci { border-bottom-style: none; }
+
+.st-cj { outline: none; }
+
+.st-ck { margin-right: 0px; }
+
+.st-cl { padding-top: 0px; }
+
+.st-cm { padding-bottom: 0px; }
+
+.st-cn { padding-left: 0px; }
+
+.st-co { padding-right: 0px; }
+
+.st-cp { }
+
+.st-cq { box-sizing: content-box; }
+
+.st-cr { width: 5px; }
+
+.st-cs { background: transparent; }
+
+.st-ct { margin-left: 0px; }
+
+.st-cu { position: absolute; }
+
+.st-cv { top: 0px; }
+
+.st-cw { left: 0px; }
+
+.st-cx { visibility: hidden; }
+
+.st-cy { height: 0px; }
+
+.st-cz { overflow: scroll; }
+
+.st-d0 { white-space: pre; }
+
+.st-d1 { flex-shrink: 0; }
+
+.st-d2 { align-self: stretch; }
+
+.st-d3 { fill: currentcolor; }
+
+.st-d4 { height: 16px; }
+
+.st-d5 { width: 16px; }
+
+.st-d6 { cursor: pointer; }
+
+.st-d7 { border-left-color: rgb(240, 242, 246); }
+
+.st-d8 { border-right-color: rgb(240, 242, 246); }
+
+.st-d9 { border-top-color: rgb(240, 242, 246); }
+
+.st-da { border-bottom-color: rgb(240, 242, 246); }
+
+.st-db { background-color: rgb(240, 242, 246); }
+
+.st-dc { width: 2px; }
+
+.st-dd { border-left-color: rgb(255, 75, 75); }
+
+.st-de { border-right-color: rgb(255, 75, 75); }
+
+.st-df { border-top-color: rgb(255, 75, 75); }
+
+.st-dg { border-bottom-color: rgb(255, 75, 75); }
+
+.st-dh { right: 0px; }
+
+.st-di { z-index: 1000040; }
+
+.st-dj { box-shadow: rgba(0, 0, 0, 0.16) 0px 4px 16px; }
+
+.st-dk { transition-property: opacity, transform; }
+
+.st-dl { transition-duration: 0s; }
+
+.st-dm { transform: translate3d(0px, 0px, 0px); }
+
+.st-dn { margin-top: 1px; }
+
+.st-do { width: 212px; }
+
+.st-dp { overflow: auto; }
+
+.st-dq:focus { outline: none; }
+
+.st-dr { display: block; }
+
+.st-ds { transition-property: color, background-color; }
+
+.st-dt { padding-top: 8px; }
+
+.st-du { padding-bottom: 8px; }
+
+.st-dv { transform: translate3d(15px, 170px, 0px); }
+
+.st-dw { transition-duration: 0.1s; }
+------MultipartBoundary--ADeft7S5ifuauBldyS7o1JZMVvW2ahoqR2WROf3jcA----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-a27507b0-f9b3-4b55-98d7-691a2fdd75a0@mhtml.blink
+
+@charset "utf-8";
+
+a, a:visited { color: rgb(255, 75, 75); }
+
+a:hover, a:active { color: rgb(255, 75, 75); text-decoration: underline; }
+
+iframe { border: none; padding: 0px; margin: 0px; }
+
+code { padding: 0.2em 0.4em; margin: 0px; border-radius: 0.25rem; backgroun=
+d: rgb(248, 249, 251); color: rgb(9, 171, 59); }
+
+pre { margin: 0px 0px 1rem; background: rgb(248, 249, 251); border-radius: =
+0.25rem; padding: 1rem; }
+
+pre code { background: transparent; border: 0px; display: inline; font-size=
+: 14px; line-height: inherit; margin: 0px; padding: 0px; white-space: pre; =
+word-break: normal; overflow-wrap: normal; overflow-x: auto; color: rgb(9, =
+171, 59); }
+
+.disabled { color: rgb(213, 218, 229); }
+
+#vg-tooltip-element { font-family: "Source Sans Pro", sans-serif; color: rg=
+b(49, 51, 63); border: 1px solid rgba(49, 51, 63, 0.2); background-color: r=
+gba(255, 255, 255, 0.95); font-size: 14px; box-shadow: rgba(0, 0, 0, 0.16) =
+0px 1px 4px; padding: 0.375rem 0.75rem; border-radius: 0.25rem; z-index: 10=
+00050; }
+
+#vg-tooltip-element td { border: none; }
+
+#vg-tooltip-element table tr td.key { color: rgba(49, 51, 63, 0.6); white-s=
+pace: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+body.embedded { overflow: hidden; }
+
+body.embedded:hover { overflow: auto; }
+
+*, ::before, ::after { box-sizing: border-box; }
+
+body { margin: 0px; font-family: "Source Sans Pro", sans-serif; font-weight=
+: 400; line-height: 1.6; color: rgb(49, 51, 63); background-color: rgb(255,=
+ 255, 255); text-size-adjust: 100%; -webkit-tap-highlight-color: rgba(0, 0,=
+ 0, 0); -webkit-font-smoothing: auto; }
+
+[tabindex=3D"-1"]:focus:not(:focus-visible) { outline: 0px !important; }
+
+hr { margin: 2em 0px; padding: 0px; color: inherit; background-color: trans=
+parent; border-top: none; border-right: none; border-left: none; border-ima=
+ge: initial; border-bottom: 1px solid rgba(49, 51, 63, 0.2); }
+
+hr:not([size]) { height: 1px; }
+
+h1 { font-family: "Source Sans Pro", sans-serif; font-weight: 700; color: r=
+gb(49, 51, 63); padding: 1.25rem 0px 1rem; margin: 0px; line-height: 1.2; }
+
+h2 { font-family: "Source Sans Pro", sans-serif; font-weight: 600; color: r=
+gb(49, 51, 63); letter-spacing: -0.005em; padding: 1rem 0px; margin: 0px; l=
+ine-height: 1.2; }
+
+h3 { font-family: "Source Sans Pro", sans-serif; font-weight: 600; color: r=
+gb(49, 51, 63); letter-spacing: -0.005em; padding: 0.5rem 0px 1rem; margin:=
+ 0px; line-height: 1.2; }
+
+h4 { font-family: "Source Sans Pro", sans-serif; font-weight: 600; color: r=
+gb(49, 51, 63); padding: 0.75rem 0px 1rem; margin: 0px; line-height: 1.2; }
+
+h5 { font-family: "Source Sans Pro", sans-serif; font-weight: 600; color: r=
+gb(49, 51, 63); padding: 0px 0px 1rem; margin: 0px; line-height: 1.2; }
+
+h6 { font-family: "Source Sans Pro", sans-serif; font-weight: 600; color: r=
+gb(49, 51, 63); padding: 0px 0px 1rem; margin: 0px; line-height: 1.2; }
+
+abbr[title], abbr[data-original-title] { text-decoration: underline dotted;=
+ cursor: help; text-decoration-skip-ink: none; }
+
+address { margin-bottom: 1rem; font-style: normal; line-height: inherit; }
+
+p, ol, ul, dl { margin: 0px 0px 1rem; padding: 0px; font-size: 1rem; font-w=
+eight: 400; }
+
+ol ol, ul ul, ol ul, ul ol { margin-bottom: 0px; }
+
+dt { font-size: 1rem; font-weight: 600; margin: 1em 0px 0.2em; padding: 0px=
+; }
+
+dd { margin: 0px 0px 0.2em 1.2em; font-size: 1rem; }
+
+b, strong { font-weight: 600; }
+
+mark { padding: 0.2em; background-color: rgb(240, 242, 246); }
+
+sub, sup { position: relative; line-height: 0; vertical-align: baseline; }
+
+sub { bottom: -0.25em; }
+
+sup { top: -0.5em; }
+
+a { color: rgb(255, 75, 75); text-decoration: underline; }
+
+a:hover { color: rgb(255, 0, 0); }
+
+a:not([href]):not([class]), a:not([href]):not([class]):hover { color: inher=
+it; text-decoration: none; }
+
+pre, code, kbd { font-family: "Source Code Pro", monospace; }
+
+samp { font-family: "Source Code Pro", monospace; }
+
+samp, blockquote { margin: 1em 0px 1em -1px; padding: 0px 0px 0px 1.2em; fo=
+nt-size: 1rem; border-left: 1px solid rgb(230, 234, 241); }
+
+pre { display: block; margin-top: 0px; margin-bottom: 1rem; overflow: auto;=
+ color: rgb(0, 0, 0); }
+
+pre code { color: inherit; word-break: normal; }
+
+code { color: rgb(9, 171, 59); overflow-wrap: break-word; }
+
+a > code { color: inherit; }
+
+kbd { padding: 0.2rem 0.4rem; color: rgb(9, 171, 59); background-color: rgb=
+(248, 249, 251); }
+
+figure { margin: 0px 0px 1rem; }
+
+img, svg { vertical-align: middle; }
+
+table { caption-side: bottom; border-collapse: collapse; }
+
+table caption { padding-top: 0.5rem; padding-bottom: 0px; color: rgb(163, 1=
+68, 184); text-align: left; }
+
+th { text-align: -webkit-match-parent; }
+
+thead, tbody, tfoot, tr, td, th { border-color: inherit; border-style: soli=
+d; border-width: 0px; }
+
+label { display: inline-block; }
+
+button { border-radius: 0px; }
+
+button:focus { outline: -webkit-focus-ring-color auto 5px; }
+
+input, button, select, optgroup, textarea { margin: 0px; font-family: inher=
+it; line-height: inherit; }
+
+button, input { overflow: visible; }
+
+button, select { text-transform: none; }
+
+[role=3D"button"] { cursor: pointer; }
+
+select { overflow-wrap: normal; }
+
+[list]::-webkit-calendar-picker-indicator { display: none; }
+
+button, [type=3D"button"], [type=3D"reset"], [type=3D"submit"] { appearance=
+: button; }
+
+textarea { resize: vertical; }
+
+fieldset { min-width: 0px; padding: 0px; margin: 0px; border: 0px; }
+
+legend { float: left; width: 100%; padding: 0px; margin-bottom: 0.5rem; lin=
+e-height: inherit; white-space: normal; }
+
+legend + * { clear: left; }
+
+::-webkit-datetime-edit-fields-wrapper, ::-webkit-datetime-edit-text, ::-we=
+bkit-datetime-edit-minute, ::-webkit-datetime-edit-hour-field, ::-webkit-da=
+tetime-edit-day-field, ::-webkit-datetime-edit-month-field, ::-webkit-datet=
+ime-edit-year-field { padding: 0px; }
+
+::-webkit-inner-spin-button { height: auto; }
+
+[type=3D"search"] { outline-offset: -2px; appearance: textfield; }
+
+::-webkit-search-decoration { appearance: none; }
+
+::-webkit-color-swatch-wrapper { padding: 0px; }
+
+::-webkit-file-upload-button { font: inherit; appearance: button; }
+
+output { display: inline-block; }
+
+iframe { border: 0px; }
+
+summary { display: list-item; cursor: pointer; }
+
+progress { vertical-align: baseline; }
+
+[hidden] { display: none !important; }
+
+::-webkit-scrollbar { background: transparent; border-radius: 100px; height=
+: 6px; width: 6px; }
+
+::-webkit-scrollbar:active { background: rgba(49, 51, 63, 0.2); }
+
+:hover::-webkit-scrollbar-thumb:vertical, :hover::-webkit-scrollbar-thumb:h=
+orizontal { background: rgba(49, 51, 63, 0.4); border-radius: 100px; }
+------MultipartBoundary--ADeft7S5ifuauBldyS7o1JZMVvW2ahoqR2WROf3jcA----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-a055a670-abe0-45af-ac31-dfefe664d981@mhtml.blink
+
+@charset "utf-8";
+
+.css-fg4pbf { position: absolute; background: rgb(255, 255, 255); color: rg=
+b(49, 51, 63); inset: 0px; overflow: hidden; }
+
+@media print {
+  .css-fg4pbf { float: none; height: 100%; position: static; overflow: visi=
+ble; }
+}
+
+.css-18ni7ap { position: fixed; top: 0px; left: 0px; right: 0px; height: 2.=
+875rem; background: rgb(255, 255, 255); outline: none; z-index: 999990; dis=
+play: block; }
+
+@media print {
+  .css-18ni7ap { display: none; }
+}
+
+.css-1dp5vir { position: absolute; top: 0px; right: 0px; left: 0px; height:=
+ 0.125rem; background-image: linear-gradient(90deg, rgb(255, 75, 75), rgb(2=
+55, 253, 128)); z-index: 999990; }
+
+.css-14xtw13 { position: absolute; top: 0.125rem; right: 0.25rem; height: 2=
+.875rem; display: flex; flex-direction: row; -webkit-box-align: center; ali=
+gn-items: center; }
+
+.css-9s5bis { display: inline-flex; -webkit-box-align: center; align-items:=
+ center; -webkit-box-pack: center; justify-content: center; font-weight: 40=
+0; border-radius: 0.25rem; margin: 0px 0.125rem; color: inherit; width: aut=
+o; user-select: none; background-color: transparent; border: none; padding:=
+ 0.5rem; font-size: 14px; line-height: 1; }
+
+.css-9s5bis:focus { box-shadow: rgba(255, 75, 75, 0.5) 0px 0px 0px 0.2rem; =
+outline: none; }
+
+.css-9s5bis:focus { outline: none; }
+
+.css-9s5bis:focus-visible { box-shadow: rgba(38, 39, 48, 0.2) 0px 0px 0px 0=
+.2rem; }
+
+.css-9s5bis:hover { background-color: rgba(151, 166, 195, 0.25); }
+
+.css-9s5bis:disabled, .css-9s5bis:disabled:hover, .css-9s5bis:disabled:acti=
+ve { background-color: rgb(230, 234, 241); border-color: transparent; color=
+: rgb(163, 168, 184); }
+
+.css-q8qmq7 { color: inherit; fill: currentcolor; display: inline-flex; -we=
+bkit-box-align: center; align-items: center; font-size: 1.25rem; width: 1.2=
+5rem; height: 1.25rem; }
+
+.css-fblp2m { vertical-align: middle; overflow: hidden; color: inherit; fil=
+l: currentcolor; display: inline-flex; -webkit-box-align: center; align-ite=
+ms: center; font-size: 1.25rem; width: 1.25rem; height: 1.25rem; }
+
+.css-1wrcr25 { display: flex; flex-direction: row; -webkit-box-pack: start;=
+ place-content: flex-start; -webkit-box-align: stretch; align-items: stretc=
+h; position: absolute; inset: 0px; overflow: hidden; }
+
+@media print {
+  .css-1wrcr25 { display: block; float: none; height: 100%; position: stati=
+c; overflow: visible; }
+}
+
+.css-k1vhr4 { display: flex; flex-direction: column; width: 100%; overflow:=
+ auto; -webkit-box-align: center; align-items: center; }
+
+.css-k1vhr4:focus { outline: none; }
+
+@media print {
+  .css-k1vhr4 { overflow: visible; }
+}
+
+@media (max-width: 768px) {
+  .css-k1vhr4 { position: absolute; inset: 0px; }
+}
+
+.css-12oz5g7 { flex: 1 1 0%; width: 100%; padding: 6rem 1rem 10rem; max-wid=
+th: 46rem; }
+
+@media (min-width: 576px) {
+  .css-12oz5g7 { padding-left: 1rem; padding-right: 1rem; }
+}
+
+.css-g70r9e { width: 0px; position: relative; display: flex; flex: 1 1 0%; =
+flex-direction: column; gap: 1rem; }
+
+.css-q31e9c { width: 0px; position: relative; }
+
+@media print {
+  .css-q31e9c { overflow: visible; }
+}
+
+.css-yzb2at { display: flex; gap: 0.5rem; }
+
+.css-yzb2at > span { position: relative; top: 2px; }
+
+.css-yzb2at pre { background-color: transparent; padding: 1rem; border: 1px=
+ solid rgba(49, 51, 63, 0.2); }
+
+.css-yzb2at pre pre, .css-yzb2at pre code { background-color: transparent; =
+color: inherit; }
+
+.css-yzb2at code { background-color: transparent; padding: 0px; }
+
+.css-yzb2at pre, .css-yzb2at code { color: inherit; }
+
+.css-yzb2at a { color: inherit; text-decoration: underline; }
+
+.css-1offfwp { font-family: "Source Sans Pro", sans-serif; margin-bottom: -=
+1rem; }
+
+.css-1offfwp a { color: rgb(0, 104, 201); }
+
+.css-1offfwp p { word-break: break-word; }
+
+.css-1offfwp li { margin: 0.2em 0px 0.2em 1.2em; padding: 0px 0px 0px 0.6em=
+; font-size: 1rem; }
+
+.css-1offfwp tr { border-top: 1px solid rgba(49, 51, 63, 0.2); }
+
+.css-1offfwp th, .css-1offfwp td { padding: 6px 13px; border: 1px solid rgb=
+a(49, 51, 63, 0.2); }
+
+.css-1q1n0ol { display: block; color: rgba(49, 51, 63, 0.4); flex: 0 1 0%; =
+font-size: 14px; max-width: 46rem; padding: 0.5rem 1rem; width: 100%; }
+
+@media (min-width: 576px) {
+  .css-1q1n0ol { padding-left: 1rem; padding-right: 1rem; }
+}
+
+.css-1q1n0ol a { color: rgba(49, 51, 63, 0.6); }
+
+.css-1vbd788 { color: rgba(49, 51, 63, 0.6); font-family: "Source Sans Pro"=
+, sans-serif; text-decoration: none; transition: color 300ms ease 0s; }
+
+.css-1vbd788:hover { color: rgb(49, 51, 63); text-decoration: underline; }
+
+.css-1q6lfs0 { position: fixed; top: 0px; left: 0px; z-index: 1000110; line=
+-height: 100%; }
+
+.css-1n76uvr { width: 704px; position: relative; display: flex; flex: 1 1 0=
+%; flex-direction: column; gap: 1rem; }
+
+.css-1hynsf2 { width: 704px; position: relative; }
+
+@media print {
+  .css-1hynsf2 { overflow: visible; }
+}
+
+.css-y97g8d { width: 704px; position: relative; opacity: 0.33; transition: =
+opacity 1s ease-in 0.5s; }
+
+@media print {
+  .css-y97g8d { overflow: visible; }
+}
+
+.css-19or5k2.StatusWidget-appear { opacity: 0; }
+
+.css-19or5k2.StatusWidget-appear-active { opacity: 1; transition: opacity 2=
+00ms ease-out 0s; }
+
+.css-19or5k2.StatusWidget-enter { opacity: 0; }
+
+.css-19or5k2.StatusWidget-enter-active { opacity: 1; transition: opacity 20=
+0ms ease-out 0s; }
+
+.css-19or5k2.StatusWidget-exit { opacity: 1; }
+
+.css-19or5k2.StatusWidget-exit-active { opacity: 0; transition: opacity 200=
+ms ease-out 0s; }
+
+.css-4z1n4l { display: flex; -webkit-box-align: center; align-items: center=
+; -webkit-box-pack: center; justify-content: center; border-radius: 0.25rem=
+; margin: 0px 0.5rem 0px 0px; padding-left: 0.5rem; height: 1.6rem; }
+
+.css-1j15ncu { opacity: 0.4; width: 1.6rem; height: 1.6rem; margin-right: -=
+0.5rem; }
+
+.css-klqnuk { font-size: 14px; color: rgb(163, 168, 184); text-transform: u=
+ppercase; margin: 0px 0px 0px 1rem; white-space: nowrap; max-width: 20rem; =
+transition: opacity 200ms ease-out 0s, clip 200ms ease-out 0s, min-width 20=
+0ms ease-out 0s, max-width 200ms ease-out 0s, padding 200ms ease-out 0s; }
+
+.css-14x9thb { margin-left: 0.5rem; white-space: nowrap; transition: opacit=
+y 200ms ease-out 0s, clip 200ms ease-out 0s, min-width 200ms ease-out 0s, m=
+ax-width 200ms ease-out 0s, padding 200ms ease-out 0s; }
+
+.css-yyj0jg { display: inline-flex; -webkit-box-align: center; align-items:=
+ center; -webkit-box-pack: center; justify-content: center; font-weight: 40=
+0; border-radius: 0.25rem; margin: 0px 0.125rem; color: inherit; width: 100=
+%; user-select: none; background-color: transparent; border: none; padding:=
+ 0.5rem; font-size: 14px; line-height: 1; }
+
+.css-yyj0jg:focus { box-shadow: rgba(255, 75, 75, 0.5) 0px 0px 0px 0.2rem; =
+outline: none; }
+
+.css-yyj0jg:focus { outline: none; }
+
+.css-yyj0jg:focus-visible { box-shadow: rgba(38, 39, 48, 0.2) 0px 0px 0px 0=
+.2rem; }
+
+.css-yyj0jg:hover { background-color: rgba(151, 166, 195, 0.25); }
+
+.css-yyj0jg:disabled, .css-yyj0jg:disabled:hover, .css-yyj0jg:disabled:acti=
+ve { background-color: rgb(230, 234, 241); border-color: transparent; color=
+: rgb(163, 168, 184); }
+
+.css-163ttbj { position: relative; top: 2px; background-color: rgb(240, 242=
+, 246); z-index: 999991; min-width: 244px; max-width: 550px; transform: non=
+e; transition: transform 300ms ease 0s, min-width 300ms ease 0s, max-width =
+300ms ease 0s; }
+
+.css-163ttbj:focus { outline: none; }
+
+@media (max-width: 768px) {
+  .css-163ttbj { box-shadow: rgba(0, 0, 0, 0.16) -2rem 0px 2rem 2rem; }
+}
+
+.css-1ope8sv { position: relative; height: 100%; width: 100%; overflow: ove=
+rlay; }
+
+.css-1xtoq5p { position: absolute; top: 0.375rem; right: 0.25rem; z-index: =
+1; }
+
+.css-1xtoq5p:hover button { background-color: rgba(49, 51, 63, 0.1); }
+
+.css-hxt7ib { padding-top: 6rem; padding-left: 1rem; padding-right: 1rem; }
+
+.css-hxt7ib h1 { font-size: 1.5rem; font-weight: 600; }
+
+.css-hxt7ib h2 { font-size: 1.25rem; font-weight: 600; }
+
+.css-hxt7ib h3 { font-size: 1.125rem; font-weight: 600; }
+
+.css-hxt7ib h4 { font-size: 1rem; font-weight: 600; }
+
+.css-hxt7ib h5 { font-size: 14px; font-weight: 600; }
+
+.css-hxt7ib h6 { font-size: 12px; font-weight: 600; }
+
+.css-128j0gw { flex: 1 1 0%; width: 100%; padding: 0px; max-width: 46rem; }
+
+@media (min-width: 576px) {
+  .css-128j0gw { padding-left: 0px; padding-right: 0px; }
+}
+
+.css-c7mxfv { position: absolute; width: 20px; height: 100%; top: 0px; righ=
+t: 5px; cursor: default; overflow: hidden; }
+
+.css-1tjocig { position: absolute; width: 10px; height: 100%; top: 0px; rig=
+ht: 0px; cursor: col-resize; z-index: 999995; }
+
+.css-1tjocig:hover { background-image: linear-gradient(to right, transparen=
+t 42%, rgba(49, 51, 63, 0.3) 50%, transparent 58%); }
+
+.css-5m2qup { width: 212px; position: relative; display: flex; flex: 1 1 0%=
+; flex-direction: column; gap: 1rem; }
+
+.css-1vtvmlg { width: 212px; position: relative; }
+
+@media print {
+  .css-1vtvmlg { overflow: visible; }
+}
+
+.css-15tx938 { font-size: 14px; color: rgb(49, 51, 63); margin-bottom: 0.5r=
+em; height: auto; min-height: 1.5rem; vertical-align: middle; display: flex=
+; flex-direction: row; -webkit-box-align: center; align-items: center; }
+
+.css-1a32fsj:hover .e19lei0e1 { opacity: 1; transform: scale(1); transition=
+: none 0s ease 0s; }
+
+.css-6awftf { position: absolute; display: flex; -webkit-box-align: center;=
+ align-items: center; -webkit-box-pack: center; justify-content: center; z-=
+index: 101; height: 2.5rem; width: 2.5rem; transition: opacity 300ms ease 1=
+50ms, transform 300ms ease 150ms; border: none; color: rgba(49, 51, 63, 0.6=
+); border-radius: 50%; right: -3rem; top: -0.375rem; opacity: 0; transform:=
+ scale(0); background-color: rgb(255, 255, 255); }
+
+.css-6awftf:focus { outline: none; }
+
+.css-6awftf:active, .css-6awftf:focus-visible, .css-6awftf:hover { opacity:=
+ 1; outline: none; transform: scale(1); color: rgb(49, 51, 63); transition:=
+ none 0s ease 0s; }
+
+.css-9cs65h { color: inherit; fill: currentcolor; display: inline-flex; -we=
+bkit-box-align: center; align-items: center; font-size: 0.9rem; width: 0.9r=
+em; height: 0.9rem; }
+
+.css-1pxazr7 { vertical-align: middle; overflow: hidden; color: inherit; fi=
+ll: currentcolor; display: inline-flex; -webkit-box-align: center; align-it=
+ems: center; font-size: 0.9rem; width: 0.9rem; height: 0.9rem; }
+
+.css-16kzsd9 { display: flex; -webkit-box-align: center; align-items: cente=
+r; padding-top: 0px; padding-bottom: 0px; background: rgb(240, 242, 246); }
+
+@media (max-width: 768px) {
+  .css-16kzsd9 { min-height: 40px; height: auto !important; }
+}
+
+.css-16kzsd9:hover, .css-16kzsd9:active, .css-16kzsd9:focus { background: r=
+gb(240, 242, 246); }
+
+.css-87mhkc { display: table; table-layout: fixed; width: 100%; }
+
+.css-8ojfln { display: table-cell; }
+
+@media (min-width: 768px) {
+  .css-8ojfln { overflow: hidden; white-space: nowrap; text-overflow: ellip=
+sis; }
+}
+
+.css-bn3168 { display: flex; -webkit-box-align: center; align-items: center=
+; padding-top: 0px; padding-bottom: 0px; }
+
+@media (max-width: 768px) {
+  .css-bn3168 { min-height: 40px; height: auto !important; }
+}
+
+.css-bn3168:hover, .css-bn3168:active, .css-bn3168:focus { background: rgb(=
+240, 242, 246); }
+
+.css-1bfzxgp { width: 212px; position: relative; opacity: 0.33; transition:=
+ opacity 1s ease-in 0.5s; }
+
+@media print {
+  .css-1bfzxgp { overflow: visible; }
+}
+
+.css-ocqkz7 { display: flex; flex-wrap: wrap; -webkit-box-flex: 1; flex-gro=
+w: 1; -webkit-box-align: stretch; align-items: stretch; gap: 1rem; }
+
+.css-1r6slb0 { width: calc(33.3333% - 1rem); flex: 1 1 calc(33.3333% - 1rem=
+); }
+
+@media (max-width: 640px) {
+  .css-1r6slb0 { min-width: calc(100% - 1.5rem); }
+}
+
+.css-1xvmym8 { font-size: 14px; color: rgb(49, 51, 63); height: auto; min-h=
+eight: 1.5rem; vertical-align: middle; display: flex; flex-direction: row; =
+-webkit-box-align: center; align-items: center; margin-bottom: 0px; }
+
+.css-50ug3q { overflow-wrap: normal; text-overflow: ellipsis; width: 100%; =
+overflow: hidden; white-space: nowrap; font-family: "Source Sans Pro", sans=
+-serif; line-height: normal; vertical-align: middle; display: flex; flex-di=
+rection: row; -webkit-box-align: center; align-items: center; }
+
+.css-1xarl3l { font-size: 2.25rem; padding-bottom: 0.25rem; }
+
+.css-1788y8l { width: 224px; position: relative; display: flex; flex: 1 1 0=
+%; flex-direction: column; gap: 1rem; }
+
+.css-zvqkad { width: 224px; position: relative; }
+
+@media print {
+  .css-zvqkad { overflow: visible; }
+}
+------MultipartBoundary--ADeft7S5ifuauBldyS7o1JZMVvW2ahoqR2WROf3jcA----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-f4299ceb-37c0-4016-aae0-f505ec30df8a@mhtml.blink
+
+@charset "utf-8";
+
+@keyframes resizeanim {=20
+  0% { opacity: 0; }
+  100% { opacity: 0; }
+}
+
+.resize-triggers { animation: 1ms ease 0s 1 normal none running resizeanim;=
+ visibility: hidden; opacity: 0; }
+
+.resize-triggers, .resize-triggers > div, .contract-trigger::before { conte=
+nt: " "; display: block; position: absolute; top: 0px; left: 0px; height: 1=
+00%; width: 100%; overflow: hidden; z-index: -1; }
+
+.resize-triggers > div { background: rgb(238, 238, 238); overflow: auto; }
+
+.contract-trigger::before { width: 200%; height: 200%; }
+------MultipartBoundary--ADeft7S5ifuauBldyS7o1JZMVvW2ahoqR2WROf3jcA----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-6bdaf859-f1f2-4c17-b5d4-6295a31a8622@mhtml.blink
+
+@charset "utf-8";
+
+.fOdajs .dvn-scroller { overflow: auto; transform: translate3d(0px, 0px, 0p=
+x); }
+
+.fOdajs .hidden { visibility: hidden; }
+
+.fOdajs .dvn-scroll-inner { display: flex; pointer-events: none; }
+
+.fOdajs .dvn-scroll-inner > * { flex-shrink: 0; }
+
+.fOdajs .dvn-scroll-inner .dvn-spacer { -webkit-box-flex: 1; flex-grow: 1; =
+}
+
+.fOdajs .dvn-scroll-inner .dvn-stack { display: flex; flex-direction: colum=
+n; }
+
+.fOdajs .dvn-underlay > * { position: absolute; left: 0px; top: 0px; }
+
+.fOdajs canvas { outline: none; }
+
+.fOdajs canvas * { height: 0px; }
+
+.fZoOOh { position: absolute; top: 4px; right: 20px; background-color: rgb(=
+255, 255, 255); color: rgb(49, 51, 63); padding: 8px; border: 1px solid rgb=
+a(49, 51, 63, 0.1); font-size: 14px; transform: translateX(400px); transiti=
+on: transform 0.15s ease 0s; }
+
+.fZoOOh .search-bar-inner { display: flex; }
+
+.fZoOOh .search-status { padding-top: 4px; font-size: 11px; }
+
+.fZoOOh .search-progress { position: absolute; height: 4px; left: 0px; bott=
+om: 0px; background-color: rgba(49, 51, 63, 0.6); }
+
+.fZoOOh input { width: 220px; color: rgb(49, 51, 63); background-color: rgb=
+(255, 255, 255); border: 0px none; outline: none; }
+
+.fZoOOh button { width: 24px; height: 24px; padding: 0px; border: none; out=
+line: none; background: none; display: flex; -webkit-box-pack: center; just=
+ify-content: center; -webkit-box-align: center; align-items: center; cursor=
+: pointer; color: rgba(49, 51, 63, 0.8); }
+
+.fZoOOh button:hover { color: rgb(49, 51, 63); }
+
+.fZoOOh button .button-icon { width: 16px; height: 16px; }
+
+.fZoOOh button:disabled { opacity: 0.4; pointer-events: none; }
+
+.cLHsXT { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 301px; height: 351px; overflow: clip; conta=
+in: strict; }
+
+.cLHsXT > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.fkjjdx { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 246px; height: 351px; overflow: clip; conta=
+in: strict; }
+
+.fkjjdx > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.gDjzW { position: relative; min-width: 10px; min-height: 10px; max-width: =
+100%; max-height: 100%; width: 245.868px; height: 351px; overflow: clip; co=
+ntain: strict; }
+
+.gDjzW > :first-child { position: absolute; left: 0px; top: 0px; width: 100=
+%; height: 100%; }
+
+.hrENTC { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 250.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.hrENTC > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.bkXzGL { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 255.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.bkXzGL > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.cBqQOA { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 269.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.cBqQOA > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.jJFxdZ { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 293.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.jJFxdZ > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.dQJRyb { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 327.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.dQJRyb > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.iszijC { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 373.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.iszijC > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.czYRzq { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 425.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.czYRzq > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.cKqKkS { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 470.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.cKqKkS > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.fiMDzq { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 517.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.fiMDzq > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.ewcjGo { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 548.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.ewcjGo > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.kJuNqc { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 577.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.kJuNqc > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.ejwPut { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 598.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.ejwPut > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.gMcBRj { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 615.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.gMcBRj > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.ipHycY { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 629.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.ipHycY > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.bAgoGq { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 632.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.bAgoGq > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.kNgckp { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 635.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.kNgckp > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.jXAPMY { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 638.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.jXAPMY > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.bvqrSv { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 640.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.bvqrSv > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.cCbBut { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 646.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.cCbBut > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.iqeqwK { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 649.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.iqeqwK > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.fcyVTG { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 650.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.fcyVTG > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.foBcSL { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 651.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.foBcSL > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.hXHQHI { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 652.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.hXHQHI > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.dobkHC { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 654.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.dobkHC > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.gjkfvE { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 656.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.gjkfvE > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.fwtSlB { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 660.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.fwtSlB > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.dHWgZx { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 664.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.dHWgZx > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.bpOvUO { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 667.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.bpOvUO > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.eMfyQS { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 672.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.eMfyQS > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.hpeLaI { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 674.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.hpeLaI > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.hBgRZN { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 675.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.hBgRZN > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.cXHNEO { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 676.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.cXHNEO > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.djJUDT { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 677.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.djJUDT > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.bUeqyE { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 678.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.bUeqyE > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.fkrJpD { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 680.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.fkrJpD > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.ifAEdF { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 682.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.ifAEdF > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.kUqYXg { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 683.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.kUqYXg > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.btndTi { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 685.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.btndTi > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.eovYHk { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 687.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.eovYHk > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.jsAodu { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 689.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.jsAodu > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.xnyFU { position: relative; min-width: 10px; min-height: 10px; max-width: =
+100%; max-height: 100%; width: 692.868px; height: 351px; overflow: clip; co=
+ntain: strict; }
+
+.xnyFU > :first-child { position: absolute; left: 0px; top: 0px; width: 100=
+%; height: 100%; }
+
+.cxHtZX { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 695.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.cxHtZX > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.fgOhOU { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 696.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.fgOhOU > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.fsQoNZ { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 697.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.fsQoNZ > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.kkSxle { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 698.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.kkSxle > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.eUkRFw { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 702.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.eUkRFw > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.bRXwAT { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 705.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.bRXwAT > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.jDLAOw { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 706.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.jDLAOw > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.eNgroV { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 707.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.eNgroV > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.geZACi { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 708.868px; height: 351px; overflow: clip; c=
+ontain: strict; }
+
+.geZACi > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.kIjKCp { position: relative; min-width: 10px; min-height: 10px; max-width:=
+ 100%; max-height: 100%; width: 1351px; height: 386px; overflow: clip; cont=
+ain: strict; }
+
+.kIjKCp > :first-child { position: absolute; left: 0px; top: 0px; width: 10=
+0%; height: 100%; }
+
+.EjRcH { position: relative; min-width: 10px; min-height: 10px; max-width: =
+100%; max-height: 100%; width: 1199px; height: 386px; overflow: clip; conta=
+in: strict; }
+
+.EjRcH > :first-child { position: absolute; left: 0px; top: 0px; width: 100=
+%; height: 100%; }
+
+.cZZpnj { overflow: auto; position: relative; resize: both; display: inline=
+-block; min-height: 73px; max-height: 353px; min-width: 38px; max-width: 70=
+4px; height: 353px; border: 1px solid rgba(49, 51, 63, 0.1); margin-top: 0.=
+5rem; }
+
+.cZZpnj > :first-child { height: 100%; min-width: 100%; }
+
+.cZZpnj .dvn-scroller { overflow: overlay; }
+
+.cZZpnj::-webkit-resizer { display: none; }
+
+.iCVYxr { overflow: auto; position: relative; resize: both; display: inline=
+-block; min-height: 73px; max-height: 388px; min-width: 38px; max-width: 70=
+4px; height: 388px; border: 1px solid rgba(49, 51, 63, 0.1); margin-top: 0.=
+5rem; }
+
+.iCVYxr > :first-child { height: 100%; min-width: 100%; }
+
+.iCVYxr .dvn-scroller { overflow: overlay; }
+
+.iCVYxr::-webkit-resizer { display: none; }
+------MultipartBoundary--ADeft7S5ifuauBldyS7o1JZMVvW2ahoqR2WROf3jcA----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-b7cb9350-f3ac-461e-a95b-554efc6ef6c5@mhtml.blink
+
+@charset "utf-8";
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-logo { display: block; width: 21px; =
+height: 21px; background-image: url("data:image/svg+xml;charset=3Dutf-8,%3C=
+?xml version=3D\"1.0\" encoding=3D\"utf-8\"?%3E %3Csvg version=3D\"1.1\" id=
+=3D\"Layer_1\" xmlns=3D\"http://www.w3.org/2000/svg\" xmlns:xlink=3D\"http:=
+//www.w3.org/1999/xlink\" x=3D\"0px\" y=3D\"0px\" viewBox=3D\"0 0 21 21\" s=
+tyle=3D\"enable-background:new 0 0 21 21;\" xml:space=3D\"preserve\"%3E%3Cg=
+ transform=3D\"translate(0,0.01)\"%3E%3Cpath d=3D\"m 10.5,1.24 c -5.11,0 -9=
+.25,4.15 -9.25,9.25 0,5.1 4.15,9.25 9.25,9.25 5.1,0 9.25,-4.15 9.25,-9.25 0=
+,-5.11 -4.14,-9.25 -9.25,-9.25 z m 4.39,11.53 c -1.93,1.93 -4.78,2.31 -6.7,=
+2.31 -0.7,0 -1.41,-0.05 -2.1,-0.16 0,0 -1.02,-5.64 2.14,-8.81 0.83,-0.83 1.=
+95,-1.28 3.13,-1.28 1.27,0 2.49,0.51 3.39,1.42 1.84,1.84 1.89,4.75 0.14,6.5=
+2 z\" style=3D\"opacity:0.9;fill:%23ffffff;enable-background:new\" class=3D=
+\"st0\"/%3E%3Cpath d=3D\"M 10.5,-0.01 C 4.7,-0.01 0,4.7 0,10.49 c 0,5.79 4.=
+7,10.5 10.5,10.5 5.8,0 10.5,-4.7 10.5,-10.5 C 20.99,4.7 16.3,-0.01 10.5,-0.=
+01 Z m 0,19.75 c -5.11,0 -9.25,-4.15 -9.25,-9.25 0,-5.1 4.14,-9.26 9.25,-9.=
+26 5.11,0 9.25,4.15 9.25,9.25 0,5.13 -4.14,9.26 -9.25,9.26 z\" style=3D\"op=
+acity:0.35;enable-background:new\" class=3D\"st1\"/%3E%3Cpath d=3D\"M 14.74=
+,6.25 C 12.9,4.41 9.98,4.35 8.23,6.1 5.07,9.27 6.09,14.91 6.09,14.91 c 0,0 =
+5.64,1.02 8.81,-2.14 C 16.64,11 16.59,8.09 14.74,6.25 Z m -2.27,4.09 -0.91,=
+1.87 -0.9,-1.87 -1.86,-0.91 1.86,-0.9 0.9,-1.87 0.91,1.87 1.86,0.9 z\" styl=
+e=3D\"opacity:0.35;enable-background:new\" class=3D\"st1\"/%3E%3Cpolygon po=
+ints=3D\"11.56,12.21 10.66,10.34 8.8,9.43 10.66,8.53 11.56,6.66 12.47,8.53 =
+14.33,9.43 12.47,10.34 \" style=3D\"opacity:0.9;fill:%23ffffff;enable-backg=
+round:new\" class=3D\"st0\"/%3E%3C/g%3E%3C/svg%3E"); }
+
+.js-plotly-plot .plotly .mapboxgl-attrib-empty { display: none; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-attrib .mapbox-improve-map { font-we=
+ight: bold; margin-left: 2px; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-attrib a:hover { color: inherit; tex=
+t-decoration: underline; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-attrib a { color: rgba(0, 0, 0, 0.75=
+); text-decoration: none; font-size: 12px; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-attrib { color: rgba(0, 0, 0, 0.75);=
+ text-decoration: none; font-size: 12px; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-bottom-right .mapboxgl-ctrl { margin=
+: 0px 10px 10px 0px; float: right; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-bottom-left .mapboxgl-ctrl { margin:=
+ 0px 0px 10px 10px; float: left; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-bottom-left > .mapboxgl-ctrl-attrib.=
+mapboxgl-compact::after { bottom: 0px; left: 0px; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-bottom-right > .mapboxgl-ctrl-attrib=
+.mapboxgl-compact::after { bottom: 0px; right: 0px; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-attrib.mapboxgl-compact { min-height=
+: 20px; padding: 0px; margin: 10px; position: relative; background-color: r=
+gb(255, 255, 255); border-radius: 3px 12px 12px 3px; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-attrib.mapboxgl-compact::after { con=
+tent: ""; cursor: pointer; position: absolute; background-image: url("data:=
+image/svg+xml;charset=3Dutf-8,%3Csvg viewBox=3D\"0 0 20 20\" xmlns=3D\"http=
+://www.w3.org/2000/svg\"%3E %3Cpath fill=3D\"%23333333\" fill-rule=3D\"even=
+odd\" d=3D\"M4,10a6,6 0 1,0 12,0a6,6 0 1,0 -12,0 M9,7a1,1 0 1,0 2,0a1,1 0 1=
+,0 -2,0 M9,10a1,1 0 1,1 2,0l0,3a1,1 0 1,1 -2,0\"/%3E %3C/svg%3E"); backgrou=
+nd-color: rgba(255, 255, 255, 0.5); width: 24px; height: 24px; box-sizing: =
+border-box; border-radius: 12px; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-attrib.mapboxgl-compact:hover { padd=
+ing: 2px 24px 2px 4px; visibility: visible; margin-top: 6px; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-attrib.mapboxgl-compact:hover .mapbo=
+xgl-ctrl-attrib-inner { display: block; margin-top: 2px; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-attrib.mapboxgl-compact .mapboxgl-ct=
+rl-attrib-inner { display: none; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl { clear: both; pointer-events: auto;=
+ transform: translate(0px, 0px); }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-bottom-right { position: absolute; p=
+ointer-events: none; z-index: 2; right: 0px; bottom: 0px; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-bottom-left { position: absolute; po=
+inter-events: none; z-index: 2; bottom: 0px; left: 0px; }
+
+.js-plotly-plot .plotly .mapboxgl-canary { background-color: salmon; }
+
+.js-plotly-plot .plotly .mapboxgl-missing-css { display: none; }
+
+.js-plotly-plot .plotly .mapboxgl-map { overflow: hidden; position: relativ=
+e; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-logo { display: block; width: 21px; =
+height: 21px; background-image: url("data:image/svg+xml;charset=3Dutf-8,%3C=
+?xml version=3D\"1.0\" encoding=3D\"utf-8\"?%3E %3Csvg version=3D\"1.1\" id=
+=3D\"Layer_1\" xmlns=3D\"http://www.w3.org/2000/svg\" xmlns:xlink=3D\"http:=
+//www.w3.org/1999/xlink\" x=3D\"0px\" y=3D\"0px\" viewBox=3D\"0 0 21 21\" s=
+tyle=3D\"enable-background:new 0 0 21 21;\" xml:space=3D\"preserve\"%3E%3Cg=
+ transform=3D\"translate(0,0.01)\"%3E%3Cpath d=3D\"m 10.5,1.24 c -5.11,0 -9=
+.25,4.15 -9.25,9.25 0,5.1 4.15,9.25 9.25,9.25 5.1,0 9.25,-4.15 9.25,-9.25 0=
+,-5.11 -4.14,-9.25 -9.25,-9.25 z m 4.39,11.53 c -1.93,1.93 -4.78,2.31 -6.7,=
+2.31 -0.7,0 -1.41,-0.05 -2.1,-0.16 0,0 -1.02,-5.64 2.14,-8.81 0.83,-0.83 1.=
+95,-1.28 3.13,-1.28 1.27,0 2.49,0.51 3.39,1.42 1.84,1.84 1.89,4.75 0.14,6.5=
+2 z\" style=3D\"opacity:0.9;fill:%23ffffff;enable-background:new\" class=3D=
+\"st0\"/%3E%3Cpath d=3D\"M 10.5,-0.01 C 4.7,-0.01 0,4.7 0,10.49 c 0,5.79 4.=
+7,10.5 10.5,10.5 5.8,0 10.5,-4.7 10.5,-10.5 C 20.99,4.7 16.3,-0.01 10.5,-0.=
+01 Z m 0,19.75 c -5.11,0 -9.25,-4.15 -9.25,-9.25 0,-5.1 4.14,-9.26 9.25,-9.=
+26 5.11,0 9.25,4.15 9.25,9.25 0,5.13 -4.14,9.26 -9.25,9.26 z\" style=3D\"op=
+acity:0.35;enable-background:new\" class=3D\"st1\"/%3E%3Cpath d=3D\"M 14.74=
+,6.25 C 12.9,4.41 9.98,4.35 8.23,6.1 5.07,9.27 6.09,14.91 6.09,14.91 c 0,0 =
+5.64,1.02 8.81,-2.14 C 16.64,11 16.59,8.09 14.74,6.25 Z m -2.27,4.09 -0.91,=
+1.87 -0.9,-1.87 -1.86,-0.91 1.86,-0.9 0.9,-1.87 0.91,1.87 1.86,0.9 z\" styl=
+e=3D\"opacity:0.35;enable-background:new\" class=3D\"st1\"/%3E%3Cpolygon po=
+ints=3D\"11.56,12.21 10.66,10.34 8.8,9.43 10.66,8.53 11.56,6.66 12.47,8.53 =
+14.33,9.43 12.47,10.34 \" style=3D\"opacity:0.9;fill:%23ffffff;enable-backg=
+round:new\" class=3D\"st0\"/%3E%3C/g%3E%3C/svg%3E"); }
+
+.js-plotly-plot .plotly .mapboxgl-attrib-empty { display: none; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-attrib .mapbox-improve-map { font-we=
+ight: bold; margin-left: 2px; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-attrib a:hover { color: inherit; tex=
+t-decoration: underline; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-attrib a { color: rgba(0, 0, 0, 0.75=
+); text-decoration: none; font-size: 12px; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-attrib { color: rgba(0, 0, 0, 0.75);=
+ text-decoration: none; font-size: 12px; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-bottom-right .mapboxgl-ctrl { margin=
+: 0px 10px 10px 0px; float: right; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-bottom-left .mapboxgl-ctrl { margin:=
+ 0px 0px 10px 10px; float: left; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-bottom-left > .mapboxgl-ctrl-attrib.=
+mapboxgl-compact::after { bottom: 0px; left: 0px; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-bottom-right > .mapboxgl-ctrl-attrib=
+.mapboxgl-compact::after { bottom: 0px; right: 0px; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-attrib.mapboxgl-compact { min-height=
+: 20px; padding: 0px; margin: 10px; position: relative; background-color: r=
+gb(255, 255, 255); border-radius: 3px 12px 12px 3px; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-attrib.mapboxgl-compact::after { con=
+tent: ""; cursor: pointer; position: absolute; background-image: url("data:=
+image/svg+xml;charset=3Dutf-8,%3Csvg viewBox=3D\"0 0 20 20\" xmlns=3D\"http=
+://www.w3.org/2000/svg\"%3E %3Cpath fill=3D\"%23333333\" fill-rule=3D\"even=
+odd\" d=3D\"M4,10a6,6 0 1,0 12,0a6,6 0 1,0 -12,0 M9,7a1,1 0 1,0 2,0a1,1 0 1=
+,0 -2,0 M9,10a1,1 0 1,1 2,0l0,3a1,1 0 1,1 -2,0\"/%3E %3C/svg%3E"); backgrou=
+nd-color: rgba(255, 255, 255, 0.5); width: 24px; height: 24px; box-sizing: =
+border-box; border-radius: 12px; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-attrib.mapboxgl-compact:hover { padd=
+ing: 2px 24px 2px 4px; visibility: visible; margin-top: 6px; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-attrib.mapboxgl-compact:hover .mapbo=
+xgl-ctrl-attrib-inner { display: block; margin-top: 2px; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-attrib.mapboxgl-compact .mapboxgl-ct=
+rl-attrib-inner { display: none; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl { clear: both; pointer-events: auto;=
+ transform: translate(0px, 0px); }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-bottom-right { position: absolute; p=
+ointer-events: none; z-index: 2; right: 0px; bottom: 0px; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-bottom-left { position: absolute; po=
+inter-events: none; z-index: 2; bottom: 0px; left: 0px; }
+
+.js-plotly-plot .plotly .mapboxgl-canary { background-color: salmon; }
+
+.js-plotly-plot .plotly .mapboxgl-missing-css { display: none; }
+
+.js-plotly-plot .plotly .mapboxgl-map { overflow: hidden; position: relativ=
+e; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-logo { display: block; width: 21px; =
+height: 21px; background-image: url("data:image/svg+xml;charset=3Dutf-8,%3C=
+?xml version=3D\"1.0\" encoding=3D\"utf-8\"?%3E %3Csvg version=3D\"1.1\" id=
+=3D\"Layer_1\" xmlns=3D\"http://www.w3.org/2000/svg\" xmlns:xlink=3D\"http:=
+//www.w3.org/1999/xlink\" x=3D\"0px\" y=3D\"0px\" viewBox=3D\"0 0 21 21\" s=
+tyle=3D\"enable-background:new 0 0 21 21;\" xml:space=3D\"preserve\"%3E%3Cg=
+ transform=3D\"translate(0,0.01)\"%3E%3Cpath d=3D\"m 10.5,1.24 c -5.11,0 -9=
+.25,4.15 -9.25,9.25 0,5.1 4.15,9.25 9.25,9.25 5.1,0 9.25,-4.15 9.25,-9.25 0=
+,-5.11 -4.14,-9.25 -9.25,-9.25 z m 4.39,11.53 c -1.93,1.93 -4.78,2.31 -6.7,=
+2.31 -0.7,0 -1.41,-0.05 -2.1,-0.16 0,0 -1.02,-5.64 2.14,-8.81 0.83,-0.83 1.=
+95,-1.28 3.13,-1.28 1.27,0 2.49,0.51 3.39,1.42 1.84,1.84 1.89,4.75 0.14,6.5=
+2 z\" style=3D\"opacity:0.9;fill:%23ffffff;enable-background:new\" class=3D=
+\"st0\"/%3E%3Cpath d=3D\"M 10.5,-0.01 C 4.7,-0.01 0,4.7 0,10.49 c 0,5.79 4.=
+7,10.5 10.5,10.5 5.8,0 10.5,-4.7 10.5,-10.5 C 20.99,4.7 16.3,-0.01 10.5,-0.=
+01 Z m 0,19.75 c -5.11,0 -9.25,-4.15 -9.25,-9.25 0,-5.1 4.14,-9.26 9.25,-9.=
+26 5.11,0 9.25,4.15 9.25,9.25 0,5.13 -4.14,9.26 -9.25,9.26 z\" style=3D\"op=
+acity:0.35;enable-background:new\" class=3D\"st1\"/%3E%3Cpath d=3D\"M 14.74=
+,6.25 C 12.9,4.41 9.98,4.35 8.23,6.1 5.07,9.27 6.09,14.91 6.09,14.91 c 0,0 =
+5.64,1.02 8.81,-2.14 C 16.64,11 16.59,8.09 14.74,6.25 Z m -2.27,4.09 -0.91,=
+1.87 -0.9,-1.87 -1.86,-0.91 1.86,-0.9 0.9,-1.87 0.91,1.87 1.86,0.9 z\" styl=
+e=3D\"opacity:0.35;enable-background:new\" class=3D\"st1\"/%3E%3Cpolygon po=
+ints=3D\"11.56,12.21 10.66,10.34 8.8,9.43 10.66,8.53 11.56,6.66 12.47,8.53 =
+14.33,9.43 12.47,10.34 \" style=3D\"opacity:0.9;fill:%23ffffff;enable-backg=
+round:new\" class=3D\"st0\"/%3E%3C/g%3E%3C/svg%3E"); }
+
+.js-plotly-plot .plotly .mapboxgl-attrib-empty { display: none; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-attrib .mapbox-improve-map { font-we=
+ight: bold; margin-left: 2px; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-attrib a:hover { color: inherit; tex=
+t-decoration: underline; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-attrib a { color: rgba(0, 0, 0, 0.75=
+); text-decoration: none; font-size: 12px; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-attrib { color: rgba(0, 0, 0, 0.75);=
+ text-decoration: none; font-size: 12px; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-bottom-right .mapboxgl-ctrl { margin=
+: 0px 10px 10px 0px; float: right; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-bottom-left .mapboxgl-ctrl { margin:=
+ 0px 0px 10px 10px; float: left; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-bottom-left > .mapboxgl-ctrl-attrib.=
+mapboxgl-compact::after { bottom: 0px; left: 0px; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-bottom-right > .mapboxgl-ctrl-attrib=
+.mapboxgl-compact::after { bottom: 0px; right: 0px; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-attrib.mapboxgl-compact { min-height=
+: 20px; padding: 0px; margin: 10px; position: relative; background-color: r=
+gb(255, 255, 255); border-radius: 3px 12px 12px 3px; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-attrib.mapboxgl-compact::after { con=
+tent: ""; cursor: pointer; position: absolute; background-image: url("data:=
+image/svg+xml;charset=3Dutf-8,%3Csvg viewBox=3D\"0 0 20 20\" xmlns=3D\"http=
+://www.w3.org/2000/svg\"%3E %3Cpath fill=3D\"%23333333\" fill-rule=3D\"even=
+odd\" d=3D\"M4,10a6,6 0 1,0 12,0a6,6 0 1,0 -12,0 M9,7a1,1 0 1,0 2,0a1,1 0 1=
+,0 -2,0 M9,10a1,1 0 1,1 2,0l0,3a1,1 0 1,1 -2,0\"/%3E %3C/svg%3E"); backgrou=
+nd-color: rgba(255, 255, 255, 0.5); width: 24px; height: 24px; box-sizing: =
+border-box; border-radius: 12px; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-attrib.mapboxgl-compact:hover { padd=
+ing: 2px 24px 2px 4px; visibility: visible; margin-top: 6px; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-attrib.mapboxgl-compact:hover .mapbo=
+xgl-ctrl-attrib-inner { display: block; margin-top: 2px; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-attrib.mapboxgl-compact .mapboxgl-ct=
+rl-attrib-inner { display: none; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl { clear: both; pointer-events: auto;=
+ transform: translate(0px, 0px); }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-bottom-right { position: absolute; p=
+ointer-events: none; z-index: 2; right: 0px; bottom: 0px; }
+
+.js-plotly-plot .plotly .mapboxgl-ctrl-bottom-left { position: absolute; po=
+inter-events: none; z-index: 2; bottom: 0px; left: 0px; }
+
+.js-plotly-plot .plotly .mapboxgl-canary { background-color: salmon; }
+
+.js-plotly-plot .plotly .mapboxgl-missing-css { display: none; }
+
+.js-plotly-plot .plotly .mapboxgl-map { overflow: hidden; position: relativ=
+e; }
+
+.plotly-notifier .notifier-close:hover { color: rgb(68, 68, 68); text-decor=
+ation: none; cursor: pointer; }
+
+.plotly-notifier .notifier-close { color: rgb(255, 255, 255); opacity: 0.8;=
+ float: right; padding: 0px 5px; background: none; border: none; font-size:=
+ 20px; font-weight: bold; line-height: 20px; }
+
+.plotly-notifier .notifier-note { min-width: 180px; max-width: 250px; borde=
+r: 1px solid rgb(255, 255, 255); z-index: 3000; margin: 0px; background-col=
+or: rgba(140, 151, 175, 0.9); color: rgb(255, 255, 255); padding: 10px; ove=
+rflow-wrap: break-word; hyphens: auto; }
+
+.plotly-notifier p { margin: 0px; }
+
+.plotly-notifier { font-family: "Open Sans", verdana, arial, sans-serif; po=
+sition: fixed; top: 50px; right: 20px; z-index: 10000; font-size: 10pt; max=
+-width: 180px; }
+
+.js-plotly-plot .plotly .vertical [data-title]::before { border-width: 6px;=
+ border-style: solid; border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) rgba(=
+0, 0, 0, 0) rgb(105, 115, 138); border-image: initial; margin-top: 8px; mar=
+gin-right: -30px; }
+
+.js-plotly-plot .plotly .vertical [data-title]::before, .js-plotly-plot .pl=
+otly .vertical [data-title]::after { top: 0%; right: 200%; }
+
+.js-plotly-plot .plotly [data-title]::after { content: attr(data-title); ba=
+ckground: rgb(105, 115, 138); color: rgb(255, 255, 255); padding: 8px 10px;=
+ font-size: 12px; line-height: 12px; white-space: nowrap; margin-right: -18=
+px; border-radius: 2px; }
+
+.js-plotly-plot .plotly [data-title]::before { content: ""; position: absol=
+ute; background: rgba(0, 0, 0, 0); border-width: 6px; border-style: solid; =
+border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) rgb(105, 115, 138); border-=
+image: initial; z-index: 1002; margin-top: -12px; margin-right: -6px; }
+
+.js-plotly-plot .plotly [data-title]:hover::before, .js-plotly-plot .plotly=
+ [data-title]:hover::after { display: block; opacity: 1; }
+
+.js-plotly-plot .plotly [data-title]::before, .js-plotly-plot .plotly [data=
+-title]::after { position: absolute; transform: translate3d(0px, 0px, 0px);=
+ display: none; opacity: 0; z-index: 1001; pointer-events: none; top: 110%;=
+ right: 50%; }
+
+.js-plotly-plot .plotly .modebar.vertical .modebar-group .modebar-btn { dis=
+play: block; text-align: center; }
+
+.js-plotly-plot .plotly .modebar.vertical .modebar-group { display: block; =
+float: none; padding-left: 0px; padding-bottom: 8px; }
+
+.js-plotly-plot .plotly .modebar.vertical svg { top: -1px; }
+
+.js-plotly-plot .plotly .modebar.vertical { display: flex; flex-flow: colum=
+n wrap; align-content: flex-end; max-height: 100%; }
+
+.js-plotly-plot .plotly .modebar-btn svg { position: relative; top: 2px; }
+
+.js-plotly-plot .plotly .modebar-btn { position: relative; font-size: 16px;=
+ padding: 3px 4px; height: 22px; cursor: pointer; line-height: normal; box-=
+sizing: border-box; }
+
+.js-plotly-plot .plotly .modebar-group { float: left; display: inline-block=
+; box-sizing: border-box; padding-left: 8px; position: relative; vertical-a=
+lign: middle; white-space: nowrap; }
+
+.js-plotly-plot .plotly:hover .modebar--hover .modebar-group { opacity: 1; =
+}
+
+.js-plotly-plot .plotly .modebar--hover > :not(.watermark) { opacity: 0; tr=
+ansition: opacity 0.3s ease 0s; }
+
+.js-plotly-plot .plotly .ease-bg { transition: background-color 0.3s ease 0=
+s; }
+
+.js-plotly-plot .plotly .modebar { position: absolute; top: 2px; right: 2px=
+; }
+
+.js-plotly-plot .plotly .cursor-grab { cursor: grab; }
+
+.js-plotly-plot .plotly .cursor-ne-resize { cursor: ne-resize; }
+
+.js-plotly-plot .plotly .cursor-n-resize { cursor: n-resize; }
+
+.js-plotly-plot .plotly .cursor-nw-resize { cursor: nw-resize; }
+
+.js-plotly-plot .plotly .cursor-e-resize { cursor: e-resize; }
+
+.js-plotly-plot .plotly .cursor-w-resize { cursor: w-resize; }
+
+.js-plotly-plot .plotly .cursor-se-resize { cursor: se-resize; }
+
+.js-plotly-plot .plotly .cursor-s-resize { cursor: s-resize; }
+
+.js-plotly-plot .plotly .cursor-sw-resize { cursor: sw-resize; }
+
+.js-plotly-plot .plotly .cursor-ew-resize { cursor: ew-resize; }
+
+.js-plotly-plot .plotly .cursor-ns-resize { cursor: ns-resize; }
+
+.js-plotly-plot .plotly .cursor-row-resize { cursor: row-resize; }
+
+.js-plotly-plot .plotly .cursor-col-resize { cursor: col-resize; }
+
+.js-plotly-plot .plotly .cursor-move { cursor: move; }
+
+.js-plotly-plot .plotly .cursor-crosshair { cursor: crosshair; }
+
+.js-plotly-plot .plotly .cursor-pointer { cursor: pointer; }
+
+.js-plotly-plot .plotly .cursor-default { cursor: default; }
+
+.js-plotly-plot .plotly .main-svg .draglayer { pointer-events: all; }
+
+.js-plotly-plot .plotly .main-svg { position: absolute; top: 0px; left: 0px=
+; pointer-events: none; }
+
+.js-plotly-plot .plotly svg a:hover { fill: rgb(60, 109, 197); }
+
+.js-plotly-plot .plotly svg a { fill: rgb(68, 122, 219); }
+
+.js-plotly-plot .plotly svg { overflow: hidden; }
+
+.js-plotly-plot .plotly .user-select-none { user-select: none; }
+
+.js-plotly-plot .plotly .crisp { shape-rendering: crispedges; }
+
+.js-plotly-plot .plotly a:hover { text-decoration: none; }
+
+.js-plotly-plot .plotly a { text-decoration: none; }
+
+.js-plotly-plot .plotly input:focus, .js-plotly-plot .plotly button:focus {=
+ outline: none; }
+
+.js-plotly-plot .plotly input, .js-plotly-plot .plotly button { font-family=
+: "Open Sans", verdana, arial, sans-serif; }
+
+.js-plotly-plot .plotly, .js-plotly-plot .plotly div { direction: ltr; font=
+-family: "Open Sans", verdana, arial, sans-serif; margin: 0px; padding: 0px=
+; }
+------MultipartBoundary--ADeft7S5ifuauBldyS7o1JZMVvW2ahoqR2WROf3jcA----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-2bb4f624-f9fe-46c3-971d-a97f11a0c590@mhtml.blink
+
+@charset "utf-8";
+
+#modebar-94149e .modebar-btn.active .icon path { fill: rgba(68, 68, 68, 0.7=
+); }
+
+#modebar-94149e .modebar-btn:hover .icon path { fill: rgba(68, 68, 68, 0.7)=
+; }
+
+#modebar-94149e .modebar-btn .icon path { fill: rgba(68, 68, 68, 0.3); }
+
+.js-plotly-plot .plotly:hover #modebar-94149e .modebar-group { background-c=
+olor: rgba(255, 255, 255, 0.5); }
+------MultipartBoundary--ADeft7S5ifuauBldyS7o1JZMVvW2ahoqR2WROf3jcA----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-bed4ef03-fbe4-451f-b719-1c344e1516b4@mhtml.blink
+
+@charset "utf-8";
+
+#modebar-72d54f .modebar-btn.active .icon path { fill: rgba(68, 68, 68, 0.7=
+); }
+
+#modebar-72d54f .modebar-btn:hover .icon path { fill: rgba(68, 68, 68, 0.7)=
+; }
+
+#modebar-72d54f .modebar-btn .icon path { fill: rgba(68, 68, 68, 0.3); }
+
+.js-plotly-plot .plotly:hover #modebar-72d54f .modebar-group { background-c=
+olor: rgba(255, 255, 255, 0.5); }
+------MultipartBoundary--ADeft7S5ifuauBldyS7o1JZMVvW2ahoqR2WROf3jcA----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://localhost:8501/static/css/5.71be5c0a.chunk.css
+
+@charset "utf-8";
+
+@font-face { font-family: KaTeX_AMS; font-style: normal; font-weight: 400; =
+src: url("../../static/media/KaTeX_AMS-Regular.73ea273a.woff2") format("wof=
+f2"), url("../../static/media/KaTeX_AMS-Regular.d562e886.woff") format("wof=
+f"), url("../../static/media/KaTeX_AMS-Regular.853be924.ttf") format("truet=
+ype"); }
+
+@font-face { font-family: KaTeX_Caligraphic; font-style: normal; font-weigh=
+t: 700; src: url("../../static/media/KaTeX_Caligraphic-Bold.a1abf90d.woff2"=
+) format("woff2"), url("../../static/media/KaTeX_Caligraphic-Bold.d757c535.=
+woff") format("woff"), url("../../static/media/KaTeX_Caligraphic-Bold.7489a=
+2fb.ttf") format("truetype"); }
+
+@font-face { font-family: KaTeX_Caligraphic; font-style: normal; font-weigh=
+t: 400; src: url("../../static/media/KaTeX_Caligraphic-Regular.d6484fce.wof=
+f2") format("woff2"), url("../../static/media/KaTeX_Caligraphic-Regular.db0=
+74fa2.woff") format("woff"), url("../../static/media/KaTeX_Caligraphic-Regu=
+lar.7e873d38.ttf") format("truetype"); }
+
+@font-face { font-family: KaTeX_Fraktur; font-style: normal; font-weight: 7=
+00; src: url("../../static/media/KaTeX_Fraktur-Bold.931d67ea.woff2") format=
+("woff2"), url("../../static/media/KaTeX_Fraktur-Bold.354501ba.woff") forma=
+t("woff"), url("../../static/media/KaTeX_Fraktur-Bold.4c761b37.ttf") format=
+("truetype"); }
+
+@font-face { font-family: KaTeX_Fraktur; font-style: normal; font-weight: 4=
+00; src: url("../../static/media/KaTeX_Fraktur-Regular.172d3529.woff2") for=
+mat("woff2"), url("../../static/media/KaTeX_Fraktur-Regular.6fdf0ac5.woff")=
+ format("woff"), url("../../static/media/KaTeX_Fraktur-Regular.ed305b54.ttf=
+") format("truetype"); }
+
+@font-face { font-family: KaTeX_Main; font-style: normal; font-weight: 700;=
+ src: url("../../static/media/KaTeX_Main-Bold.39890742.woff2") format("woff=
+2"), url("../../static/media/KaTeX_Main-Bold.0c3b8929.woff") format("woff")=
+, url("../../static/media/KaTeX_Main-Bold.8169508b.ttf") format("truetype")=
+; }
+
+@font-face { font-family: KaTeX_Main; font-style: italic; font-weight: 700;=
+ src: url("../../static/media/KaTeX_Main-BoldItalic.20f389c4.woff2") format=
+("woff2"), url("../../static/media/KaTeX_Main-BoldItalic.428978dc.woff") fo=
+rmat("woff"), url("../../static/media/KaTeX_Main-BoldItalic.828abcb2.ttf") =
+format("truetype"); }
+
+@font-face { font-family: KaTeX_Main; font-style: italic; font-weight: 400;=
+ src: url("../../static/media/KaTeX_Main-Italic.fe2176f7.woff2") format("wo=
+ff2"), url("../../static/media/KaTeX_Main-Italic.fd947498.woff") format("wo=
+ff"), url("../../static/media/KaTeX_Main-Italic.fa675e5e.ttf") format("true=
+type"); }
+
+@font-face { font-family: KaTeX_Main; font-style: normal; font-weight: 400;=
+ src: url("../../static/media/KaTeX_Main-Regular.f650f111.woff2") format("w=
+off2"), url("../../static/media/KaTeX_Main-Regular.4f35fbcc.woff") format("=
+woff"), url("../../static/media/KaTeX_Main-Regular.9eba1d77.ttf") format("t=
+ruetype"); }
+
+@font-face { font-family: KaTeX_Math; font-style: italic; font-weight: 700;=
+ src: url("../../static/media/KaTeX_Math-BoldItalic.dcbcbd93.woff2") format=
+("woff2"), url("../../static/media/KaTeX_Math-BoldItalic.3f07ed67.woff") fo=
+rmat("woff"), url("../../static/media/KaTeX_Math-BoldItalic.bf2d440b.ttf") =
+format("truetype"); }
+
+@font-face { font-family: KaTeX_Math; font-style: italic; font-weight: 400;=
+ src: url("../../static/media/KaTeX_Math-Italic.6d3d25f4.woff2") format("wo=
+ff2"), url("../../static/media/KaTeX_Math-Italic.96759856.woff") format("wo=
+ff"), url("../../static/media/KaTeX_Math-Italic.8a5f9363.ttf") format("true=
+type"); }
+
+@font-face { font-family: KaTeX_SansSerif; font-style: normal; font-weight:=
+ 700; src: url("../../static/media/KaTeX_SansSerif-Bold.95591a92.woff2") fo=
+rmat("woff2"), url("../../static/media/KaTeX_SansSerif-Bold.b9cd458a.woff")=
+ format("woff"), url("../../static/media/KaTeX_SansSerif-Bold.5b49f499.ttf"=
+) format("truetype"); }
+
+@font-face { font-family: KaTeX_SansSerif; font-style: italic; font-weight:=
+ 400; src: url("../../static/media/KaTeX_SansSerif-Italic.7d393d38.woff2") =
+format("woff2"), url("../../static/media/KaTeX_SansSerif-Italic.8d593cfa.wo=
+ff") format("woff"), url("../../static/media/KaTeX_SansSerif-Italic.b257a18=
+c.ttf") format("truetype"); }
+
+@font-face { font-family: KaTeX_SansSerif; font-style: normal; font-weight:=
+ 400; src: url("../../static/media/KaTeX_SansSerif-Regular.cd5e231e.woff2")=
+ format("woff2"), url("../../static/media/KaTeX_SansSerif-Regular.02271ec5.=
+woff") format("woff"), url("../../static/media/KaTeX_SansSerif-Regular.2f7b=
+c363.ttf") format("truetype"); }
+
+@font-face { font-family: KaTeX_Script; font-style: normal; font-weight: 40=
+0; src: url("../../static/media/KaTeX_Script-Regular.c81d1b2a.woff2") forma=
+t("woff2"), url("../../static/media/KaTeX_Script-Regular.073b3402.woff") fo=
+rmat("woff"), url("../../static/media/KaTeX_Script-Regular.fc9ba524.ttf") f=
+ormat("truetype"); }
+
+@font-face { font-family: KaTeX_Size1; font-style: normal; font-weight: 400=
+; src: url("../../static/media/KaTeX_Size1-Regular.6eec866c.woff2") format(=
+"woff2"), url("../../static/media/KaTeX_Size1-Regular.0108e89c.woff") forma=
+t("woff"), url("../../static/media/KaTeX_Size1-Regular.6de7d4b5.ttf") forma=
+t("truetype"); }
+
+@font-face { font-family: KaTeX_Size2; font-style: normal; font-weight: 400=
+; src: url("../../static/media/KaTeX_Size2-Regular.2960900c.woff2") format(=
+"woff2"), url("../../static/media/KaTeX_Size2-Regular.3a99e70a.woff") forma=
+t("woff"), url("../../static/media/KaTeX_Size2-Regular.57f5c183.ttf") forma=
+t("truetype"); }
+
+@font-face { font-family: KaTeX_Size3; font-style: normal; font-weight: 400=
+; src: url("../../static/media/KaTeX_Size3-Regular.e1951519.woff2") format(=
+"woff2"), url("../../static/media/KaTeX_Size3-Regular.7947224e.woff") forma=
+t("woff"), url("../../static/media/KaTeX_Size3-Regular.8d6b6822.ttf") forma=
+t("truetype"); }
+
+@font-face { font-family: KaTeX_Size4; font-style: normal; font-weight: 400=
+; src: url("../../static/media/KaTeX_Size4-Regular.e418bf25.woff2") format(=
+"woff2"), url("../../static/media/KaTeX_Size4-Regular.aeffd802.woff") forma=
+t("woff"), url("../../static/media/KaTeX_Size4-Regular.4ad7c7e8.ttf") forma=
+t("truetype"); }
+
+@font-face { font-family: KaTeX_Typewriter; font-style: normal; font-weight=
+: 400; src: url("../../static/media/KaTeX_Typewriter-Regular.c295e7f7.woff2=
+") format("woff2"), url("../../static/media/KaTeX_Typewriter-Regular.4c6b94=
+fd.woff") format("woff"), url("../../static/media/KaTeX_Typewriter-Regular.=
+c5c02d76.ttf") format("truetype"); }
+
+.katex { text-rendering: auto; font: 1.21em / 1.2 KaTeX_Main, "Times New Ro=
+man", serif; text-indent: 0px; }
+
+.katex * { border-color: currentcolor; }
+
+.katex .katex-version::after { content: "0.13.24"; }
+
+.katex .katex-mathml { clip: rect(1px, 1px, 1px, 1px); border: 0px; height:=
+ 1px; overflow: hidden; padding: 0px; position: absolute; width: 1px; }
+
+.katex .katex-html > .newline { display: block; }
+
+.katex .base { position: relative; white-space: nowrap; width: min-content;=
+ }
+
+.katex .base, .katex .strut { display: inline-block; }
+
+.katex .textbf { font-weight: 700; }
+
+.katex .textit { font-style: italic; }
+
+.katex .textrm { font-family: KaTeX_Main; }
+
+.katex .textsf { font-family: KaTeX_SansSerif; }
+
+.katex .texttt { font-family: KaTeX_Typewriter; }
+
+.katex .mathnormal { font-family: KaTeX_Math; font-style: italic; }
+
+.katex .mathit { font-family: KaTeX_Main; font-style: italic; }
+
+.katex .mathrm { font-style: normal; }
+
+.katex .mathbf { font-family: KaTeX_Main; font-weight: 700; }
+
+.katex .boldsymbol { font-family: KaTeX_Math; font-style: italic; font-weig=
+ht: 700; }
+
+.katex .amsrm, .katex .mathbb, .katex .textbb { font-family: KaTeX_AMS; }
+
+.katex .mathcal { font-family: KaTeX_Caligraphic; }
+
+.katex .mathfrak, .katex .textfrak { font-family: KaTeX_Fraktur; }
+
+.katex .mathtt { font-family: KaTeX_Typewriter; }
+
+.katex .mathscr, .katex .textscr { font-family: KaTeX_Script; }
+
+.katex .mathsf, .katex .textsf { font-family: KaTeX_SansSerif; }
+
+.katex .mathboldsf, .katex .textboldsf { font-family: KaTeX_SansSerif; font=
+-weight: 700; }
+
+.katex .mathitsf, .katex .textitsf { font-family: KaTeX_SansSerif; font-sty=
+le: italic; }
+
+.katex .mainrm { font-family: KaTeX_Main; font-style: normal; }
+
+.katex .vlist-t { border-collapse: collapse; display: inline-table; table-l=
+ayout: fixed; }
+
+.katex .vlist-r { display: table-row; }
+
+.katex .vlist { display: table-cell; position: relative; vertical-align: bo=
+ttom; }
+
+.katex .vlist > span { display: block; height: 0px; position: relative; }
+
+.katex .vlist > span > span { display: inline-block; }
+
+.katex .vlist > span > .pstrut { overflow: hidden; width: 0px; }
+
+.katex .vlist-t2 { margin-right: -2px; }
+
+.katex .vlist-s { display: table-cell; font-size: 1px; min-width: 2px; vert=
+ical-align: bottom; width: 2px; }
+
+.katex .vbox { align-items: baseline; display: inline-flex; flex-direction:=
+ column; }
+
+.katex .hbox { width: 100%; }
+
+.katex .hbox, .katex .thinbox { display: inline-flex; flex-direction: row; =
+}
+
+.katex .thinbox { max-width: 0px; width: 0px; }
+
+.katex .msupsub { text-align: left; }
+
+.katex .mfrac > span > span { text-align: center; }
+
+.katex .mfrac .frac-line { border-bottom-style: solid; display: inline-bloc=
+k; width: 100%; }
+
+.katex .hdashline, .katex .hline, .katex .mfrac .frac-line, .katex .overlin=
+e .overline-line, .katex .rule, .katex .underline .underline-line { min-hei=
+ght: 1px; }
+
+.katex .mspace { display: inline-block; }
+
+.katex .clap, .katex .llap, .katex .rlap { position: relative; width: 0px; =
+}
+
+.katex .clap > .inner, .katex .llap > .inner, .katex .rlap > .inner { posit=
+ion: absolute; }
+
+.katex .clap > .fix, .katex .llap > .fix, .katex .rlap > .fix { display: in=
+line-block; }
+
+.katex .llap > .inner { right: 0px; }
+
+.katex .clap > .inner, .katex .rlap > .inner { left: 0px; }
+
+.katex .clap > .inner > span { margin-left: -50%; margin-right: 50%; }
+
+.katex .rule { border: 0px solid; display: inline-block; position: relative=
+; }
+
+.katex .hline, .katex .overline .overline-line, .katex .underline .underlin=
+e-line { border-bottom-style: solid; display: inline-block; width: 100%; }
+
+.katex .hdashline { border-bottom-style: dashed; display: inline-block; wid=
+th: 100%; }
+
+.katex .sqrt > .root { margin-left: 0.277778em; margin-right: -0.555556em; =
+}
+
+.katex .fontsize-ensurer.reset-size1.size1, .katex .sizing.reset-size1.size=
+1 { font-size: 1em; }
+
+.katex .fontsize-ensurer.reset-size1.size2, .katex .sizing.reset-size1.size=
+2 { font-size: 1.2em; }
+
+.katex .fontsize-ensurer.reset-size1.size3, .katex .sizing.reset-size1.size=
+3 { font-size: 1.4em; }
+
+.katex .fontsize-ensurer.reset-size1.size4, .katex .sizing.reset-size1.size=
+4 { font-size: 1.6em; }
+
+.katex .fontsize-ensurer.reset-size1.size5, .katex .sizing.reset-size1.size=
+5 { font-size: 1.8em; }
+
+.katex .fontsize-ensurer.reset-size1.size6, .katex .sizing.reset-size1.size=
+6 { font-size: 2em; }
+
+.katex .fontsize-ensurer.reset-size1.size7, .katex .sizing.reset-size1.size=
+7 { font-size: 2.4em; }
+
+.katex .fontsize-ensurer.reset-size1.size8, .katex .sizing.reset-size1.size=
+8 { font-size: 2.88em; }
+
+.katex .fontsize-ensurer.reset-size1.size9, .katex .sizing.reset-size1.size=
+9 { font-size: 3.456em; }
+
+.katex .fontsize-ensurer.reset-size1.size10, .katex .sizing.reset-size1.siz=
+e10 { font-size: 4.148em; }
+
+.katex .fontsize-ensurer.reset-size1.size11, .katex .sizing.reset-size1.siz=
+e11 { font-size: 4.976em; }
+
+.katex .fontsize-ensurer.reset-size2.size1, .katex .sizing.reset-size2.size=
+1 { font-size: 0.833333em; }
+
+.katex .fontsize-ensurer.reset-size2.size2, .katex .sizing.reset-size2.size=
+2 { font-size: 1em; }
+
+.katex .fontsize-ensurer.reset-size2.size3, .katex .sizing.reset-size2.size=
+3 { font-size: 1.16667em; }
+
+.katex .fontsize-ensurer.reset-size2.size4, .katex .sizing.reset-size2.size=
+4 { font-size: 1.33333em; }
+
+.katex .fontsize-ensurer.reset-size2.size5, .katex .sizing.reset-size2.size=
+5 { font-size: 1.5em; }
+
+.katex .fontsize-ensurer.reset-size2.size6, .katex .sizing.reset-size2.size=
+6 { font-size: 1.66667em; }
+
+.katex .fontsize-ensurer.reset-size2.size7, .katex .sizing.reset-size2.size=
+7 { font-size: 2em; }
+
+.katex .fontsize-ensurer.reset-size2.size8, .katex .sizing.reset-size2.size=
+8 { font-size: 2.4em; }
+
+.katex .fontsize-ensurer.reset-size2.size9, .katex .sizing.reset-size2.size=
+9 { font-size: 2.88em; }
+
+.katex .fontsize-ensurer.reset-size2.size10, .katex .sizing.reset-size2.siz=
+e10 { font-size: 3.45667em; }
+
+.katex .fontsize-ensurer.reset-size2.size11, .katex .sizing.reset-size2.siz=
+e11 { font-size: 4.14667em; }
+
+.katex .fontsize-ensurer.reset-size3.size1, .katex .sizing.reset-size3.size=
+1 { font-size: 0.714286em; }
+
+.katex .fontsize-ensurer.reset-size3.size2, .katex .sizing.reset-size3.size=
+2 { font-size: 0.857143em; }
+
+.katex .fontsize-ensurer.reset-size3.size3, .katex .sizing.reset-size3.size=
+3 { font-size: 1em; }
+
+.katex .fontsize-ensurer.reset-size3.size4, .katex .sizing.reset-size3.size=
+4 { font-size: 1.14286em; }
+
+.katex .fontsize-ensurer.reset-size3.size5, .katex .sizing.reset-size3.size=
+5 { font-size: 1.28571em; }
+
+.katex .fontsize-ensurer.reset-size3.size6, .katex .sizing.reset-size3.size=
+6 { font-size: 1.42857em; }
+
+.katex .fontsize-ensurer.reset-size3.size7, .katex .sizing.reset-size3.size=
+7 { font-size: 1.71429em; }
+
+.katex .fontsize-ensurer.reset-size3.size8, .katex .sizing.reset-size3.size=
+8 { font-size: 2.05714em; }
+
+.katex .fontsize-ensurer.reset-size3.size9, .katex .sizing.reset-size3.size=
+9 { font-size: 2.46857em; }
+
+.katex .fontsize-ensurer.reset-size3.size10, .katex .sizing.reset-size3.siz=
+e10 { font-size: 2.96286em; }
+
+.katex .fontsize-ensurer.reset-size3.size11, .katex .sizing.reset-size3.siz=
+e11 { font-size: 3.55429em; }
+
+.katex .fontsize-ensurer.reset-size4.size1, .katex .sizing.reset-size4.size=
+1 { font-size: 0.625em; }
+
+.katex .fontsize-ensurer.reset-size4.size2, .katex .sizing.reset-size4.size=
+2 { font-size: 0.75em; }
+
+.katex .fontsize-ensurer.reset-size4.size3, .katex .sizing.reset-size4.size=
+3 { font-size: 0.875em; }
+
+.katex .fontsize-ensurer.reset-size4.size4, .katex .sizing.reset-size4.size=
+4 { font-size: 1em; }
+
+.katex .fontsize-ensurer.reset-size4.size5, .katex .sizing.reset-size4.size=
+5 { font-size: 1.125em; }
+
+.katex .fontsize-ensurer.reset-size4.size6, .katex .sizing.reset-size4.size=
+6 { font-size: 1.25em; }
+
+.katex .fontsize-ensurer.reset-size4.size7, .katex .sizing.reset-size4.size=
+7 { font-size: 1.5em; }
+
+.katex .fontsize-ensurer.reset-size4.size8, .katex .sizing.reset-size4.size=
+8 { font-size: 1.8em; }
+
+.katex .fontsize-ensurer.reset-size4.size9, .katex .sizing.reset-size4.size=
+9 { font-size: 2.16em; }
+
+.katex .fontsize-ensurer.reset-size4.size10, .katex .sizing.reset-size4.siz=
+e10 { font-size: 2.5925em; }
+
+.katex .fontsize-ensurer.reset-size4.size11, .katex .sizing.reset-size4.siz=
+e11 { font-size: 3.11em; }
+
+.katex .fontsize-ensurer.reset-size5.size1, .katex .sizing.reset-size5.size=
+1 { font-size: 0.555556em; }
+
+.katex .fontsize-ensurer.reset-size5.size2, .katex .sizing.reset-size5.size=
+2 { font-size: 0.666667em; }
+
+.katex .fontsize-ensurer.reset-size5.size3, .katex .sizing.reset-size5.size=
+3 { font-size: 0.777778em; }
+
+.katex .fontsize-ensurer.reset-size5.size4, .katex .sizing.reset-size5.size=
+4 { font-size: 0.888889em; }
+
+.katex .fontsize-ensurer.reset-size5.size5, .katex .sizing.reset-size5.size=
+5 { font-size: 1em; }
+
+.katex .fontsize-ensurer.reset-size5.size6, .katex .sizing.reset-size5.size=
+6 { font-size: 1.11111em; }
+
+.katex .fontsize-ensurer.reset-size5.size7, .katex .sizing.reset-size5.size=
+7 { font-size: 1.33333em; }
+
+.katex .fontsize-ensurer.reset-size5.size8, .katex .sizing.reset-size5.size=
+8 { font-size: 1.6em; }
+
+.katex .fontsize-ensurer.reset-size5.size9, .katex .sizing.reset-size5.size=
+9 { font-size: 1.92em; }
+
+.katex .fontsize-ensurer.reset-size5.size10, .katex .sizing.reset-size5.siz=
+e10 { font-size: 2.30444em; }
+
+.katex .fontsize-ensurer.reset-size5.size11, .katex .sizing.reset-size5.siz=
+e11 { font-size: 2.76444em; }
+
+.katex .fontsize-ensurer.reset-size6.size1, .katex .sizing.reset-size6.size=
+1 { font-size: 0.5em; }
+
+.katex .fontsize-ensurer.reset-size6.size2, .katex .sizing.reset-size6.size=
+2 { font-size: 0.6em; }
+
+.katex .fontsize-ensurer.reset-size6.size3, .katex .sizing.reset-size6.size=
+3 { font-size: 0.7em; }
+
+.katex .fontsize-ensurer.reset-size6.size4, .katex .sizing.reset-size6.size=
+4 { font-size: 0.8em; }
+
+.katex .fontsize-ensurer.reset-size6.size5, .katex .sizing.reset-size6.size=
+5 { font-size: 0.9em; }
+
+.katex .fontsize-ensurer.reset-size6.size6, .katex .sizing.reset-size6.size=
+6 { font-size: 1em; }
+
+.katex .fontsize-ensurer.reset-size6.size7, .katex .sizing.reset-size6.size=
+7 { font-size: 1.2em; }
+
+.katex .fontsize-ensurer.reset-size6.size8, .katex .sizing.reset-size6.size=
+8 { font-size: 1.44em; }
+
+.katex .fontsize-ensurer.reset-size6.size9, .katex .sizing.reset-size6.size=
+9 { font-size: 1.728em; }
+
+.katex .fontsize-ensurer.reset-size6.size10, .katex .sizing.reset-size6.siz=
+e10 { font-size: 2.074em; }
+
+.katex .fontsize-ensurer.reset-size6.size11, .katex .sizing.reset-size6.siz=
+e11 { font-size: 2.488em; }
+
+.katex .fontsize-ensurer.reset-size7.size1, .katex .sizing.reset-size7.size=
+1 { font-size: 0.416667em; }
+
+.katex .fontsize-ensurer.reset-size7.size2, .katex .sizing.reset-size7.size=
+2 { font-size: 0.5em; }
+
+.katex .fontsize-ensurer.reset-size7.size3, .katex .sizing.reset-size7.size=
+3 { font-size: 0.583333em; }
+
+.katex .fontsize-ensurer.reset-size7.size4, .katex .sizing.reset-size7.size=
+4 { font-size: 0.666667em; }
+
+.katex .fontsize-ensurer.reset-size7.size5, .katex .sizing.reset-size7.size=
+5 { font-size: 0.75em; }
+
+.katex .fontsize-ensurer.reset-size7.size6, .katex .sizing.reset-size7.size=
+6 { font-size: 0.833333em; }
+
+.katex .fontsize-ensurer.reset-size7.size7, .katex .sizing.reset-size7.size=
+7 { font-size: 1em; }
+
+.katex .fontsize-ensurer.reset-size7.size8, .katex .sizing.reset-size7.size=
+8 { font-size: 1.2em; }
+
+.katex .fontsize-ensurer.reset-size7.size9, .katex .sizing.reset-size7.size=
+9 { font-size: 1.44em; }
+
+.katex .fontsize-ensurer.reset-size7.size10, .katex .sizing.reset-size7.siz=
+e10 { font-size: 1.72833em; }
+
+.katex .fontsize-ensurer.reset-size7.size11, .katex .sizing.reset-size7.siz=
+e11 { font-size: 2.07333em; }
+
+.katex .fontsize-ensurer.reset-size8.size1, .katex .sizing.reset-size8.size=
+1 { font-size: 0.347222em; }
+
+.katex .fontsize-ensurer.reset-size8.size2, .katex .sizing.reset-size8.size=
+2 { font-size: 0.416667em; }
+
+.katex .fontsize-ensurer.reset-size8.size3, .katex .sizing.reset-size8.size=
+3 { font-size: 0.486111em; }
+
+.katex .fontsize-ensurer.reset-size8.size4, .katex .sizing.reset-size8.size=
+4 { font-size: 0.555556em; }
+
+.katex .fontsize-ensurer.reset-size8.size5, .katex .sizing.reset-size8.size=
+5 { font-size: 0.625em; }
+
+.katex .fontsize-ensurer.reset-size8.size6, .katex .sizing.reset-size8.size=
+6 { font-size: 0.694444em; }
+
+.katex .fontsize-ensurer.reset-size8.size7, .katex .sizing.reset-size8.size=
+7 { font-size: 0.833333em; }
+
+.katex .fontsize-ensurer.reset-size8.size8, .katex .sizing.reset-size8.size=
+8 { font-size: 1em; }
+
+.katex .fontsize-ensurer.reset-size8.size9, .katex .sizing.reset-size8.size=
+9 { font-size: 1.2em; }
+
+.katex .fontsize-ensurer.reset-size8.size10, .katex .sizing.reset-size8.siz=
+e10 { font-size: 1.44028em; }
+
+.katex .fontsize-ensurer.reset-size8.size11, .katex .sizing.reset-size8.siz=
+e11 { font-size: 1.72778em; }
+
+.katex .fontsize-ensurer.reset-size9.size1, .katex .sizing.reset-size9.size=
+1 { font-size: 0.289352em; }
+
+.katex .fontsize-ensurer.reset-size9.size2, .katex .sizing.reset-size9.size=
+2 { font-size: 0.347222em; }
+
+.katex .fontsize-ensurer.reset-size9.size3, .katex .sizing.reset-size9.size=
+3 { font-size: 0.405093em; }
+
+.katex .fontsize-ensurer.reset-size9.size4, .katex .sizing.reset-size9.size=
+4 { font-size: 0.462963em; }
+
+.katex .fontsize-ensurer.reset-size9.size5, .katex .sizing.reset-size9.size=
+5 { font-size: 0.520833em; }
+
+.katex .fontsize-ensurer.reset-size9.size6, .katex .sizing.reset-size9.size=
+6 { font-size: 0.578704em; }
+
+.katex .fontsize-ensurer.reset-size9.size7, .katex .sizing.reset-size9.size=
+7 { font-size: 0.694444em; }
+
+.katex .fontsize-ensurer.reset-size9.size8, .katex .sizing.reset-size9.size=
+8 { font-size: 0.833333em; }
+
+.katex .fontsize-ensurer.reset-size9.size9, .katex .sizing.reset-size9.size=
+9 { font-size: 1em; }
+
+.katex .fontsize-ensurer.reset-size9.size10, .katex .sizing.reset-size9.siz=
+e10 { font-size: 1.20023em; }
+
+.katex .fontsize-ensurer.reset-size9.size11, .katex .sizing.reset-size9.siz=
+e11 { font-size: 1.43981em; }
+
+.katex .fontsize-ensurer.reset-size10.size1, .katex .sizing.reset-size10.si=
+ze1 { font-size: 0.24108em; }
+
+.katex .fontsize-ensurer.reset-size10.size2, .katex .sizing.reset-size10.si=
+ze2 { font-size: 0.289296em; }
+
+.katex .fontsize-ensurer.reset-size10.size3, .katex .sizing.reset-size10.si=
+ze3 { font-size: 0.337512em; }
+
+.katex .fontsize-ensurer.reset-size10.size4, .katex .sizing.reset-size10.si=
+ze4 { font-size: 0.385728em; }
+
+.katex .fontsize-ensurer.reset-size10.size5, .katex .sizing.reset-size10.si=
+ze5 { font-size: 0.433944em; }
+
+.katex .fontsize-ensurer.reset-size10.size6, .katex .sizing.reset-size10.si=
+ze6 { font-size: 0.48216em; }
+
+.katex .fontsize-ensurer.reset-size10.size7, .katex .sizing.reset-size10.si=
+ze7 { font-size: 0.578592em; }
+
+.katex .fontsize-ensurer.reset-size10.size8, .katex .sizing.reset-size10.si=
+ze8 { font-size: 0.694311em; }
+
+.katex .fontsize-ensurer.reset-size10.size9, .katex .sizing.reset-size10.si=
+ze9 { font-size: 0.833173em; }
+
+.katex .fontsize-ensurer.reset-size10.size10, .katex .sizing.reset-size10.s=
+ize10 { font-size: 1em; }
+
+.katex .fontsize-ensurer.reset-size10.size11, .katex .sizing.reset-size10.s=
+ize11 { font-size: 1.19961em; }
+
+.katex .fontsize-ensurer.reset-size11.size1, .katex .sizing.reset-size11.si=
+ze1 { font-size: 0.200965em; }
+
+.katex .fontsize-ensurer.reset-size11.size2, .katex .sizing.reset-size11.si=
+ze2 { font-size: 0.241158em; }
+
+.katex .fontsize-ensurer.reset-size11.size3, .katex .sizing.reset-size11.si=
+ze3 { font-size: 0.28135em; }
+
+.katex .fontsize-ensurer.reset-size11.size4, .katex .sizing.reset-size11.si=
+ze4 { font-size: 0.321543em; }
+
+.katex .fontsize-ensurer.reset-size11.size5, .katex .sizing.reset-size11.si=
+ze5 { font-size: 0.361736em; }
+
+.katex .fontsize-ensurer.reset-size11.size6, .katex .sizing.reset-size11.si=
+ze6 { font-size: 0.401929em; }
+
+.katex .fontsize-ensurer.reset-size11.size7, .katex .sizing.reset-size11.si=
+ze7 { font-size: 0.482315em; }
+
+.katex .fontsize-ensurer.reset-size11.size8, .katex .sizing.reset-size11.si=
+ze8 { font-size: 0.578778em; }
+
+.katex .fontsize-ensurer.reset-size11.size9, .katex .sizing.reset-size11.si=
+ze9 { font-size: 0.694534em; }
+
+.katex .fontsize-ensurer.reset-size11.size10, .katex .sizing.reset-size11.s=
+ize10 { font-size: 0.833601em; }
+
+.katex .fontsize-ensurer.reset-size11.size11, .katex .sizing.reset-size11.s=
+ize11 { font-size: 1em; }
+
+.katex .delimsizing.size1 { font-family: KaTeX_Size1; }
+
+.katex .delimsizing.size2 { font-family: KaTeX_Size2; }
+
+.katex .delimsizing.size3 { font-family: KaTeX_Size3; }
+
+.katex .delimsizing.size4 { font-family: KaTeX_Size4; }
+
+.katex .delimsizing.mult .delim-size1 > span { font-family: KaTeX_Size1; }
+
+.katex .delimsizing.mult .delim-size4 > span { font-family: KaTeX_Size4; }
+
+.katex .nulldelimiter { display: inline-block; width: 0.12em; }
+
+.katex .delimcenter, .katex .op-symbol { position: relative; }
+
+.katex .op-symbol.small-op { font-family: KaTeX_Size1; }
+
+.katex .op-symbol.large-op { font-family: KaTeX_Size2; }
+
+.katex .accent > .vlist-t, .katex .op-limits > .vlist-t { text-align: cente=
+r; }
+
+.katex .accent .accent-body { position: relative; }
+
+.katex .accent .accent-body:not(.accent-full) { width: 0px; }
+
+.katex .overlay { display: block; }
+
+.katex .mtable .vertical-separator { display: inline-block; min-width: 1px;=
+ }
+
+.katex .mtable .arraycolsep { display: inline-block; }
+
+.katex .mtable .col-align-c > .vlist-t { text-align: center; }
+
+.katex .mtable .col-align-l > .vlist-t { text-align: left; }
+
+.katex .mtable .col-align-r > .vlist-t { text-align: right; }
+
+.katex .svg-align { text-align: left; }
+
+.katex svg { fill: currentcolor; stroke: currentcolor; fill-rule: nonzero; =
+fill-opacity: 1; stroke-width: 1; stroke-linecap: butt; stroke-linejoin: mi=
+ter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0; st=
+roke-opacity: 1; display: block; height: inherit; position: absolute; width=
+: 100%; }
+
+.katex svg path { stroke: none; }
+
+.katex img { border-style: none; max-height: none; max-width: none; min-hei=
+ght: 0px; min-width: 0px; }
+
+.katex .stretchy { display: block; overflow: hidden; position: relative; wi=
+dth: 100%; }
+
+.katex .stretchy::after, .katex .stretchy::before { content: ""; }
+
+.katex .hide-tail { overflow: hidden; position: relative; width: 100%; }
+
+.katex .halfarrow-left { left: 0px; overflow: hidden; position: absolute; w=
+idth: 50.2%; }
+
+.katex .halfarrow-right { overflow: hidden; position: absolute; right: 0px;=
+ width: 50.2%; }
+
+.katex .brace-left { left: 0px; overflow: hidden; position: absolute; width=
+: 25.1%; }
+
+.katex .brace-center { left: 25%; overflow: hidden; position: absolute; wid=
+th: 50%; }
+
+.katex .brace-right { overflow: hidden; position: absolute; right: 0px; wid=
+th: 25.1%; }
+
+.katex .x-arrow-pad { padding: 0px 0.5em; }
+
+.katex .cd-arrow-pad { padding: 0px 0.55556em 0px 0.27778em; }
+
+.katex .mover, .katex .munder, .katex .x-arrow { text-align: center; }
+
+.katex .boxpad { padding: 0px 0.3em; }
+
+.katex .fbox, .katex .fcolorbox { border: 0.04em solid; box-sizing: border-=
+box; }
+
+.katex .cancel-pad { padding: 0px 0.2em; }
+
+.katex .cancel-lap { margin-left: -0.2em; margin-right: -0.2em; }
+
+.katex .sout { border-bottom-style: solid; border-bottom-width: 0.08em; }
+
+.katex .angl { border-right: 0.049em solid; border-top: 0.049em solid; box-=
+sizing: border-box; margin-right: 0.03889em; }
+
+.katex .anglpad { padding: 0px 0.03889em; }
+
+.katex .eqn-num::before { content: "(" counter(katexEqnNo) ")"; counter-inc=
+rement: katexEqnNo 1; }
+
+.katex .mml-eqn-num::before { content: "(" counter(mmlEqnNo) ")"; counter-i=
+ncrement: mmlEqnNo 1; }
+
+.katex .mtr-glue { width: 50%; }
+
+.katex .cd-vert-arrow { display: inline-block; position: relative; }
+
+.katex .cd-label-left { display: inline-block; position: absolute; right: c=
+alc(50% + 0.3em); text-align: left; }
+
+.katex .cd-label-right { display: inline-block; left: calc(50% + 0.3em); po=
+sition: absolute; text-align: right; }
+
+.katex-display { display: block; margin: 1em 0px; text-align: center; }
+
+.katex-display > .katex { display: block; text-align: center; white-space: =
+nowrap; }
+
+.katex-display > .katex > .katex-html { display: block; position: relative;=
+ }
+
+.katex-display > .katex > .katex-html > .tag { position: absolute; right: 0=
+px; }
+
+.katex-display.leqno > .katex > .katex-html > .tag { left: 0px; right: auto=
+; }
+
+.katex-display.fleqn > .katex { padding-left: 2em; text-align: left; }
+
+body { counter-reset: katexEqnNo 0 mmlEqnNo 0; }
+------MultipartBoundary--ADeft7S5ifuauBldyS7o1JZMVvW2ahoqR2WROf3jcA----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://localhost:8501/static/css/main.b46f6fce.chunk.css
+
+@charset "utf-8";
+
+@font-face { font-family: "Source Code Pro"; font-weight: 400; src: url("..=
+/../static/media/SourceCodePro-Regular.70cc7ff2.ttf") format("truetype"); }
+
+@font-face { font-family: "Source Code Pro"; font-weight: 600; src: url("..=
+/../static/media/SourceCodePro-SemiBold.4d4c53c0.ttf") format("truetype"); =
+}
+
+@font-face { font-family: "Source Code Pro"; font-weight: 700; src: url("..=
+/../static/media/SourceCodePro-Bold.52ac8f30.ttf") format("truetype"); }
+
+@font-face { font-family: "Source Code Pro"; font-weight: 400; font-style: =
+italic; src: url("../../static/media/SourceCodePro-Italic.454577c2.ttf") fo=
+rmat("truetype"); }
+
+@font-face { font-family: "Source Code Pro"; font-weight: 600; font-style: =
+italic; src: url("../../static/media/SourceCodePro-SemiBoldItalic.2f5470bc.=
+ttf") format("truetype"); }
+
+@font-face { font-family: "Source Code Pro"; font-weight: 700; font-style: =
+italic; src: url("../../static/media/SourceCodePro-BoldItalic.05b61807.ttf"=
+) format("truetype"); }
+
+@font-face { font-family: "Source Sans Pro"; font-weight: 400; src: url("..=
+/../static/media/SourceSansPro-Regular.efa76f83.ttf") format("truetype"); }
+
+@font-face { font-family: "Source Sans Pro"; font-weight: 600; src: url("..=
+/../static/media/SourceSansPro-SemiBold.43cc81b4.ttf") format("truetype"); =
+}
+
+@font-face { font-family: "Source Sans Pro"; font-weight: 700; src: url("..=
+/../static/media/SourceSansPro-Bold.12e6acd2.ttf") format("truetype"); }
+
+@font-face { font-family: "Source Sans Pro"; font-weight: 400; font-style: =
+italic; src: url("../../static/media/SourceSansPro-Italic.3c01996d.ttf") fo=
+rmat("truetype"); }
+
+@font-face { font-family: "Source Sans Pro"; font-weight: 600; font-style: =
+italic; src: url("../../static/media/SourceSansPro-SemiBoldItalic.c30987e2.=
+ttf") format("truetype"); }
+
+@font-face { font-family: "Source Sans Pro"; font-weight: 700; font-style: =
+italic; src: url("../../static/media/SourceSansPro-BoldItalic.7c4f9b00.ttf"=
+) format("truetype"); }
+
+@font-face { font-family: "Source Serif Pro"; font-weight: 400; src: url(".=
+./../static/media/SourceSerifPro-Regular.6f22301c.ttf") format("truetype");=
+ }
+
+@font-face { font-family: "Source Serif Pro"; font-weight: 600; src: url(".=
+./../static/media/SourceSerifPro-SemiBold.b27cb117.ttf") format("truetype")=
+; }
+
+@font-face { font-family: "Source Serif Pro"; font-weight: 700; src: url(".=
+./../static/media/SourceSerifPro-Bold.bada4fe1.ttf") format("truetype"); }
+
+@font-face { font-family: "Source Serif Pro"; font-weight: 400; font-style:=
+ italic; src: url("../../static/media/SourceSerifPro-Italic.90931d6a.ttf") =
+format("truetype"); }
+
+@font-face { font-family: "Source Serif Pro"; font-weight: 600; font-style:=
+ italic; src: url("../../static/media/SourceSerifPro-SemiBoldItalic.1266f2c=
+1.ttf") format("truetype"); }
+
+@font-face { font-family: "Source Serif Pro"; font-weight: 700; font-style:=
+ italic; src: url("../../static/media/SourceSerifPro-BoldItalic.9f9b1eb2.tt=
+f") format("truetype"); }
+
+html { font-size: 1rem; }
+
+h1 { font-size: calc(1.4rem + 1.8vw); }
+
+@media (min-width: 1200px) {
+  h1 { font-size: 2.75rem; }
+}
+
+h2 { font-size: calc(1.35rem + 1.2vw); }
+
+@media (min-width: 1200px) {
+  h2 { font-size: 2.25rem; }
+}
+
+h3 { font-size: calc(1.3rem + 0.6vw); }
+
+@media (min-width: 1200px) {
+  h3 { font-size: 1.75rem; }
+}
+
+h4 { font-size: calc(1.275rem + 0.3vw); }
+
+@media (min-width: 1200px) {
+  h4 { font-size: 1.5rem; }
+}
+
+h5 { font-size: 1.25rem; }
+
+h6 { font-size: 1rem; }
+
+small { font-size: 0.875rem; }
+
+sub, sup { font-size: 0.75rem; }
+
+code, kbd, pre { font-size: 1em; }
+
+pre { font-size: 0.75em; }
+
+pre code { font-size: inherit; }
+
+code { font-size: 0.75em; }
+
+kbd { font-size: 0.875rem; border-radius: 0.25rem; }
+
+kbd kbd { font-size: 1em; }
+
+button, input, optgroup, select, textarea { font-size: inherit; }
+
+[type=3D"button"]:not(:disabled), [type=3D"reset"]:not(:disabled), [type=3D=
+"submit"]:not(:disabled), button:not(:disabled) { cursor: pointer; }
+
+legend { font-size: 1rem; }
+------MultipartBoundary--ADeft7S5ifuauBldyS7o1JZMVvW2ahoqR2WROf3jcA------
